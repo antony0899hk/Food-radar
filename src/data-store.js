@@ -1,0 +1,8 @@
+(() => {
+  const DB_NAME='cego-food-radar'; const DB_VERSION=1; const STORE='records'; const META='meta';
+  function open(){return new Promise((resolve,reject)=>{const r=indexedDB.open(DB_NAME,DB_VERSION);r.onupgradeneeded=()=>{const db=r.result;if(!db.objectStoreNames.contains(STORE)){const s=db.createObjectStore(STORE,{keyPath:'id'});s.createIndex('kind','kind');s.createIndex('district','district');}if(!db.objectStoreNames.contains(META))db.createObjectStore(META,{keyPath:'key'});};r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);});}
+  async function replaceAll(items,meta={}){const db=await open();return new Promise((resolve,reject)=>{const tx=db.transaction([STORE,META],'readwrite'),s=tx.objectStore(STORE),m=tx.objectStore(META);s.clear();for(const x of items)s.put(x);m.put({key:'dataset',count:items.length,updatedAt:new Date().toISOString(),...meta});tx.oncomplete=()=>resolve(items.length);tx.onerror=()=>reject(tx.error);});}
+  async function all(){const db=await open();return new Promise((resolve,reject)=>{const r=db.transaction(STORE,'readonly').objectStore(STORE).getAll();r.onsuccess=()=>resolve(r.result||[]);r.onerror=()=>reject(r.error);});}
+  async function meta(){const db=await open();return new Promise((resolve,reject)=>{const r=db.transaction(META,'readonly').objectStore(META).get('dataset');r.onsuccess=()=>resolve(r.result||null);r.onerror=()=>reject(r.error);});}
+  window.CEGOStore={replaceAll,all,meta};
+})();
