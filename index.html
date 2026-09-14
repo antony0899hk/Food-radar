@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>C•E•GO Food Radar V1</title>
+  <link href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css" rel="stylesheet" />
+  <style>
+    :root{--bg:#f7f4ee;--card:#fff;--ink:#171717;--muted:#6f6f6f;--brand:#e65a2f;--line:#e9e4dc}
+    *{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC",sans-serif;background:var(--bg);color:var(--ink)}
+    .app{max-width:1100px;margin:auto;min-height:100vh}header{padding:18px 18px 8px}.brand{font-weight:900;letter-spacing:.5px;font-size:24px}.sub{color:var(--muted);font-size:13px;margin-top:4px}
+    .panel{margin:10px 14px;background:var(--card);border:1px solid var(--line);border-radius:22px;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,.05)}#map{height:360px}
+    .controls{padding:14px;display:grid;gap:12px}.row{display:flex;gap:8px;flex-wrap:wrap}button,.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:10px 14px;font-size:14px;color:var(--ink)}button{cursor:pointer}button.primary{background:var(--brand);color:#fff;border-color:var(--brand);font-weight:800}.chip.active{background:#171717;color:#fff;border-color:#171717}.status{font-size:13px;color:var(--muted)}
+    .section-title{display:flex;align-items:end;justify-content:space-between;padding:16px 16px 6px}.section-title h2{margin:0;font-size:20px}.section-title small{color:var(--muted)}.results{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:10px 14px 20px}.card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px;min-height:170px;position:relative}.rank{position:absolute;right:12px;top:12px;background:#171717;color:#fff;border-radius:999px;padding:4px 8px;font-size:12px}.name{font-size:18px;font-weight:900;padding-right:44px}.type{color:var(--muted);font-size:13px;margin-top:3px}.meta{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0}.pill{font-size:12px;background:#f4f2ed;padding:6px 8px;border-radius:999px}.why{font-size:13px;line-height:1.45;color:#454545}.source{font-size:11px;color:#999;margin-top:12px}.empty{padding:24px;color:var(--muted);text-align:center}.footer-note{padding:10px 18px 24px;font-size:12px;color:var(--muted);line-height:1.5}
+    @media(max-width:760px){#map{height:300px}.results{grid-template-columns:1fr}.panel{margin:8px}header{padding:14px 12px 6px}}
+  </style>
+</head>
+<body>
+<div class="app">
+  <header><div class="brand">C•E•GO Food Radar</div><div class="sub">附近食乜？｜V1 核心引擎 Prototype</div></header>
+  <div class="panel">
+    <div id="map"></div>
+    <div class="controls">
+      <div class="row"><button id="locateBtn" class="primary">📍 用我位置</button><button id="demoBtn">香港示範位置</button><span class="status" id="status">未定位</span></div>
+      <div><div class="status" style="margin-bottom:7px">步行範圍</div><div class="row" id="radiusGroup"><button class="chip" data-min="5">5 分鐘</button><button class="chip active" data-min="10">10 分鐘</button><button class="chip" data-min="15">15 分鐘</button></div></div>
+      <div><div class="status" style="margin-bottom:7px">預算</div><div class="row" id="budgetGroup"><button class="chip" data-budget="50">&lt;$50</button><button class="chip active" data-budget="100">$100 以下</button><button class="chip" data-budget="200">$200 以下</button><button class="chip" data-budget="9999">不限</button></div></div>
+      <div><div class="status" style="margin-bottom:7px">類型</div><div class="row" id="typeGroup"><button class="chip active" data-type="all">全部</button><button class="chip" data-type="茶餐廳">茶餐廳</button><button class="chip" data-type="小食">小食</button><button class="chip" data-type="咖啡">咖啡</button><button class="chip" data-type="麵包">麵包</button><button class="chip" data-type="熟食中心">熟食中心</button></div></div>
+      <div class="row"><label class="chip"><input id="openNow" type="checkbox" checked /> 而家營業</label><label class="chip"><input id="solo" type="checkbox" checked /> 一個人食</label><label class="chip"><input id="quick" type="checkbox" /> 想快食</label></div>
+    </div>
+  </div>
+  <div class="section-title"><h2>CEGO 幫你揀</h2><small id="countLabel">0 個結果</small></div>
+  <div id="results" class="results"></div>
+  <div class="footer-note">V1 目前用示範資料驗證 Nearby Core：GPS → 半徑 → 距離 → filter → ranking → 3–5 個結果。下一步可把示範 provider 換成 FEHD / CSDI，不改 UI 與核心排序邏輯；Google / OpenRice 暫不作核心依賴。</div>
+</div>
+<script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+<script>
+const state={user:{lat:22.3193,lng:114.1694},mins:10,budget:100,type:'all',openNow:true,solo:true,quick:false,markers:[]};
+const DEMO=[
+{id:1,name:'金記冰室',type:'茶餐廳',lat:22.3197,lng:114.1708,price:68,open:true,solo:true,quick:true,source:'示範資料'},
+{id:2,name:'街角魚蛋',type:'小食',lat:22.3179,lng:114.1686,price:38,open:true,solo:true,quick:true,source:'示範資料'},
+{id:3,name:'城中咖啡',type:'咖啡',lat:22.3209,lng:114.1679,price:82,open:true,solo:true,quick:false,source:'示範資料'},
+{id:4,name:'老字號麵包店',type:'麵包',lat:22.3218,lng:114.1721,price:42,open:true,solo:true,quick:true,source:'示範資料'},
+{id:5,name:'熟食市場檔 A',type:'熟食中心',lat:22.3166,lng:114.1718,price:74,open:true,solo:true,quick:false,source:'示範資料'},
+{id:6,name:'深夜飯堂',type:'茶餐廳',lat:22.3154,lng:114.1668,price:95,open:false,solo:true,quick:false,source:'示範資料'},
+{id:7,name:'人氣甜品',type:'小食',lat:22.3230,lng:114.1658,price:55,open:true,solo:false,quick:false,source:'示範資料'}];
+function distanceMeters(aLat,aLng,bLat,bLng){const R=6371000,toRad=x=>x*Math.PI/180;const p1=toRad(aLat),p2=toRad(bLat),dp=toRad(bLat-aLat),dl=toRad(bLng-aLng);const h=Math.sin(dp/2)**2+Math.cos(p1)*Math.cos(p2)*Math.sin(dl/2)**2;return 2*R*Math.asin(Math.sqrt(h))}
+function walkRadius(mins){return mins*75}
+const map=new maplibregl.Map({container:'map',style:'https://tiles.openfreemap.org/styles/liberty',center:[state.user.lng,state.user.lat],zoom:15});map.addControl(new maplibregl.NavigationControl({showCompass:false}),'top-right');
+let userMarker=new maplibregl.Marker({color:'#e65a2f'}).setLngLat([state.user.lng,state.user.lat]).addTo(map);
+function scorePlace(p,d){const radius=walkRadius(state.mins);let s=0;s+=Math.max(0,40*(1-d/radius));s+=p.open?20:0;s+=p.price<=state.budget?15:0;s+=(state.solo&&p.solo)?10:(!state.solo?5:0);s+=(state.quick&&p.quick)?10:(!state.quick?5:0);s+=5;return s}
+function explain(p,d){const bits=[];if(d<250)bits.push('距離近');if(p.price<=60)bits.push('價錢平');if(p.solo)bits.push('一個人方便');if(p.quick)bits.push('適合快食');if(p.type==='熟食中心')bits.push('選擇較多');return bits.slice(0,3).join('＋')||'符合目前條件'}
+function getResults(){const radius=walkRadius(state.mins);return DEMO.map(p=>{const d=distanceMeters(state.user.lat,state.user.lng,p.lat,p.lng);return {...p,d,score:scorePlace(p,d)}}).filter(p=>p.d<=radius).filter(p=>state.type==='all'||p.type===state.type).filter(p=>p.price<=state.budget).filter(p=>!state.openNow||p.open).filter(p=>!state.solo||p.solo).filter(p=>!state.quick||p.quick).sort((a,b)=>b.score-a.score||a.d-b.d).slice(0,5)}
+function render(){state.openNow=document.querySelector('#openNow').checked;state.solo=document.querySelector('#solo').checked;state.quick=document.querySelector('#quick').checked;const list=getResults();document.querySelector('#countLabel').textContent=`${list.length} 個結果`;document.querySelector('#results').innerHTML=list.length?list.map((p,i)=>`<article class="card"><div class="rank">#${i+1}</div><div class="name">${p.name}</div><div class="type">${p.type}</div><div class="meta"><span class="pill">🚶 約 ${Math.max(1,Math.round(p.d/75))} 分鐘</span><span class="pill">💰 約 $${p.price}</span><span class="pill">${p.open?'🟢 營業中':'🔴 已關門'}</span></div><div class="why">推薦原因：${explain(p,p.d)}</div><div class="source">${p.source}｜距離 ${Math.round(p.d)}m</div></article>`).join(''):`<div class="empty">暫時冇符合條件嘅選擇，試下放寬步行時間或者預算。</div>`;state.markers.forEach(m=>m.remove());state.markers=[];list.forEach((p,i)=>{const el=document.createElement('div');el.style.cssText='width:30px;height:30px;border-radius:50%;background:#171717;color:#fff;display:grid;place-items:center;font-weight:800;border:2px solid #fff;box-shadow:0 2px 10px rgba(0,0,0,.25)';el.textContent=i+1;state.markers.push(new maplibregl.Marker({element:el}).setLngLat([p.lng,p.lat]).setPopup(new maplibregl.Popup({offset:22}).setHTML(`<b>${p.name}</b><br>${p.type}｜約 $${p.price}`)).addTo(map))})}
+function setLocation(lat,lng,label='定位成功'){state.user={lat,lng};userMarker.setLngLat([lng,lat]);map.flyTo({center:[lng,lat],zoom:15});document.querySelector('#status').textContent=label;render()}
+document.querySelector('#locateBtn').addEventListener('click',()=>{if(!navigator.geolocation){document.querySelector('#status').textContent='瀏覽器不支援 GPS';return}document.querySelector('#status').textContent='正在定位…';navigator.geolocation.getCurrentPosition(p=>setLocation(p.coords.latitude,p.coords.longitude,'已用目前位置'),()=>document.querySelector('#status').textContent='未能定位，請檢查定位權限',{enableHighAccuracy:true,timeout:12000,maximumAge:30000})});
+document.querySelector('#demoBtn').addEventListener('click',()=>setLocation(22.3193,114.1694,'香港示範位置'));
+document.querySelectorAll('#radiusGroup .chip').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('#radiusGroup .chip').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.mins=Number(b.dataset.min);render()}));
+document.querySelectorAll('#budgetGroup .chip').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('#budgetGroup .chip').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.budget=Number(b.dataset.budget);render()}));
+document.querySelectorAll('#typeGroup .chip').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('#typeGroup .chip').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.type=b.dataset.type;render()}));['openNow','solo','quick'].forEach(id=>document.querySelector('#'+id).addEventListener('change',render));render();
+</script>
+</body>
+</html>
