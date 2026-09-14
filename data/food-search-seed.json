@@ -1,0 +1,7 @@
+[
+  {"id":"seed-1","name":"金記冰室","shopSign":"金記冰室","kind":"茶餐廳","district":"油尖旺","address":"香港九龍旺角示範地址","tags":["茶餐廳","一個人食","快食"],"open":true,"source":"search-seed"},
+  {"id":"seed-2","name":"街角魚蛋","shopSign":"街角魚蛋","kind":"小食","district":"油尖旺","address":"香港九龍旺角示範地址","tags":["小食","快食"],"open":true,"source":"search-seed"},
+  {"id":"seed-3","name":"城中咖啡","shopSign":"城中咖啡","kind":"咖啡","district":"油尖旺","address":"香港九龍旺角示範地址","tags":["咖啡","一個人食"],"open":true,"source":"search-seed"},
+  {"id":"seed-4","name":"老字號麵包店","shopSign":"老字號麵包店","kind":"麵包","district":"油尖旺","address":"香港九龍旺角示範地址","tags":["麵包","快食"],"open":true,"source":"search-seed"},
+  {"id":"seed-5","name":"熟食市場檔 A","shopSign":"熟食市場檔 A","kind":"熟食中心","district":"油尖旺","address":"香港九龍旺角示範地址","tags":["熟食中心","一個人食"],"open":true,"source":"search-seed"}
+]
