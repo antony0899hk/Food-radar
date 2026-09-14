@@ -1,0 +1,19 @@
+{
+  "updated": "2026-09-14",
+  "restaurantLicences": {
+    "name": "FEHD Restaurant Licences (Traditional Chinese)",
+    "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_Restaurants_TC.XML",
+    "updateFrequency": "daily 09:00 HKT",
+    "csdiDatasetId": "fehd_rcd_1630036390312_58893"
+  },
+  "otherFoodLicences": {
+    "name": "FEHD Food Licences except Restaurant Licences (Traditional Chinese)",
+    "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_OtherFood_TC.XML",
+    "updateFrequency": "daily 09:00 HKT"
+  },
+  "notes": [
+    "Official Hong Kong Government open data.",
+    "Raw licence data is not equivalent to a confirmed new opening.",
+    "Nearby coordinates should be enriched from CSDI before production ranking."
+  ]
+}
