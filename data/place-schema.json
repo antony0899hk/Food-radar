@@ -1,0 +1,36 @@
+{
+  "$schemaVersion": 1,
+  "description": "CEGO provider-agnostic place record. External sources enrich fields; CEGO keeps field-level provenance.",
+  "example": {
+    "id": "cego:hk:example",
+    "country": "HK",
+    "name": "店名未有提供",
+    "nameOriginal": null,
+    "lat": 22.3,
+    "lng": 114.17,
+    "address": "地址未有提供",
+    "category": "restaurant",
+    "venueId": null,
+    "hours": null,
+    "hoursSource": null,
+    "hoursVerifiedAt": null,
+    "operatingStatus": "unknown",
+    "sourceIds": {
+      "fehdLicence": null,
+      "osm": null,
+      "fsqOpen": null,
+      "googlePlaceId": null,
+      "tomtom": null
+    },
+    "fieldSources": {
+      "name": null,
+      "address": null,
+      "location": null,
+      "category": null,
+      "operatingStatus": null
+    },
+    "lastVerified": null,
+    "confidence": 0,
+    "cegoTested": false
+  }
+}
