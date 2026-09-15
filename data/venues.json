@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-15",
+  "venues": [],
+  "venueTypes": [
+    "mall",
+    "food_court",
+    "traditional_market",
+    "cooked_food_centre",
+    "night_market",
+    "transport_hub",
+    "24h_venue"
+  ],
+  "notes": [
+    "Venue hours are a fallback, never proof that an individual shop is open.",
+    "Night-market and late-night venues may use cross-midnight ranges such as 18:00-02:00.",
+    "Individual shop hours always override venue or food-court hours."
+  ]
+}
