@@ -1,0 +1,15 @@
+{
+  "fetchedAt": "2026-09-15T01:36:54.558Z",
+  "sources": {
+    "restaurants": {
+      "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_Restaurants_TC.XML",
+      "bytes": 4406405,
+      "sha256": "2bd5bb00b5b3d56aba6838338809772957aa9efd45e3f1e805dbb0711c665489"
+    },
+    "otherFood": {
+      "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_OtherFood_TC.XML",
+      "bytes": 4305906,
+      "sha256": "39bc2b3a63047096c3a19369d0d37b6730f4ee98d264aa218b934045ef9c9bad"
+    }
+  }
+}
