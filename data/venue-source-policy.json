@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "updated": "2026-09-15",
+  "principle": "Venue operating information should come from the venue owner or management company wherever available.",
+  "venueTypes": ["mall", "food_court", "traditional_market", "cooked_food_centre", "night_market", "transport_hub", "department_store"],
+  "sourcePriority": [
+    "management_company_official",
+    "venue_official",
+    "government_official",
+    "cego_verified",
+    "open_data",
+    "unknown"
+  ],
+  "fields": [
+    "venueId",
+    "name",
+    "type",
+    "country",
+    "timezone",
+    "address",
+    "latitude",
+    "longitude",
+    "hours",
+    "foodCourtHours",
+    "specialHours",
+    "lateNight",
+    "independentEntranceExceptions",
+    "officialSourceUrl",
+    "sourceType",
+    "lastVerified"
+  ],
+  "rules": [
+    "Shop-specific hours always override venue hours.",
+    "Food-court hours override general mall hours for food-court tenants.",
+    "Venue hours are fallback context and must not be labelled as confirmed shop hours.",
+    "Night-market and late-night venues may use cross-midnight schedules.",
+    "A closed venue may down-rank enclosed tenants, but independent-entrance exceptions remain eligible.",
+    "Do not guess missing hours. Display 未有提供 when neither shop nor venue hours are known.",
+    "Automated collection from an official website must respect that site's access and reuse terms; otherwise store the official source reference and verified factual venue schedule through an allowed workflow."
+  ]
+}
