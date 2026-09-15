@@ -1,19 +1,35 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "restaurantLicences": {
     "name": "FEHD Restaurant Licences (Traditional Chinese)",
     "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_Restaurants_TC.XML",
     "updateFrequency": "daily 09:00 HKT",
-    "csdiDatasetId": "fehd_rcd_1630036390312_58893"
+    "csdiDatasetId": "fehd_rcd_1630036390312_58893",
+    "role": "HK official licence backbone"
   },
   "otherFoodLicences": {
     "name": "FEHD Food Licences except Restaurant Licences (Traditional Chinese)",
     "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_OtherFood_TC.XML",
-    "updateFrequency": "daily 09:00 HKT"
+    "updateFrequency": "daily 09:00 HKT",
+    "role": "HK official food-licence supplement"
+  },
+  "openStreetMap": {
+    "name": "OpenStreetMap",
+    "role": "global open POI and opening-hours enrichment",
+    "storagePolicy": "store with applicable ODbL attribution"
+  },
+  "foursquareOpenPlaces": {
+    "name": "Foursquare Open Source Places",
+    "role": "global POI base layer",
+    "license": "Apache-2.0",
+    "storagePolicy": "persistent CEGO base with required licence and NOTICE attribution",
+    "fields": ["fsq_place_id","name","latitude","longitude","address","locality","region","postcode","country","date_refreshed","date_closed","fsq_category_ids","fsq_category_labels"],
+    "notes": "Open Source Places and paid/API rich attributes are separate data products."
   },
   "notes": [
-    "Official Hong Kong Government open data.",
-    "Raw licence data is not equivalent to a confirmed new opening.",
-    "Nearby coordinates should be enriched from CSDI before production ranking."
+    "CEGO keeps one normalized master schema with field-level provenance.",
+    "Missing data remains 未有提供; never guess and never delete a place only because hours are missing.",
+    "Venue hours are fallback context, not confirmation of individual shop opening hours.",
+    "Country providers add local sources without changing the shared Core schema."
   ]
 }
