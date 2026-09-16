@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T01:33:53.127Z",
+  "fetchedAt": "2026-09-16T12:58:30.939Z",
   "sources": {
     "restaurants": {
       "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_Restaurants_TC.XML",
@@ -11,5 +11,10 @@
       "bytes": 4306015,
       "sha256": "555cc699268a3d93d2d946fb705d9cf4a008d1bac4706dd69981cfb4867796c8"
     }
+  },
+  "parsed": {
+    "restaurants": 17259,
+    "restaurantsWithShopSign": 17259,
+    "otherFood": 16499
   }
 }
