@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-09-20</GENERATION_DATE>
+  <GENERATION_DATE>2026-09-21</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -20836,15 +20836,6 @@
       <ADR>新界元朗天水圍天華路33及39號天悅邨 T TOWN NORTH 地下NG09 &amp; NG10號鋪B部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-17</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2994806233</LICNO>
-      <SS>面包達人</SS>
-      <ADR>新界元朗壽富街33號好利洋樓地下J鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -65512,15 +65503,6 @@
       <ADR>九龍永明街1號恒昌工廠大廈3樓B室</ADR>
       <INFO>#J</INFO>
       <EXPDATE>2027-08-29</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>63</DIST>
-      <LICNO>2963804790</LICNO>
-      <SS>極品刺身</SS>
-      <ADR>九龍深水埗福華街176A地下</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -129983,15 +129965,6 @@
     <LP>
       <TYPE>FP</TYPE>
       <DIST>11</DIST>
-      <LICNO>3611803758</LICNO>
-      <SS>豆豆海鮮</SS>
-      <ADR>香港柴灣杏花邨杏花街市地下 25-26號街市檔</ADR>
-      <INFO>#R</INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>11</DIST>
       <LICNO>3611803776</LICNO>
       <SS>舌尖二十四戀西灣河店</SS>
       <ADR>香港西灣河成安街38-46號 成安大樓地下4號舖部分</ADR>
@@ -134191,15 +134164,6 @@
       <ADR>九龍長沙灣幸福邨幸福購物中心 107 號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-07-06</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>63</DIST>
-      <LICNO>3663297851</LICNO>
-      <SS>合利凍肉有限公司</SS>
-      <ADR>九龍元州街 265 - 271 號及 福榮街344 - 348 號昌發工廠大廈 2樓E舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
@@ -139150,15 +139114,6 @@
       <ADR>新界葵涌盛芳街15號運芳洋樓地下4號鋪</ADR>
       <INFO>#S</INFO>
       <EXPDATE>2027-03-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>91</DIST>
-      <LICNO>3691803309</LICNO>
-      <SS>港新園</SS>
-      <ADR>新界葵涌和宜合道112號成城大廈地下3號鋪前部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>

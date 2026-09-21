@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-09-20</GENERATION_DATE>
+  <GENERATION_DATE>2026-09-21</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -6546,15 +6546,6 @@
       <ADR>香港上環磅巷6號明發樓地下低層</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218814943</LICNO>
-      <SS>翟福記</SS>
-      <ADR>香港上環禧利街15號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -31030,15 +31021,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>95</DIST>
-      <LICNO>2295803146</LICNO>
-      <SS>大少燒味茶餐廳</SS>
-      <ADR>新界大埔廣福坊24號大明里29-39號金福樓地下B號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>95</DIST>
       <LICNO>2295803164</LICNO>
       <SS>發記腸粉粥品</SS>
       <ADR>新界大埔寶鄉街112號地下</ADR>
@@ -33033,15 +33015,6 @@
       <ADR>新界屯門蝴蝶廣場第二層R228B號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-27</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>93</DIST>
-      <LICNO>2293801067</LICNO>
-      <SS>龍宮餐廳小廚</SS>
-      <ADR>新界屯門龍門路45號富健花園商場地下50號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -38478,15 +38451,6 @@
       <ADR>九龍大角咀詩歌舞街83號 亮賢居3號鋪(地下)及4號鋪(地下及閣樓)</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-20</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>62</DIST>
-      <LICNO>2262807430</LICNO>
-      <SS>美味坊餐廳小菜</SS>
-      <ADR>九龍塘尾道207號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -67444,15 +67408,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261822449</LICNO>
-      <SS>Peek-A-Poke</SS>
-      <ADR>九龍尖沙咀彌敦道36-44號 重慶大厦地庫慶方S01B號舖</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261822458</LICNO>
       <SS>肉肉烏冬</SS>
       <ADR>九龍佐敦白加士街1,1A,3-11號康寧大廈地下C舖</ADR>
@@ -72120,15 +72075,6 @@
       <ADR>九龍荔枝角深盛路9號宇晴滙商場2樓30D號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>63</DIST>
-      <LICNO>2263803879</LICNO>
-      <SS>林洪記水產</SS>
-      <ADR>九龍深水埗汝州街285號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -78775,15 +78721,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>12</DIST>
-      <LICNO>2212805527</LICNO>
-      <SS>麒麟滙</SS>
-      <ADR>香港灣仔莊士敦道205-211號28樓</ADR>
-      <INFO>#B</INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
       <LICNO>2212805554</LICNO>
       <SS>香港仔南記粉麵</SS>
       <ADR>香港灣仔春園街1至11號春暉大廈地下2B及2C鋪</ADR>
@@ -80382,15 +80319,6 @@
       <ADR>香港銅鑼灣軒尼詩道499號永光商業大廈7樓</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>2212811641</LICNO>
-      <SS>炭火 dining 炎</SS>
-      <ADR>香港灣仔謝斐道392-402號維新大廈地下B及C舖(大部份)</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -137392,15 +137320,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>61</DIST>
-      <LICNO>3161807237</LICNO>
-      <SS>ROSE</SS>
-      <ADR>九龍尖沙咀金馬倫道42號華懋金馬倫中心9樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
       <LICNO>3161807246</LICNO>
       <SS>串點</SS>
       <ADR>九龍尖沙咀厚福街7A號地下E鋪</ADR>
@@ -144615,15 +144534,6 @@
       <ADR>香港銅鑼灣燈籠龍街18號V POINT地下5號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-25</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
-      <LICNO>3112808144</LICNO>
-      <SS>ROOM</SS>
-      <ADR>香港灣仔駱克道353號三湘大廈34樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
