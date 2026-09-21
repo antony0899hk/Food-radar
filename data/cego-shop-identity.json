@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "purpose": "CEGO-owned verified/enriched shop identity layer. Never infer missing fields.",
+  "records": [
+    {
+      "name": "新興車仔麵",
+      "address": "香港觀塘曉麗苑曉麗商場2樓209及209A號舖",
+      "mall": "曉麗商場",
+      "floor": "2",
+      "shops": [
+        "209",
+        "209A"
+      ],
+      "category": "restaurant",
+      "sourceType": "public_poi_verified",
+      "confidence": "high",
+      "verifiedOn": "2026-09-21"
+    },
+    {
+      "name": "聚興樓",
+      "address": "香港觀塘曉麗商場2樓212號舖",
+      "mall": "曉麗商場",
+      "floor": "2",
+      "shops": [
+        "212"
+      ],
+      "category": "restaurant",
+      "sourceType": "shop_official",
+      "confidence": "high",
+      "verifiedOn": "2026-09-21"
+    }
+  ]
+}
