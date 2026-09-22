@@ -100,6 +100,168 @@
       "hoursRole": "access_fallback",
       "hours": null,
       "confidence": "high"
+    },
+    {
+      "id": "hk-on-tat-shopping-centre",
+      "name": "安達商場",
+      "nameEn": "On Tat Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "觀塘",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 40,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/list-of-shopping-centres/details/on-tat/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-kai-chuen-shopping-centre",
+      "name": "啟鑽商場",
+      "nameEn": "Kai Chuen Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "黃大仙",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 74,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/list-of-shopping-centres/details/kai-chuen/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-fu-tip-shopping-centre",
+      "name": "富蝶商場",
+      "nameEn": "Fu Tip Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "大埔",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 31,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/shopping-centres-newly-opened/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-yip-wong-shopping-centre",
+      "name": "業旺商場",
+      "nameEn": "Yip Wong Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "屯門",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 12,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/shopping-centres-newly-opened/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-on-sau-shopping-centre",
+      "name": "安秀商場",
+      "nameEn": "On Sau Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "西貢",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 10,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/shopping-centres-newly-opened/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-on-ying-shopping-centre",
+      "name": "安盈商場",
+      "nameEn": "On Ying Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "西貢",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 17,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/shopping-centres-newly-opened/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-cheung-tung-chill-walk",
+      "name": "翔東@Chill Walk",
+      "nameEn": "Cheung Tung @ Chill Walk",
+      "type": "mall",
+      "country": "HK",
+      "district": "東涌",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 19,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/shopping-centres-newly-opened/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-wang-chi-shopping-centre",
+      "name": "宏緻商場",
+      "nameEn": "Wang Chi Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "九龍灣",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 14,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/shopping-centres-newly-opened/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "hk-yu-hing-chill-walk",
+      "name": "裕興商場@Chill Walk",
+      "nameEn": "Yu Hing Shopping Centre @ Chill Walk",
+      "type": "mall",
+      "country": "HK",
+      "district": "東涌",
+      "operator": "Hong Kong Housing Authority",
+      "shopCapacity": 8,
+      "hours": null,
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/shopping-centres-newly-opened/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "high"
     }
   ],
   "venueTypes": [
