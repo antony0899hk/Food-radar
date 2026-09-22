@@ -1,7 +1,51 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15",
-  "venues": [],
+  "updatedAt": "2026-09-22",
+  "venues": [
+    {
+      "id": "hk-hiu-lai-shopping-centre",
+      "name": "曉麗商場",
+      "nameEn": "Hiu Lai Shopping Centre",
+      "type": "mall",
+      "country": "HK",
+      "address": "九龍觀塘曉光街21號曉麗商場",
+      "hours": {
+        "mon": [
+          "06:00-24:00"
+        ],
+        "tue": [
+          "06:00-24:00"
+        ],
+        "wed": [
+          "06:00-24:00"
+        ],
+        "thu": [
+          "06:00-24:00"
+        ],
+        "fri": [
+          "06:00-24:00"
+        ],
+        "sat": [
+          "06:00-24:00"
+        ],
+        "sun": [
+          "06:00-24:00"
+        ]
+      },
+      "hoursRole": "access_fallback",
+      "source": {
+        "type": "mall_official_plus_public_poi",
+        "officialOperator": "領展資產管理有限公司",
+        "officialUrl": "https://www.linkreit.com/tc/business/properties/hiu-lai-shopping-centre/",
+        "verifiedOn": "2026-09-22"
+      },
+      "confidence": "medium",
+      "notes": [
+        "商場營業/可進入時間只作 fallback；不能代表個別食肆正在營業。",
+        "個別店舖官方營業時間一律覆蓋商場時間。"
+      ]
+    }
+  ],
   "venueTypes": [
     "mall",
     "food_court",
