@@ -44,6 +44,62 @@
         "商場營業/可進入時間只作 fallback；不能代表個別食肆正在營業。",
         "個別店舖官方營業時間一律覆蓋商場時間。"
       ]
+    },
+    {
+      "id": "hk-domain",
+      "name": "大本型",
+      "nameEn": "Domain",
+      "type": "mall",
+      "country": "HK",
+      "district": "觀塘",
+      "operator": "Hong Kong Housing Authority",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/list-of-shopping-centres/details/domain/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "hoursRole": "access_fallback",
+      "hours": null,
+      "confidence": "high"
+    },
+    {
+      "id": "hk-cheung-shan-commercial-centre",
+      "name": "象山商場",
+      "nameEn": "Cheung Shan Commercial Centre",
+      "type": "mall",
+      "country": "HK",
+      "district": "荃灣",
+      "operator": "Hong Kong Housing Authority",
+      "foodCapacity": {
+        "shops": 30,
+        "shopStalls": 28,
+        "cookedFoodStalls": 10
+      },
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/list-of-shopping-centres/details/cheung-shan/index.html",
+        "verifiedOn": "2026-09-22"
+      },
+      "hoursRole": "access_fallback",
+      "hours": null,
+      "confidence": "high"
+    },
+    {
+      "id": "hk-cheung-ching-commercial-complex",
+      "name": "長青商場",
+      "nameEn": "Cheung Ching Commercial Complex",
+      "type": "mall",
+      "country": "HK",
+      "district": "青衣",
+      "operator": "Hong Kong Housing Authority",
+      "source": {
+        "type": "government_official",
+        "url": "https://www.housingauthority.gov.hk/en/commercial-properties/shopping-centres/list-of-shopping-centres/details/cheung-ching/",
+        "verifiedOn": "2026-09-22"
+      },
+      "hoursRole": "access_fallback",
+      "hours": null,
+      "confidence": "high"
     }
   ],
   "venueTypes": [
@@ -59,5 +115,45 @@
     "Venue hours are a fallback, never proof that an individual shop is open.",
     "Night-market and late-night venues may use cross-midnight ranges such as 18:00-02:00.",
     "Individual shop hours always override venue or food-court hours."
+  ],
+  "sourceCatalog": [
+    {
+      "id": "hkha-major-shop-list",
+      "name": "房委會主要商場店舖名冊",
+      "type": "government_official",
+      "url": "https://www.housingauthority.gov.hk/en/common/pdf/commercial-properties/shopping-centres/details/shop_list_of_major_shopping_centres.pdf",
+      "fields": [
+        "mall",
+        "shopName",
+        "shopNo",
+        "telephone"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "hkha-shopping-centres",
+      "name": "房委會商場官方頁",
+      "type": "government_official",
+      "url": "https://www.housingauthority.gov.hk/tc/commercial-properties/shopping-centres/list-of-shopping-centres/index.html",
+      "fields": [
+        "mall",
+        "address",
+        "shopCount",
+        "trade"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "link-properties",
+      "name": "領展物業官方頁",
+      "type": "management_company_official",
+      "url": "https://www.linkreit.com/tc/business/properties/",
+      "fields": [
+        "mall",
+        "address",
+        "operator"
+      ],
+      "priority": 1
+    }
   ]
 }
