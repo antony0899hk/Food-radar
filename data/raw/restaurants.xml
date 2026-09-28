@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-09-27</GENERATION_DATE>
+  <GENERATION_DATE>2026-09-28</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -78424,15 +78424,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>12</DIST>
-      <LICNO>2212803734</LICNO>
-      <SS>AKOYA</SS>
-      <ADR>香港銅鑼灣軒尼詩道525號澳門逸園中心8樓</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
       <LICNO>2212803804</LICNO>
       <SS>大自然素食</SS>
       <ADR>香港銅鑼灣軒尼詩道502號黃金廣場8樓</ADR>
@@ -125485,15 +125476,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>15</DIST>
-      <LICNO>3115801117</LICNO>
-      <SS>CAFE PESCI</SS>
-      <ADR>香港鴨脷洲鴨脷洲大街132號地下F舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>15</DIST>
       <LICNO>3115801126</LICNO>
       <SS>大囍麵家</SS>
       <ADR>香港鴨脷洲鴨脷洲大街62-76號倚南地下 10號舖(主要部份)及11號舖(主要部份)</ADR>
@@ -136420,15 +136402,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>61</DIST>
-      <LICNO>3161803101</LICNO>
-      <SS>成興魚蛋粉</SS>
-      <ADR>佐敦德成街1A及柯士甸道105號百安大廈 百安大廈地下E17舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
       <LICNO>3161803129</LICNO>
       <SS>沒有記錄</SS>
       <ADR>九龍油麻地長樂街22號地舖</ADR>
@@ -144916,15 +144889,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>12</DIST>
-      <LICNO>3112808445</LICNO>
-      <SS>皇冠(呂宋芒)專門店</SS>
-      <ADR>香港銅鑼灣耀華街31號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
       <LICNO>3112808454</LICNO>
       <SS>LINLEE</SS>
       <ADR>香港灣仔灣仔道177-179號保和大廈地下G鋪</ADR>
@@ -147063,15 +147027,6 @@
       <ADR>新界荃灣海濱花園平台B地下120C舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-03-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>92</DIST>
-      <LICNO>3192000692</LICNO>
-      <SS>果子甜品</SS>
-      <ADR>新界荃灣荃貴街10A號富麗花園商場 A座地下13B及15號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -152346,15 +152301,6 @@
       <ADR>九龍牛頭角牛頭角道77號 淘大花園一期淘大商場地下G12-15號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>51</DIST>
-      <LICNO>3151803199</LICNO>
-      <SS>一日一咖啡</SS>
-      <ADR>九龍觀塘協和街33號裕民坊3樓307舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>

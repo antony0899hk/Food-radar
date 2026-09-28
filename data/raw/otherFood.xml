@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-09-27</GENERATION_DATE>
+  <GENERATION_DATE>2026-09-28</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -4537,15 +4537,6 @@
       <ADR>九龍馬頭圍道21號 義達工業大厦C座3號舖地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-03-31</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FE</TYPE>
-      <DIST>52</DIST>
-      <LICNO>2552184612</LICNO>
-      <SS>皇子</SS>
-      <ADR>九龍紅磡民樂街21號地下B座6號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>FE</TYPE>
@@ -10207,15 +10198,6 @@
       <ADR>香港西區西區副食品批發巿場 1樓及部份1樓閣樓D7及D8檔</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2918805739</LICNO>
-      <SS>沒有記錄</SS>
-      <ADR>香港域多利道64號 廣基工廠大廈5樓B室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -102246,7 +102228,7 @@
       <TYPE>FF</TYPE>
       <DIST>51</DIST>
       <LICNO>2951816921</LICNO>
-      <SS>CRESCENT LAB</SS>
+      <SS>CRESCENT LAB  LILAC CREME</SS>
       <ADR>九龍觀塘觀塘道472-484號觀塘工業中心第一期 10樓J室J8部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-05-24</EXPDATE>
@@ -102444,7 +102426,7 @@
       <TYPE>FF</TYPE>
       <DIST>51</DIST>
       <LICNO>2951817207</LICNO>
-      <SS>素味謀麵</SS>
+      <SS>食佳鮮美食</SS>
       <ADR>九龍觀塘觀塘道436-446號觀塘工業中心第四期 10樓K室K5部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-06</EXPDATE>
@@ -127720,15 +127702,6 @@
       <ADR>九龍亞皆老街8號朗豪坊地庫二層8號舖 (D部份)</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>62</DIST>
-      <LICNO>3662801347</LICNO>
-      <SS>本地麵包豬(六仔)</SS>
-      <ADR>九龍旺角亞皆老街11號啟運大廈地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-09-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
