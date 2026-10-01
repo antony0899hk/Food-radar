@@ -1,20 +1,20 @@
 {
-  "fetchedAt": "2026-09-30T06:54:38.312Z",
+  "fetchedAt": "2026-10-01T07:19:30.974Z",
   "sources": {
     "restaurants": {
       "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_Restaurants_TC.XML",
-      "bytes": 4415912,
-      "sha256": "1829edf8c6a6ef143074ae08e34cc15caf4617c9013d1ab8566bc0f55d44c898"
+      "bytes": 4414933,
+      "sha256": "afd285df353777818a3cefa4179e4b2eaf37b9e8b025410b027e2b0bccb976f3"
     },
     "otherFood": {
       "url": "https://www.fehd.gov.hk/tc_chi/licensing/license/text/LP_OtherFood_TC.XML",
-      "bytes": 4299545,
-      "sha256": "fc8ab33afae78195c6be72e7db8158bf12257cbe7e4f7f168f2e5d64c8ba8cad"
+      "bytes": 4300993,
+      "sha256": "9b7f725dc2eb44ac988fccd6220b846f4d1faca27fdfab2c8d95cf9f775445f0"
     }
   },
   "parsed": {
-    "restaurants": 17292,
-    "restaurantsWithShopSign": 17292,
-    "otherFood": 16473
+    "restaurants": 17288,
+    "restaurantsWithShopSign": 17288,
+    "otherFood": 16478
   }
 }
