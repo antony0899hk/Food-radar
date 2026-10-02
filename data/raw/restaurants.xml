@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-01</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-02</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -43315,15 +43315,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>62</DIST>
-      <LICNO>2262817307</LICNO>
-      <SS>哥登堡餐廳</SS>
-      <ADR>九龍旺角彌敦道594-596號 旺角新城地庫,地下及1樓主要部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>62</DIST>
       <LICNO>2262817316</LICNO>
       <SS>來發火鍋小館</SS>
       <ADR>九龍旺角大南街14-16號大智樓地下A舖及B舖</ADR>
@@ -45255,15 +45246,6 @@
       <ADR>香港北角 七姊妹道194號 健康村第1期地下C鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-04-27</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>11</DIST>
-      <LICNO>2211139595</LICNO>
-      <SS>魚你相聚酸菜魚</SS>
-      <ADR>香港柴灣 小西灣道18號 富景花園商場 地下49及50號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -64582,15 +64564,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261817416</LICNO>
-      <SS>元朗冰室</SS>
-      <ADR>九龍尖沙咀金馬倫道48號中國保險大廈地下A2舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261817461</LICNO>
       <SS>雞味濃</SS>
       <ADR>九龍上海街378A號得如樓地下</ADR>
@@ -68178,15 +68151,6 @@
       <ADR>九龍尖沙咀彌敦道36-44號重慶大廈地庫慶方S26舖</ADR>
       <INFO>#G</INFO>
       <EXPDATE>2027-09-25</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
-      <LICNO>2261823460</LICNO>
-      <SS>Gyu Lab</SS>
-      <ADR>九龍尖沙咀赫德道1及3號利威商業大廈地下7號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -82686,15 +82650,6 @@
       <ADR>香港灣仔港灣徑1號香港瑞吉酒店七樓(A部份)</ADR>
       <INFO>#E#F#G#H</INFO>
       <EXPDATE>2027-09-22</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>2212817339</LICNO>
-      <SS>船渦</SS>
-      <ADR>香港銅鑼灣謝斐道500號維安商業大廈3樓</ADR>
-      <INFO>#G</INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -109978,15 +109933,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>17</DIST>
-      <LICNO>2217803960</LICNO>
-      <SS>Cafe 28</SS>
-      <ADR>香港南丫島榕樹灣 榕樹灣大街28號地下主要部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>17</DIST>
       <LICNO>2217803979</LICNO>
       <SS>The Sunset Bay</SS>
       <ADR>香港大嶼山愉景灣愉景廣場A座 地下G04鋪及1樓103鋪</ADR>
@@ -115329,15 +115275,6 @@
       <ADR>香港上環四方街24號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-19</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
-      <LICNO>3118806557</LICNO>
-      <SS>Brewed</SS>
-      <ADR>香港中環禧利街27號富輝商業中心地下E號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -139417,15 +139354,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>61</DIST>
-      <LICNO>3161810875</LICNO>
-      <SS>回味餃子豬牛鵝麵館</SS>
-      <ADR>九龍尖沙咀亞士厘道16號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
       <LICNO>3161810884</LICNO>
       <SS>肥仔記麵家</SS>
       <ADR>九龍加連威老道98號東海商業中心地下G1 &amp; G2號鋪</ADR>
@@ -149065,15 +148993,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>91</DIST>
-      <LICNO>3191800679</LICNO>
-      <SS>川味美食</SS>
-      <ADR>新界葵涌禮芳街1號及盛芳街38-44號寬德大廈地下2號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>91</DIST>
       <LICNO>3191800697</LICNO>
       <SS>呢度</SS>
       <ADR>新界葵涌屏麗徑7號葵豐樓地下A鋪</ADR>
@@ -149349,15 +149268,6 @@
       <ADR>新界青衣担杆山路6號長發邨長發廣場3樓304及311鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-06-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>91</DIST>
-      <LICNO>3191801292</LICNO>
-      <SS>裕一品</SS>
-      <ADR>新界葵涌和宜合道186-218號 誼發大廈地下15號及27號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>

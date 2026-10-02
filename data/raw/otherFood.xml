@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-01</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-02</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -1333,15 +1333,6 @@
       <ADR>九龍旺角彌敦道688號旺角中心1期地下 G01-03及G05-09舖次要部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FB</TYPE>
-      <DIST>62</DIST>
-      <LICNO>2162800447</LICNO>
-      <SS>哥登堡餐廳</SS>
-      <ADR>九龍旺角彌敦道594-596號旺角新城地庫,地下 及1樓次要部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FB</TYPE>
@@ -35510,15 +35501,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>93</DIST>
-      <LICNO>2993805084</LICNO>
-      <SS>(沒有記錄)</SS>
-      <ADR>新界屯門新安街1號 憶兆工業大廈15樓C室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>93</DIST>
       <LICNO>2993805118</LICNO>
       <SS>(no record found)</SS>
       <ADR>新界屯門建發街17號同德工業大廈1樓A單位</ADR>
@@ -59882,15 +59864,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>61</DIST>
-      <LICNO>2961800378</LICNO>
-      <SS>TURKISH KEBAB &amp; INDIAN</SS>
-      <ADR>九龍尖沙咀彌敦道36-44號重慶大廈購物商場地下47號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>61</DIST>
       <LICNO>2961800396</LICNO>
       <SS>輝記車仔麵</SS>
       <ADR>九龍油麻地鴉打街33號鴉打商業中心A舖地下</ADR>
@@ -64801,15 +64774,6 @@
       <ADR>九龍深水埗桂林街141-143號玉成樓地下C1舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-18</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>63</DIST>
-      <LICNO>2963802934</LICNO>
-      <SS>臻茶</SS>
-      <ADR>九龍深水埗福華街153-155號地下E舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -87665,15 +87629,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>91</DIST>
-      <LICNO>2991812587</LICNO>
-      <SS>85度C</SS>
-      <ADR>新界葵涌昌榮路9-11號同珍工業大廈1期(A座) 15樓A室B部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
       <LICNO>2991812596</LICNO>
       <SS>生命</SS>
       <ADR>新界葵涌華星街8號華達工業中心A座9樓1室</ADR>
@@ -91261,15 +91216,6 @@
       <ADR>新界西貢親民街18/32號錦華樓地下及閣樓D號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-18</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>98</DIST>
-      <LICNO>2998801175</LICNO>
-      <SS>聖安娜餅屋</SS>
-      <ADR>新界西貢將軍澳翠林邨翠林商場第2期5樓107號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -102970,15 +102916,6 @@
       <ADR>九龍九龍灣臨興街32號美羅中心一期8樓02室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-29</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
-      <LICNO>2951818291</LICNO>
-      <SS>女鍋</SS>
-      <ADR>九龍觀塘成業街16號怡生工業中心H座1樓H11室</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -119579,24 +119516,6 @@
     <LP>
       <TYPE>FP</TYPE>
       <DIST>52</DIST>
-      <LICNO>3652803100</LICNO>
-      <SS>致旺海鮮</SS>
-      <ADR>九龍何文田佛光街80號何文田廣場街市地下S47號檔位</ADR>
-      <INFO>#R#S</INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>52</DIST>
-      <LICNO>3652803119</LICNO>
-      <SS>致旺鮮魚</SS>
-      <ADR>九龍何文田佛光街80號何文田廣場街市地下S24號檔位</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>52</DIST>
       <LICNO>3652803128</LICNO>
       <SS>牛歡喜火鍋食材專門店</SS>
       <ADR>九龍九龍城侯王道45號地下B舖</ADR>
@@ -129322,15 +129241,6 @@
       <ADR>香港鰂魚涌英皇道997號 惠利大廈地下M號鋪</ADR>
       <INFO>#R#S</INFO>
       <EXPDATE>2027-09-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>11</DIST>
-      <LICNO>3611803314</LICNO>
-      <SS>好好鮮生</SS>
-      <ADR>香港北角糖水道7A &amp; 7B號 春秧街93-101, 105-113號 仁德大廈地下F號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
@@ -139294,15 +139204,6 @@
       <ADR>新界西貢將軍澳常寧道厚德邨TKO街市(商業/停車場大樓之構 成部份)地下118號街市檔位</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>98</DIST>
-      <LICNO>3698801773</LICNO>
-      <SS>T.C. Food Services</SS>
-      <ADR>新界西貢 將軍澳 坑口村31區地下10B號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
