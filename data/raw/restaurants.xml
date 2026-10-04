@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-03</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-04</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -7014,15 +7014,6 @@
       <ADR>香港上環蘇杭街136號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-03</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218815724</LICNO>
-      <SS>BROOKLYN BAR AND GRILL</SS>
-      <ADR>香港石塘咀南里1號南里壹号地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -17850,15 +17841,6 @@
       <ADR>新界元朗壽富街29號 興隆中心地下17號舖(主要部份)</ADR>
       <INFO></INFO>
       <EXPDATE>2026-12-26</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2294002490</LICNO>
-      <SS>小草源茶餐廳</SS>
-      <ADR>新界元朗建業街聯發樓4號鋪</ADR>
-      <INFO>#F#G</INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -62485,15 +62467,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261812651</LICNO>
-      <SS>灜鐵板燒日本料理</SS>
-      <ADR>九龍尖沙咀海防道38-40號中達大廈7樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261812688</LICNO>
       <SS>鐵牛台灣牛肉麵</SS>
       <ADR>九龍尖沙咀加連威老道96號希爾頓大廈低層地下2B舖</ADR>
@@ -96937,15 +96910,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>98</DIST>
-      <LICNO>2298001015</LICNO>
-      <SS>Big Smile Restaurant</SS>
-      <ADR>新界西貢 宜春街20號地下及閣樓</ADR>
-      <INFO>#F</INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>98</DIST>
       <LICNO>2298001097</LICNO>
       <SS>西貢茶記</SS>
       <ADR>新界西貢 萬年街32號地下及閣樓</ADR>
@@ -117187,15 +117151,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3118810435</LICNO>
-      <SS>HOUSE of NOIR</SS>
-      <ADR>香港中環閣麟街48號 FOCO 25樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3118810453</LICNO>
       <SS>NEXT SHIKAKU</SS>
       <ADR>香港中環歌賦街11號 地下及閣樓</ADR>
@@ -126385,15 +126340,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>95</DIST>
-      <LICNO>3195801564</LICNO>
-      <SS>豐記粉麵</SS>
-      <ADR>新界大埔廣福邨廣仁樓地下S13號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>95</DIST>
       <LICNO>3195801582</LICNO>
       <SS>HERE</SS>
       <ADR>新界大埔大埔太和路15號太和中心地下21號鋪</ADR>
@@ -132222,15 +132168,6 @@
       <ADR>香港筲箕灣道72號千禧閣地下A鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-26</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>11</DIST>
-      <LICNO>3111800684</LICNO>
-      <SS>一線軒</SS>
-      <ADR>香港鰂魚涌海灣街4-6號嘉榮大廈地下15號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>

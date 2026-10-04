@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-03</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-04</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -29017,15 +29017,6 @@
       <ADR>香港黃竹坑道56-60號 怡華工業大廈2樓A號鋪B單位</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>15</DIST>
-      <LICNO>2915805066</LICNO>
-      <SS>%ARABICA</SS>
-      <ADR>香港淺水灣海灘道28號 THE PULSE 2樓205鋪主部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -86036,15 +86027,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>91</DIST>
-      <LICNO>2991809994</LICNO>
-      <SS>沒有記錄</SS>
-      <ADR>新界葵涌大連排道144-150號金豐工業大廈一座3樓J室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
       <LICNO>2991810004</LICNO>
       <SS>譽滿屋</SS>
       <ADR>新界青衣長達路14-20號偉力工業大廈 A座4樓16,17及18室</ADR>
@@ -100094,15 +100076,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>51</DIST>
-      <LICNO>2951813913</LICNO>
-      <SS>雞翼山</SS>
-      <ADR>九龍觀塘協和街33號凱滙裕民坊地下G3號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
       <LICNO>2951813931</LICNO>
       <SS>豆腐主義</SS>
       <ADR>九龍觀塘瑞和街34號南安大樓地下H舖</ADR>
@@ -113270,15 +113243,6 @@
     <LP>
       <TYPE>FG</TYPE>
       <DIST>15</DIST>
-      <LICNO>3215800434</LICNO>
-      <SS>% ARABICA</SS>
-      <ADR>香港淺水灣海灘道28號 THE PULSE2樓205鋪小部分</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FG</TYPE>
-      <DIST>15</DIST>
       <LICNO>3215800443</LICNO>
       <SS>7-Eleven</SS>
       <ADR>香港鴨利洲利東村道5號利東村利東商場二期 地下205號舖A部分</ADR>
@@ -125488,33 +125452,6 @@
       <ADR>新界屯門湖翠路一號蝴蝶邨 商業綜合大樓(又稱蝴蝶廣場)地下(又稱L1) 街市M141號檔位</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>93</DIST>
-      <LICNO>3693801839</LICNO>
-      <SS>一豚和味專門店</SS>
-      <ADR>新界屯門湖翠路一號蝴蝶邨商業綜合大樓 (又稱蝴蝶廣場)街市地下(又稱L1)M140號檔</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>93</DIST>
-      <LICNO>3693801848</LICNO>
-      <SS>良意鮮肉</SS>
-      <ADR>新界屯門湖翠路一號蝴蝶邨商業綜合大樓 (又稱蝴蝶廣場)街市地下(又稱L1)M211號檔</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>93</DIST>
-      <LICNO>3693801857</LICNO>
-      <SS>新鮮肉食店</SS>
-      <ADR>新界屯門湖翠路一號蝴蝶邨商業綜合大樓 (又稱蝴蝶廣場)街市地下(又稱L1)M117號檔</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-04</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>

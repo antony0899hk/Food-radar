@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:40:50.870Z",
+  "generatedAt": "2026-10-04T07:03:34.298Z",
   "source": "FEHD official XML",
   "restaurants": [
     {
@@ -6201,14 +6201,6 @@
       "addressKey": "香港上環蘇杭街136號G",
       "type": "RL",
       "expiry": "2027-10-03"
-    },
-    {
-      "licno": "2218815724",
-      "shopSign": "BROOKLYN BAR AND GRILL",
-      "address": "香港石塘咀南里1號南里壹号地下",
-      "addressKey": "香港石塘咀南里1號南里壹号G",
-      "type": "RL",
-      "expiry": "2026-10-04"
     },
     {
       "licno": "2218815733",
@@ -15833,14 +15825,6 @@
       "addressKey": "新界元朗壽富街29號興隆中心G17號舖主要部份",
       "type": "RL",
       "expiry": "2026-12-26"
-    },
-    {
-      "licno": "2294002490",
-      "shopSign": "小草源茶餐廳",
-      "address": "新界元朗建業街聯發樓4號鋪",
-      "addressKey": "新界元朗建業街聯發樓4號鋪",
-      "type": "RL",
-      "expiry": "2026-10-04"
     },
     {
       "licno": "2294002588",
@@ -55507,14 +55491,6 @@
       "expiry": "2027-09-01"
     },
     {
-      "licno": "2261812651",
-      "shopSign": "灜鐵板燒日本料理",
-      "address": "九龍尖沙咀海防道38-40號中達大廈7樓",
-      "addressKey": "九龍尖沙咀海防道3840號中達大廈7樓",
-      "type": "RL",
-      "expiry": "2026-10-04"
-    },
-    {
       "licno": "2261812688",
       "shopSign": "鐵牛台灣牛肉麵",
       "address": "九龍尖沙咀加連威老道96號希爾頓大廈低層地下2B舖",
@@ -86131,14 +86107,6 @@
       "expiry": "2026-10-10"
     },
     {
-      "licno": "2298001015",
-      "shopSign": "Big Smile Restaurant",
-      "address": "新界西貢 宜春街20號地下及閣樓",
-      "addressKey": "新界西貢宜春街20號G及閣樓",
-      "type": "RL",
-      "expiry": "2026-10-04"
-    },
-    {
       "licno": "2298001097",
       "shopSign": "西貢茶記",
       "address": "新界西貢 萬年街32號地下及閣樓",
@@ -104131,14 +104099,6 @@
       "expiry": "2027-09-25"
     },
     {
-      "licno": "3118810435",
-      "shopSign": "HOUSE of NOIR",
-      "address": "香港中環閣麟街48號 FOCO 25樓",
-      "addressKey": "香港中環閣麟街48號FOCO25樓",
-      "type": "RR",
-      "expiry": "2026-10-04"
-    },
-    {
       "licno": "3118810453",
       "shopSign": "NEXT SHIKAKU",
       "address": "香港中環歌賦街11號 地下及閣樓",
@@ -112307,14 +112267,6 @@
       "expiry": "2027-08-14"
     },
     {
-      "licno": "3195801564",
-      "shopSign": "豐記粉麵",
-      "address": "新界大埔廣福邨廣仁樓地下S13號鋪",
-      "addressKey": "新界大埔廣福邨廣仁樓GS13號鋪",
-      "type": "RR",
-      "expiry": "2026-10-04"
-    },
-    {
       "licno": "3195801582",
       "shopSign": "HERE",
       "address": "新界大埔大埔太和路15號太和中心地下21號鋪",
@@ -117497,14 +117449,6 @@
       "addressKey": "香港筲箕灣道72號千禧閣GA鋪",
       "type": "RR",
       "expiry": "2027-08-26"
-    },
-    {
-      "licno": "3111800684",
-      "shopSign": "一線軒",
-      "address": "香港鰂魚涌海灣街4-6號嘉榮大廈地下15號鋪",
-      "addressKey": "香港鰂魚涌海灣街46號嘉榮大廈G15號鋪",
-      "type": "RR",
-      "expiry": "2026-10-04"
     },
     {
       "licno": "3111800754",
@@ -164428,14 +164372,6 @@
       "type": "RL",
       "expiry": "2027-10-03"
     },
-    "2218815724": {
-      "licno": "2218815724",
-      "shopSign": "BROOKLYN BAR AND GRILL",
-      "address": "香港石塘咀南里1號南里壹号地下",
-      "addressKey": "香港石塘咀南里1號南里壹号G",
-      "type": "RL",
-      "expiry": "2026-10-04"
-    },
     "2218815733": {
       "licno": "2218815733",
       "shopSign": "福和雍",
@@ -185955,14 +185891,6 @@
       "addressKey": "九龍佐敦文匯街30號文景樓G地鋪",
       "type": "RL",
       "expiry": "2027-09-01"
-    },
-    "2261812651": {
-      "licno": "2261812651",
-      "shopSign": "灜鐵板燒日本料理",
-      "address": "九龍尖沙咀海防道38-40號中達大廈7樓",
-      "addressKey": "九龍尖沙咀海防道3840號中達大廈7樓",
-      "type": "RL",
-      "expiry": "2026-10-04"
     },
     "2261812688": {
       "licno": "2261812688",
@@ -217020,14 +216948,6 @@
       "type": "RL",
       "expiry": "2026-12-26"
     },
-    "2294002490": {
-      "licno": "2294002490",
-      "shopSign": "小草源茶餐廳",
-      "address": "新界元朗建業街聯發樓4號鋪",
-      "addressKey": "新界元朗建業街聯發樓4號鋪",
-      "type": "RL",
-      "expiry": "2026-10-04"
-    },
     "2294002588": {
       "licno": "2294002588",
       "shopSign": "星月酒家",
@@ -233140,14 +233060,6 @@
       "type": "RL",
       "expiry": "2026-10-10"
     },
-    "2298001015": {
-      "licno": "2298001015",
-      "shopSign": "Big Smile Restaurant",
-      "address": "新界西貢 宜春街20號地下及閣樓",
-      "addressKey": "新界西貢宜春街20號G及閣樓",
-      "type": "RL",
-      "expiry": "2026-10-04"
-    },
     "2298001097": {
       "licno": "2298001097",
       "shopSign": "西貢茶記",
@@ -236787,14 +236699,6 @@
       "addressKey": "香港筲箕灣道72號千禧閣GA鋪",
       "type": "RR",
       "expiry": "2027-08-26"
-    },
-    "3111800684": {
-      "licno": "3111800684",
-      "shopSign": "一線軒",
-      "address": "香港鰂魚涌海灣街4-6號嘉榮大廈地下15號鋪",
-      "addressKey": "香港鰂魚涌海灣街46號嘉榮大廈G15號鋪",
-      "type": "RR",
-      "expiry": "2026-10-04"
     },
     "3111800754": {
       "licno": "3111800754",
@@ -246883,14 +246787,6 @@
       "addressKey": "香港西營盤薄扶林道29C29D號GB鋪",
       "type": "RR",
       "expiry": "2027-09-25"
-    },
-    "3118810435": {
-      "licno": "3118810435",
-      "shopSign": "HOUSE of NOIR",
-      "address": "香港中環閣麟街48號 FOCO 25樓",
-      "addressKey": "香港中環閣麟街48號FOCO25樓",
-      "type": "RR",
-      "expiry": "2026-10-04"
     },
     "3118810453": {
       "licno": "3118810453",
@@ -268372,14 +268268,6 @@
       "type": "RR",
       "expiry": "2027-08-14"
     },
-    "3195801564": {
-      "licno": "3195801564",
-      "shopSign": "豐記粉麵",
-      "address": "新界大埔廣福邨廣仁樓地下S13號鋪",
-      "addressKey": "新界大埔廣福邨廣仁樓GS13號鋪",
-      "type": "RR",
-      "expiry": "2026-10-04"
-    },
     "3195801582": {
       "licno": "3195801582",
       "shopSign": "HERE",
@@ -276598,8 +276486,8 @@
     }
   },
   "stats": {
-    "restaurants": 17287,
-    "restaurantsWithShopSign": 17287,
-    "otherFood": 16477
+    "restaurants": 17280,
+    "restaurantsWithShopSign": 17280,
+    "otherFood": 16470
   }
 }
