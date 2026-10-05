@@ -28,6 +28,71 @@
       "sourceType": "shop_official",
       "confidence": "high",
       "verifiedOn": "2026-09-21"
+    },
+    {
+      "name": "八月花",
+      "address": "香港新界荃灣楊屋道1號荃新天地1樓107號舖",
+      "mall": "荃新天地",
+      "floor": "1",
+      "shops": [
+        "107"
+      ],
+      "category": "restaurant",
+      "sourceType": "government_public_record",
+      "confidence": "high",
+      "verifiedOn": "2026-10-05"
+    },
+    {
+      "name": "大戶屋",
+      "address": "香港新界荃灣楊屋道1號荃新天地1樓118號舖",
+      "mall": "荃新天地",
+      "floor": "1",
+      "shops": [
+        "118"
+      ],
+      "category": "restaurant",
+      "hours": {
+        "mon": [
+          "11:30-21:00"
+        ],
+        "tue": [
+          "11:30-21:00"
+        ],
+        "wed": [
+          "11:30-21:00"
+        ],
+        "thu": [
+          "11:30-21:00"
+        ],
+        "fri": [
+          "11:30-21:00"
+        ],
+        "sat": [
+          "11:30-21:00"
+        ],
+        "sun": [
+          "11:30-21:00"
+        ]
+      },
+      "sourceType": "public_poi_hours",
+      "confidence": "medium",
+      "verifiedOn": "2026-10-05"
+    },
+    {
+      "name": "一橋拉麵",
+      "address": "香港新界荃灣楊屋道1號荃新天地一期地下G60,G62及G79號舖",
+      "mall": "荃新天地",
+      "floor": "G",
+      "shops": [
+        "G60",
+        "G62",
+        "G79"
+      ],
+      "category": "restaurant",
+      "phone": "26191698",
+      "sourceType": "brand_official",
+      "confidence": "high",
+      "verifiedOn": "2026-10-05"
     }
   ]
 }
