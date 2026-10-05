@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-04</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-05</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -2253,15 +2253,6 @@
       <ADR>香港中環鐵行里12號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-29</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218804155</LICNO>
-      <SS>大叻越南牛肉粉餐廳</SS>
-      <ADR>香港金鐘夏愨道16號遠東金融中心地下C2號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -30445,15 +30436,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>95</DIST>
-      <LICNO>2295802064</LICNO>
-      <SS>越南屋</SS>
-      <ADR>大埔南盛街1號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>95</DIST>
       <LICNO>2295802073</LICNO>
       <SS>西西里餐廳</SS>
       <ADR>新界大埔汀角路11-13號啓昌樓地下13鋪</ADR>
@@ -47329,24 +47311,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>11</DIST>
-      <LICNO>2211806152</LICNO>
-      <SS>重口味</SS>
-      <ADR>香港筲箕灣筲箕灣東大街132-136 號好景樓 地下2號舖及閣樓2號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>11</DIST>
-      <LICNO>2211806161</LICNO>
-      <SS>滾得囍</SS>
-      <ADR>香港北角馬寶道33號寶馬花園1樓116-125鋪</ADR>
-      <INFO>#F</INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>11</DIST>
       <LICNO>2211806170</LICNO>
       <SS>大家樂</SS>
       <ADR>香港太古城太古城道18號太古城中心1樓121及122號鋪</ADR>
@@ -58912,15 +58876,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261286595</LICNO>
-      <SS>元氣一杯</SS>
-      <ADR>九龍彌敦道132號美麗華一期食四方4樓406號舖</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261288449</LICNO>
       <SS>麥文記</SS>
       <ADR>九龍白加士街51號地下</ADR>
@@ -63358,15 +63313,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261814806</LICNO>
-      <SS>HAPPY SEASONS</SS>
-      <ADR>九龍彌敦道558-560號譽發廣場3樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261814851</LICNO>
       <SS>湘肴世家</SS>
       <ADR>九龍油麻地彌敦道518-520號彌敦行 閣樓C鋪和部份地下</ADR>
@@ -65667,15 +65613,6 @@
       <ADR>九龍尖沙咀山林道54—56號 利雅商業大廈地下2號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
-      <LICNO>2261819740</LICNO>
-      <SS>富華冰室</SS>
-      <ADR>九龍油麻地砵蘭街72號及 碧街41,45及47號 碧蘭大廈1樓全層及地下B舖主要部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -99394,15 +99331,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>98</DIST>
-      <LICNO>2298805745</LICNO>
-      <SS>SEOULMATE CAFE</SS>
-      <ADR>新界將軍澳唐俊街23號MONTEREY地下 G25B 及 G26A號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>98</DIST>
       <LICNO>2298805772</LICNO>
       <SS>雲桂香</SS>
       <ADR>新界西貢將軍澳運亨路1號新都城地下G105-106號鋪</ADR>
@@ -120094,15 +120022,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>52</DIST>
-      <LICNO>3152801923</LICNO>
-      <SS>泰屋</SS>
-      <ADR>九龍九龍城城南道47號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>52</DIST>
       <LICNO>3152801932</LICNO>
       <SS>笨大碗</SS>
       <ADR>九龍紅磡明安街5號黃埔唐樓C座地下110號舖</ADR>
@@ -125346,15 +125265,6 @@
       <ADR>香港赤柱大街26號新城樓地下B1鋪及鋪前露天座位間</ADR>
       <INFO>#A</INFO>
       <EXPDATE>2027-03-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>15</DIST>
-      <LICNO>3115800895</LICNO>
-      <SS>Bonza</SS>
-      <ADR>香港鴨脷洲新市街29號 城木酒店地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -143269,15 +143179,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>12</DIST>
-      <LICNO>3112802447</LICNO>
-      <SS>RUSSELL COFFEE AND ROASTERY</SS>
-      <ADR>香港銅鑼灣羅素街26號A地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
       <LICNO>3112802924</LICNO>
       <SS>Pret A Manger</SS>
       <ADR>香港皇后大道東1號太古廣場三座B3樓1及2號鋪</ADR>
@@ -143526,15 +143427,6 @@
       <ADR>香港銅鑼灣耀華街6號 合興隆地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-07</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
-      <LICNO>3112803927</LICNO>
-      <SS>信興牛什粉麵</SS>
-      <ADR>香港灣仔巴路士街17-21號樂景大廈地下3號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -154128,15 +154020,6 @@
       <ADR>香港大嶼山東涌怡東路9號 香港東涌喜來登酒店地下G07號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-07-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>17</DIST>
-      <LICNO>3117801412</LICNO>
-      <SS>JAYBIRD</SS>
-      <ADR>香港南丫島榕樹灣大街15A號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>

@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-04</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-05</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -2035,15 +2035,6 @@
       <ADR>九龍尖沙咀樂道25-27號樂輝商業大廈 地下A鋪及B鋪(小部份)</ADR>
       <INFO></INFO>
       <EXPDATE>2027-05-25</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FB</TYPE>
-      <DIST>61</DIST>
-      <LICNO>2161800228</LICNO>
-      <SS>富華冰室</SS>
-      <ADR>九龍油麻地砵蘭街72號及碧街41，45及47號 碧蘭大廈1樓全層及地下B舖小部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>FB</TYPE>
@@ -4609,15 +4600,6 @@
       <ADR>新界元朗宏業南街12-18號新順福中心1樓A及B鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-24</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FE</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2594800073</LICNO>
-      <SS>兆一堂</SS>
-      <ADR>新界元朗良業街8號嘉華工業大廈1樓15室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>FE</TYPE>
@@ -21934,15 +21916,6 @@
       <ADR>新界元朗喜業街2號喜業工廠大廈一樓12室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2994808512</LICNO>
-      <SS>多幸運</SS>
-      <ADR>新界元朗朗屏路1號朗屏邨朗屏街市中層10號檔</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -49775,15 +49748,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>11</DIST>
-      <LICNO>2911813753</LICNO>
-      <SS>IPPON SUSHI</SS>
-      <ADR>香港北角和富道74-82號 仁寶閣地下5號舖</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>11</DIST>
       <LICNO>2911813771</LICNO>
       <SS>燉湯皇后</SS>
       <ADR>香港鰂魚涌英皇道933號 御皇臺地下6號舖</ADR>
@@ -63118,15 +63082,6 @@
       <ADR>九龍尖沙咀廣東道116-120號海威商業中心 地下B及D舖A部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-25</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>61</DIST>
-      <LICNO>2961814511</LICNO>
-      <SS>LEMON-LE</SS>
-      <ADR>九龍尖沙咀尖沙咀海濱花園 星光大道部份HS19號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -86023,15 +85978,6 @@
       <ADR>新界葵涌梨木道88號達利中心21樓 2105-2108單位部分</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-17</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
-      <LICNO>2991810004</LICNO>
-      <SS>譽滿屋</SS>
-      <ADR>新界青衣長達路14-20號偉力工業大廈 A座4樓16,17及18室</ADR>
-      <INFO>#J</INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -128962,15 +128908,6 @@
       <ADR>香港鰂魚涌康山道1號 康怡廣場(北)閣樓部份C鋪</ADR>
       <INFO>#R</INFO>
       <EXPDATE>2027-09-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>11</DIST>
-      <LICNO>3611802719</LICNO>
-      <SS>歡喜肉食公司</SS>
-      <ADR>香港北角糖水道7A及7B號仁德大廈地下L舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
