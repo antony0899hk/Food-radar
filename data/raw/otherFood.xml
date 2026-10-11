@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-10</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-11</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -14279,15 +14279,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>52</DIST>
-      <LICNO>2952254515</LICNO>
-      <SS>大家好食品製造中心</SS>
-      <ADR>九龍土瓜灣下鄉道79至87號地下B舖</ADR>
-      <INFO>#J</INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>52</DIST>
       <LICNO>2952256946</LICNO>
       <SS>譚公道小食</SS>
       <ADR>九龍譚公道48至54號地下3號舖</ADR>
@@ -20872,15 +20863,6 @@
       <ADR>新界元朗天水圍天華路33及39號天悅邨 T TOWN NORTH 地下NG09 &amp; NG10號鋪B部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-17</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2994806279</LICNO>
-      <SS>萬有粉麵</SS>
-      <ADR>新界元朗天水圍天澤邨天澤商場天澤街市地下TC7鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -54374,15 +54356,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>97</DIST>
-      <LICNO>2997806438</LICNO>
-      <SS>泰極星</SS>
-      <ADR>新界沙田火炭桂地街2-8號國際工業中心4樓S室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>97</DIST>
       <LICNO>2997806447</LICNO>
       <SS>包伙食</SS>
       <ADR>新界沙田火炭山尾街43-47號環球工業中心4樓409室</ADR>
@@ -56278,15 +56251,6 @@
       <ADR>新界馬鞍山西沙路599號銀湖天峰地下M07號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>97</DIST>
-      <LICNO>2997810626</LICNO>
-      <SS>沒有記錄</SS>
-      <ADR>新界沙田山尾街37-41號華樂工業中心1期A座8樓18室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -87062,15 +87026,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>91</DIST>
-      <LICNO>2991811061</LICNO>
-      <SS>泰美味</SS>
-      <ADR>新界葵涌葵富路7-11號葵涌廣場三樓TOP世界3069  T1至T2號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
       <LICNO>2991811070</LICNO>
       <SS>領鮮環球食品有限公司</SS>
       <ADR>新界葵涌大連排道華星街8-10號 華達工業中心A座19樓2&amp;3室</ADR>
@@ -115201,15 +115156,6 @@
       <ADR>九龍尖沙咀金巴利道27-33號永利大廈地下3號舖位A部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-04-14</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FG</TYPE>
-      <DIST>61</DIST>
-      <LICNO>3261800936</LICNO>
-      <SS>%ARABICA</SS>
-      <ADR>九龍尖沙咀梳士巴利道18號VICTORIA DOCKSIDE  K11 MUSEA 0樓K06號鋪小部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>FG</TYPE>

@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-10</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-11</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -31467,15 +31467,6 @@
       <ADR>新界大埔太和廣場地下太和街市T-TW1號檔</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>95</DIST>
-      <LICNO>2295803836</LICNO>
-      <SS>富園</SS>
-      <ADR>新界大埔安慈路1號海寶花園地下11號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -101455,15 +101446,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>51</DIST>
-      <LICNO>2251190505</LICNO>
-      <SS>廣東燒味餐廳</SS>
-      <ADR>九龍觀塘 輔仁街地下34(部份)、36及38號</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>51</DIST>
       <LICNO>2251193142</LICNO>
       <SS>星瀚庭公館</SS>
       <ADR>九龍九龍灣臨樂街19號 南豐商業中心地下G3號舖</ADR>
@@ -123370,15 +123352,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>94</DIST>
-      <LICNO>3194803387</LICNO>
-      <SS>華源</SS>
-      <ADR>新界元朗西堤街19號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>94</DIST>
       <LICNO>3194803402</LICNO>
       <SS>新德園正宗手打魚蛋大王</SS>
       <ADR>新界元朗谷亭街5號傑文樓地下</ADR>
@@ -129094,15 +129067,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>62</DIST>
-      <LICNO>3162800437</LICNO>
-      <SS>一品麵家</SS>
-      <ADR>九龍旺角道23號地下及閣樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>62</DIST>
       <LICNO>3162800473</LICNO>
       <SS>Tonic</SS>
       <ADR>九龍亞皆老街八號朗豪坊13樓07號舖</ADR>
@@ -130431,15 +130395,6 @@
       <ADR>九龍旺角砵蘭街174-176號新興大廈地下A1舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>62</DIST>
-      <LICNO>3162804651</LICNO>
-      <SS>添富餐廳</SS>
-      <ADR>九龍海庭道8號富榮花園第二期地下17號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -136524,15 +136479,6 @@
       <ADR>佐敦德成街1A及柯士甸道105號百安大廈 百安大廈地下E17舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
-      <LICNO>3161803129</LICNO>
-      <SS>沒有記錄</SS>
-      <ADR>九龍油麻地長樂街22號地舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
