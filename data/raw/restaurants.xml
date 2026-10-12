@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-11</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-12</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -2271,15 +2271,6 @@
       <ADR>香港中環鐵行里12號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-29</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218804182</LICNO>
-      <SS>WESTWOOD CARVERY</SS>
-      <ADR>香港和安里1-3號及德己立街17-19號德和大廈地下2號舖</ADR>
-      <INFO>#F</INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -8490,15 +8481,6 @@
       <ADR>香港中環金融街8號國際金融中心平台第一層 1082號舖前座位及1082號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218818228</LICNO>
-      <SS>FEUILLE</SS>
-      <ADR>香港中環威靈頓街198號 THE WELLINGTON 5樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -17931,15 +17913,6 @@
       <ADR>新界元朗流浮山正大街28號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-06-30</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2294002977</LICNO>
-      <SS>新田茶餐廳</SS>
-      <ADR>新界元朗新田丈量約份第102約地段第215號 新田大馬路地下1 及 2 號</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -35872,15 +35845,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>93</DIST>
-      <LICNO>2293807083</LICNO>
-      <SS>HAKATA CONCEPTS</SS>
-      <ADR>新界屯門青山公路1號香港黃金海岸黃金海岸商場 1樓25A-25C號舖及露天座位</ADR>
-      <INFO>#A#G#H</INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>93</DIST>
       <LICNO>2293807092</LICNO>
       <SS>潮麗園</SS>
       <ADR>新界屯門屯門鄉事會路28-38號冠興樓地下E號舖</ADR>
@@ -50583,15 +50547,6 @@
       <ADR>香港西灣河筲箕灣道57-87號 太安樓地下22號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>11</DIST>
-      <LICNO>3811811834</LICNO>
-      <SS>一心餐廳</SS>
-      <ADR>香港柴灣漁灣邨漁順樓地下5-6號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -85372,15 +85327,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>12</DIST>
-      <LICNO>2212822177</LICNO>
-      <SS>堅信號上海生煎皇</SS>
-      <ADR>香港灣仔軒尼詩道180-182號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
       <LICNO>2212822186</LICNO>
       <SS>鵝頸橋</SS>
       <ADR>香港銅鑼灣謝斐道414-424號 中望商業中心地下1-2號舖</ADR>
@@ -87402,24 +87348,6 @@
       <ADR>香港灣仔石水渠街14-24號金勝大廈地下E舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>3812824938</LICNO>
-      <SS>JEJU OKTOP</SS>
-      <ADR>香港灣仔堅尼地道15號合和中心2期地下G08號鋪</ADR>
-      <INFO>#G</INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>3812824947</LICNO>
-      <SS>人生有限杯</SS>
-      <ADR>香港銅鑼灣霎東街33號智選假日酒店3樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -105757,15 +105685,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>51</DIST>
-      <LICNO>2251809667</LICNO>
-      <SS>KWOK 宴</SS>
-      <ADR>九龍觀塘偉業街93號15樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>51</DIST>
       <LICNO>2251809676</LICNO>
       <SS>營足四季</SS>
       <ADR>九龍觀塘鴻圖道86號地下A鋪</ADR>
@@ -108768,24 +108687,6 @@
       <ADR>新界大嶼山東涌逸東邨街市地下100號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>17</DIST>
-      <LICNO>2217801937</LICNO>
-      <SS>(没有記錄)</SS>
-      <ADR>香港大嶼山長沙下村39號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>17</DIST>
-      <LICNO>2217801946</LICNO>
-      <SS>Pachanga</SS>
-      <ADR>香港大嶼山愉景灣 海澄湖畔路92號地下G12號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -118375,15 +118276,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3118812167</LICNO>
-      <SS>BAR OASIS</SS>
-      <ADR>香港中環荷李活道28號 永寧大廈地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3118812176</LICNO>
       <SS>永樂餃子店</SS>
       <ADR>香港上環禧利街10號地下(主要部分)</ADR>
@@ -120135,15 +120027,6 @@
       <ADR>九龍九龍城南角道11號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>52</DIST>
-      <LICNO>3152801932</LICNO>
-      <SS>笨大碗</SS>
-      <ADR>九龍紅磡明安街5號黃埔唐樓C座地下110號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
