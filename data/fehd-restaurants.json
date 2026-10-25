@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:03:15.600Z",
+  "generatedAt": "2026-10-25T06:22:04.621Z",
   "source": "FEHD official XML",
   "restaurants": [
     {
@@ -9913,14 +9913,6 @@
       "addressKey": "九龍賈炳達道128號九龍城廣場4樓401號舖部份",
       "type": "RL",
       "expiry": "2027-09-28"
-    },
-    {
-      "licno": "2252185250",
-      "shopSign": "九龍城好彩酒家",
-      "address": "九龍城賈炳達道九龍城廣場 地庫1樓B101, 102, 122及123號舖",
-      "addressKey": "九龍城賈炳達道九龍城廣場地庫1樓B101102122及123號舖",
-      "type": "RL",
-      "expiry": "2026-10-25"
     },
     {
       "licno": "2252186147",
@@ -41945,14 +41937,6 @@
       "addressKey": "香港箕筲灣箕筲灣道333號H21G1號舖",
       "type": "RL",
       "expiry": "2027-11-02"
-    },
-    {
-      "licno": "2211806213",
-      "shopSign": "點點心",
-      "address": "香港筲箕灣 筲箕灣道312至322號 寶福大廈地下E室",
-      "addressKey": "香港筲箕灣筲箕灣道312至322號寶福大廈GE室",
-      "type": "RL",
-      "expiry": "2026-10-25"
     },
     {
       "licno": "2211806222",
@@ -95963,14 +95947,6 @@
       "expiry": "2027-07-04"
     },
     {
-      "licno": "2217800484",
-      "shopSign": "Koh Tomyums Thai Restaurant",
-      "address": "香港大嶼山愉景灣愉景廣場A座1字樓105B鋪",
-      "addressKey": "香港大嶼山愉景灣愉景廣場A座1字樓105B鋪",
-      "type": "RL",
-      "expiry": "2026-10-25"
-    },
-    {
       "licno": "2217800527",
       "shopSign": "百匯軒",
       "address": "香港大嶼山東涌富東邨富東廣場1樓110A號鋪",
@@ -102297,14 +102273,6 @@
       "addressKey": "香港上環四方街24號G",
       "type": "RR",
       "expiry": "2027-09-19"
-    },
-    {
-      "licno": "3118806618",
-      "shopSign": "Bun Cha Vietnamese Restau",
-      "address": "香港鴨巴甸街41-49號金豪大廈地下1號舖",
-      "addressKey": "香港鴨巴甸街4149號金豪大廈G1號舖",
-      "type": "RR",
-      "expiry": "2026-10-25"
     },
     {
       "licno": "3118806645",
@@ -114929,14 +114897,6 @@
       "addressKey": "九龍大角咀博文街14號前座G",
       "type": "RR",
       "expiry": "2027-08-12"
-    },
-    {
-      "licno": "3162802488",
-      "shopSign": "C PLUS BAR AND CAFE",
-      "address": "九龍旺角登打士街43H號登打士廣場11樓",
-      "addressKey": "九龍旺角登打士街43H號登打士廣場11樓",
-      "type": "RR",
-      "expiry": "2026-10-25"
     },
     {
       "licno": "3162802503",
@@ -141020,14 +140980,6 @@
       "type": "RL",
       "expiry": "2027-11-02"
     },
-    "2211806213": {
-      "licno": "2211806213",
-      "shopSign": "點點心",
-      "address": "香港筲箕灣 筲箕灣道312至322號 寶福大廈地下E室",
-      "addressKey": "香港筲箕灣筲箕灣道312至322號寶福大廈GE室",
-      "type": "RL",
-      "expiry": "2026-10-25"
-    },
     "2211806222": {
       "licno": "2211806222",
       "shopSign": "金東大",
@@ -157772,14 +157724,6 @@
       "type": "RL",
       "expiry": "2027-07-04"
     },
-    "2217800484": {
-      "licno": "2217800484",
-      "shopSign": "Koh Tomyums Thai Restaurant",
-      "address": "香港大嶼山愉景灣愉景廣場A座1字樓105B鋪",
-      "addressKey": "香港大嶼山愉景灣愉景廣場A座1字樓105B鋪",
-      "type": "RL",
-      "expiry": "2026-10-25"
-    },
     "2217800527": {
       "licno": "2217800527",
       "shopSign": "百匯軒",
@@ -173075,14 +173019,6 @@
       "addressKey": "九龍賈炳達道128號九龍城廣場4樓401號舖部份",
       "type": "RL",
       "expiry": "2027-09-28"
-    },
-    "2252185250": {
-      "licno": "2252185250",
-      "shopSign": "九龍城好彩酒家",
-      "address": "九龍城賈炳達道九龍城廣場 地庫1樓B101, 102, 122及123號舖",
-      "addressKey": "九龍城賈炳達道九龍城廣場地庫1樓B101102122及123號舖",
-      "type": "RL",
-      "expiry": "2026-10-25"
     },
     "2252186147": {
       "licno": "2252186147",
@@ -245012,14 +244948,6 @@
       "type": "RR",
       "expiry": "2027-09-19"
     },
-    "3118806618": {
-      "licno": "3118806618",
-      "shopSign": "Bun Cha Vietnamese Restau",
-      "address": "香港鴨巴甸街41-49號金豪大廈地下1號舖",
-      "addressKey": "香港鴨巴甸街4149號金豪大廈G1號舖",
-      "type": "RR",
-      "expiry": "2026-10-25"
-    },
     "3118806645": {
       "licno": "3118806645",
       "shopSign": "NOIR LKF",
@@ -257635,14 +257563,6 @@
       "addressKey": "九龍大角咀博文街14號前座G",
       "type": "RR",
       "expiry": "2027-08-12"
-    },
-    "3162802488": {
-      "licno": "3162802488",
-      "shopSign": "C PLUS BAR AND CAFE",
-      "address": "九龍旺角登打士街43H號登打士廣場11樓",
-      "addressKey": "九龍旺角登打士街43H號登打士廣場11樓",
-      "type": "RR",
-      "expiry": "2026-10-25"
     },
     "3162802503": {
       "licno": "3162802503",
@@ -276422,8 +276342,8 @@
     }
   },
   "stats": {
-    "restaurants": 17276,
-    "restaurantsWithShopSign": 17276,
-    "otherFood": 16567
+    "restaurants": 17271,
+    "restaurantsWithShopSign": 17271,
+    "otherFood": 16561
   }
 }

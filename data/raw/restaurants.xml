@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-24</GENERATION_DATE>
+  <GENERATION_DATE>2026-10-25</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -11190,15 +11190,6 @@
       <ADR>九龍賈炳達道128號 九龍城廣場4樓 401號舖(部份)</ADR>
       <INFO>#G#H</INFO>
       <EXPDATE>2027-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>52</DIST>
-      <LICNO>2252185250</LICNO>
-      <SS>九龍城好彩酒家</SS>
-      <ADR>九龍城賈炳達道九龍城廣場 地庫1樓B101, 102, 122及123號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -47226,15 +47217,6 @@
       <ADR>香港箕筲灣箕筲灣道333號H21地下1號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>11</DIST>
-      <LICNO>2211806213</LICNO>
-      <SS>點點心</SS>
-      <ADR>香港筲箕灣 筲箕灣道312至322號 寶福大廈地下E室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -107998,15 +107980,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>17</DIST>
-      <LICNO>2217800484</LICNO>
-      <SS>Koh Tomyums Thai Restaurant</SS>
-      <ADR>香港大嶼山愉景灣愉景廣場A座1字樓105B鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-25</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>17</DIST>
       <LICNO>2217800527</LICNO>
       <SS>百匯軒</SS>
       <ADR>香港大嶼山東涌富東邨富東廣場1樓110A號鋪</ADR>
@@ -115122,15 +115095,6 @@
       <ADR>香港上環四方街24號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-19</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
-      <LICNO>3118806618</LICNO>
-      <SS>Bun Cha Vietnamese Restau</SS>
-      <ADR>香港鴨巴甸街41-49號金豪大廈地下1號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -129333,15 +129297,6 @@
       <ADR>九龍大角咀博文街14號前座地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>62</DIST>
-      <LICNO>3162802488</LICNO>
-      <SS>C PLUS BAR AND CAFE</SS>
-      <ADR>九龍旺角登打士街43H號登打士廣場11樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-10-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
