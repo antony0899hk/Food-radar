@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-31</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-01</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -17132,15 +17132,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>52</DIST>
-      <LICNO>2952808172</LICNO>
-      <SS>食餐好</SS>
-      <ADR>九龍九龍城獅子石道83號地下(小部份)</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>52</DIST>
       <LICNO>2952808190</LICNO>
       <SS>EL FORON</SS>
       <ADR>九龍土瓜灣土瓜灣道94號美華工業大廈B座6樓2室</ADR>
@@ -19976,15 +19967,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>94</DIST>
-      <LICNO>2994802596</LICNO>
-      <SS>聖安娜餅屋</SS>
-      <ADR>新界元朗阜財街2,2A,2B,2C,2D,4,6,8,10, 12,16,18,18A,20及20A號宏豐大廈地下1號鋪及 天井</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>94</DIST>
       <LICNO>2994802754</LICNO>
       <SS>寰宇美食有限公司</SS>
       <ADR>新界元朗67-73號福喜街元朗工業邨地下01號室及部份閣樓</ADR>
@@ -22429,15 +22411,6 @@
       <ADR>新界元朗壽富街33號好利洋樓地下F號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2994809171</LICNO>
-      <SS>見你一麵</SS>
-      <ADR>新界元朗教育路31-41號南天大廈地下5B號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -31181,15 +31154,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>95</DIST>
-      <LICNO>2995801077</LICNO>
-      <SS>好景士多/濱景租艇</SS>
-      <ADR>新界大埔大美督丈量約份第28約短期租約905號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>95</DIST>
       <LICNO>2995801156</LICNO>
       <SS>煒成麵飽餅店</SS>
       <ADR>新界大埔同秀坊11號地下</ADR>
@@ -31879,15 +31843,6 @@
       <ADR>新界大埔太和邨街市地下8號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-17</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>95</DIST>
-      <LICNO>2995802955</LICNO>
-      <SS>共度一燒</SS>
-      <ADR>新界大埔安慈路3號翠屏花園第一層1號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -34633,15 +34588,6 @@
       <ADR>新界屯門啟豐園商場1樓23A鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>93</DIST>
-      <LICNO>2993801532</LICNO>
-      <SS>輝皇烘焙</SS>
-      <ADR>新界屯門青山公路87號竹苑地下1號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -54311,15 +54257,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>97</DIST>
-      <LICNO>2997805781</LICNO>
-      <SS>GELATO PIQUE CAFE</SS>
-      <ADR>新界沙田S.T.T.L. NO. 143新城市廣場一期1層 158號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>97</DIST>
       <LICNO>2997805790</LICNO>
       <SS>利一食品集團有限公司</SS>
       <ADR>新界沙田火炭坳背灣街34號 豐盛工業中心B座7樓713室</ADR>
@@ -68365,15 +68302,6 @@
       <ADR>九龍長沙灣道833號長沙灣廣場3樓307室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>63</DIST>
-      <LICNO>2963809971</LICNO>
-      <SS>小黑糖</SS>
-      <ADR>九龍荔枝角深盛路9號宇晴滙2樓3B及3C鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -86599,15 +86527,6 @@
       <ADR>新界青衣長達路1-33號青衣工業中心第一期B座5樓B3室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-07</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
-      <LICNO>2991810040</LICNO>
-      <SS>FAR EAST FUJI LIMITED</SS>
-      <ADR>新界葵涌 大連排道144-150號  金豐工業大廈 18樓Q室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -111713,15 +111632,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>53</DIST>
-      <LICNO>2953806322</LICNO>
-      <SS>香港可可股份有限公司</SS>
-      <ADR>九龍新蒲崗景福街114號捷景工業大廈5樓B室A部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>53</DIST>
       <LICNO>2953806331</LICNO>
       <SS>Deli</SS>
       <ADR>九龍鑽石山龍蟠街3號荷里活廣場一樓101號鋪PH-04單位</ADR>
@@ -120308,15 +120218,6 @@
     <LP>
       <TYPE>FP</TYPE>
       <DIST>52</DIST>
-      <LICNO>3652802976</LICNO>
-      <SS>食餐好</SS>
-      <ADR>九龍九龍城獅子石道83號地下(大部份)</ADR>
-      <INFO>#G#H#R#S</INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>52</DIST>
       <LICNO>3652802985</LICNO>
       <SS>金旺凍肉超級市場</SS>
       <ADR>九龍九龍城沐翠街晴朗商場晴朗街市1樓M13-M17號檔</ADR>
@@ -122068,15 +121969,6 @@
       <ADR>新界元朗洪水橋洪堤路3號麗珊園地下6-8號鋪</ADR>
       <INFO>#G#R</INFO>
       <EXPDATE>2027-10-14</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>94</DIST>
-      <LICNO>3694803531</LICNO>
-      <SS>倬輝凍肉食品</SS>
-      <ADR>新界元朗天水圍天恩邨天恩商場街市地下 TY36及TY37號檔</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
@@ -125722,15 +125614,6 @@
       <ADR>新界大埔安慈路3號翠屏商場地下20號鋪A部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>95</DIST>
-      <LICNO>3695802517</LICNO>
-      <SS>吉星行海寶店</SS>
-      <ADR>新界大埔安慈路1號海寶花園商場地下5號鋪部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-12-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
@@ -140140,15 +140023,6 @@
       <ADR>新界西貢將軍澳常寧道厚德邨TKO街市地下313號檔位</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>98</DIST>
-      <LICNO>3698801791</LICNO>
-      <SS>營火食品</SS>
-      <ADR>新界西貢將軍澳常寧道厚德邨TKO街市地下106號檔位</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>

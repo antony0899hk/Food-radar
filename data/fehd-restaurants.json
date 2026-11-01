@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T07:09:31.098Z",
+  "generatedAt": "2026-11-01T07:42:32.727Z",
   "source": "FEHD official XML",
   "restaurants": [
     {
@@ -7521,14 +7521,6 @@
       "addressKey": "香港士丹頓街4號G",
       "type": "RL",
       "expiry": "2027-10-30"
-    },
-    {
-      "licno": "2218818264",
-      "shopSign": "御饌",
-      "address": "香港西區干諾道西181號 ONE-EIGHT-ONE HOTEL & SERVICED RESIDENCES 3樓及3樓 平台露天座位間",
-      "addressKey": "香港西區干諾道西181號ONEEIGHTONEHOTEL&SERVICEDRESIDENCES3樓及3樓平台露天座位間",
-      "type": "RL",
-      "expiry": "2026-11-01"
     },
     {
       "licno": "2218818273",
@@ -19499,14 +19491,6 @@
       "expiry": "2027-10-28"
     },
     {
-      "licno": "2294809545",
-      "shopSign": "鶴和風料理",
-      "address": "新界元朗壽富街33號好利洋樓地下Q鋪",
-      "addressKey": "新界元朗壽富街33號好利洋樓GQ鋪",
-      "type": "RL",
-      "expiry": "2026-11-01"
-    },
-    {
       "licno": "2294809563",
       "shopSign": "星期八",
       "address": "新界元朗天水圍濕地公園路9號 WETLAND SEASONS PARK地下8號鋪",
@@ -27377,14 +27361,6 @@
       "addressKey": "新界大埔富善邨富善商場GG25號鋪",
       "type": "RL",
       "expiry": "2027-10-02"
-    },
-    {
-      "licno": "2295802693",
-      "shopSign": "豪宴海鮮酒家",
-      "address": "新界大埔安埔路12號富善邨富善商場3樓301號鋪",
-      "addressKey": "新界大埔安埔路12號富善邨富善商場3樓301號鋪",
-      "type": "RL",
-      "expiry": "2026-11-01"
     },
     {
       "licno": "2295802709",
@@ -57947,14 +57923,6 @@
       "expiry": "2027-10-28"
     },
     {
-      "licno": "2261818950",
-      "shopSign": "東海粥店",
-      "address": "九龍佐敦佐敦道9-11號 高基大廈地下1號舖",
-      "addressKey": "九龍佐敦佐敦道911號高基大廈G1號舖",
-      "type": "RL",
-      "expiry": "2026-11-01"
-    },
-    {
       "licno": "2261818969",
       "shopSign": "花晨月夕",
       "address": "九龍尖沙咀赫德道2號 金麟商業中心2樓全層",
@@ -69969,14 +69937,6 @@
       "addressKey": "香港灣仔皇后大道東100至102號1樓",
       "type": "RL",
       "expiry": "2027-10-21"
-    },
-    {
-      "licno": "2212805615",
-      "shopSign": "千代鶴",
-      "address": "香港銅鑼灣軒尼詩道525號澳門逸園中心11樓",
-      "addressKey": "香港銅鑼灣軒尼詩道525號澳門逸園中心11樓",
-      "type": "RL",
-      "expiry": "2026-11-01"
     },
     {
       "licno": "2212805697",
@@ -146060,14 +146020,6 @@
       "type": "RL",
       "expiry": "2027-10-21"
     },
-    "2212805615": {
-      "licno": "2212805615",
-      "shopSign": "千代鶴",
-      "address": "香港銅鑼灣軒尼詩道525號澳門逸園中心11樓",
-      "addressKey": "香港銅鑼灣軒尼詩道525號澳門逸園中心11樓",
-      "type": "RL",
-      "expiry": "2026-11-01"
-    },
     "2212805697": {
       "licno": "2212805697",
       "shopSign": "富軒",
@@ -165891,14 +165843,6 @@
       "addressKey": "香港士丹頓街4號G",
       "type": "RL",
       "expiry": "2027-10-30"
-    },
-    "2218818264": {
-      "licno": "2218818264",
-      "shopSign": "御饌",
-      "address": "香港西區干諾道西181號 ONE-EIGHT-ONE HOTEL & SERVICED RESIDENCES 3樓及3樓 平台露天座位間",
-      "addressKey": "香港西區干諾道西181號ONEEIGHTONEHOTEL&SERVICEDRESIDENCES3樓及3樓平台露天座位間",
-      "type": "RL",
-      "expiry": "2026-11-01"
     },
     "2218818273": {
       "licno": "2218818273",
@@ -188603,14 +188547,6 @@
       "addressKey": "九龍尖沙咀金巴利街1EG西舖",
       "type": "RL",
       "expiry": "2027-10-28"
-    },
-    "2261818950": {
-      "licno": "2261818950",
-      "shopSign": "東海粥店",
-      "address": "九龍佐敦佐敦道9-11號 高基大廈地下1號舖",
-      "addressKey": "九龍佐敦佐敦道911號高基大廈G1號舖",
-      "type": "RL",
-      "expiry": "2026-11-01"
     },
     "2261818969": {
       "licno": "2261818969",
@@ -220764,14 +220700,6 @@
       "type": "RL",
       "expiry": "2027-10-28"
     },
-    "2294809545": {
-      "licno": "2294809545",
-      "shopSign": "鶴和風料理",
-      "address": "新界元朗壽富街33號好利洋樓地下Q鋪",
-      "addressKey": "新界元朗壽富街33號好利洋樓GQ鋪",
-      "type": "RL",
-      "expiry": "2026-11-01"
-    },
     "2294809563": {
       "licno": "2294809563",
       "shopSign": "星期八",
@@ -223899,14 +223827,6 @@
       "addressKey": "新界大埔富善邨富善商場GG25號鋪",
       "type": "RL",
       "expiry": "2027-10-02"
-    },
-    "2295802693": {
-      "licno": "2295802693",
-      "shopSign": "豪宴海鮮酒家",
-      "address": "新界大埔安埔路12號富善邨富善商場3樓301號鋪",
-      "addressKey": "新界大埔安埔路12號富善邨富善商場3樓301號鋪",
-      "type": "RL",
-      "expiry": "2026-11-01"
     },
     "2295802709": {
       "licno": "2295802709",
@@ -276822,8 +276742,8 @@
     }
   },
   "stats": {
-    "restaurants": 17301,
-    "restaurantsWithShopSign": 17301,
-    "otherFood": 16588
+    "restaurants": 17296,
+    "restaurantsWithShopSign": 17296,
+    "otherFood": 16574
   }
 }

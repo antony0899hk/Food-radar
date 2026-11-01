@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-10-31</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-01</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -8499,15 +8499,6 @@
       <ADR>香港士丹頓街4號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-30</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218818264</LICNO>
-      <SS>御饌</SS>
-      <ADR>香港西區干諾道西181號 ONE-EIGHT-ONE HOTEL &amp;  SERVICED RESIDENCES 3樓及3樓 平台露天座位間</ADR>
-      <INFO>#A#E#F#G</INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -21976,15 +21967,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>94</DIST>
-      <LICNO>2294809545</LICNO>
-      <SS>鶴和風料理</SS>
-      <ADR>新界元朗壽富街33號好利洋樓地下Q鋪</ADR>
-      <INFO>#F#G#H</INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
       <LICNO>2294809563</LICNO>
       <SS>星期八</SS>
       <ADR>新界元朗天水圍濕地公園路9號 WETLAND SEASONS PARK地下8號鋪</ADR>
@@ -30837,15 +30819,6 @@
       <ADR>新界大埔  富善邨 富善商場 地下G25號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>95</DIST>
-      <LICNO>2295802693</LICNO>
-      <SS>豪宴海鮮酒家</SS>
-      <ADR>新界大埔安埔路12號富善邨富善商場3樓301號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -65230,15 +65203,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261818950</LICNO>
-      <SS>東海粥店</SS>
-      <ADR>九龍佐敦佐敦道9-11號 高基大廈地下1號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261818969</LICNO>
       <SS>花晨月夕</SS>
       <ADR>九龍尖沙咀赫德道2號 金麟商業中心2樓全層</ADR>
@@ -78753,15 +78717,6 @@
       <ADR>香港灣仔皇后大道東100至102號1樓</ADR>
       <INFO>#F</INFO>
       <EXPDATE>2027-10-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>2212805615</LICNO>
-      <SS>千代鶴</SS>
-      <ADR>香港銅鑼灣軒尼詩道525號澳門逸園中心11樓</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
