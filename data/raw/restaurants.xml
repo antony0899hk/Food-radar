@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-01</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-02</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -4728,15 +4728,6 @@
       <ADR>香港中環擺花街18-20號 嘉寶商業大廈地下1號鋪</ADR>
       <INFO>#F#G</INFO>
       <EXPDATE>2027-10-24</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218811467</LICNO>
-      <SS>TATE Dining Room &amp; Bar</SS>
-      <ADR>香港上環太平山街21-27號及荷里活道208-214號 太平大廈1樓部份D舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -15393,15 +15384,6 @@
       <ADR>九龍土瓜灣馬頭涌道99號及97號(後部份)地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-24</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>52</DIST>
-      <LICNO>2252808722</LICNO>
-      <SS>SI-ZAAP THAI RESTAURANT</SS>
-      <ADR>九龍九龍城啟德道 55 號 AVA 55 地下 6 號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -58633,15 +58615,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261242021</LICNO>
-      <SS>PORT</SS>
-      <ADR>九龍尖沙咀諾士佛台2號 地下及露天座位</ADR>
-      <INFO>#A</INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261245561</LICNO>
       <SS>金燕島潮州酒樓</SS>
       <ADR>九龍寶勒巷18號粵海酒店1樓B部份</ADR>
@@ -65199,15 +65172,6 @@
       <ADR>九龍尖沙咀金巴利街1E地下西舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
-      <LICNO>2261818969</LICNO>
-      <SS>花晨月夕</SS>
-      <ADR>九龍尖沙咀赫德道2號 金麟商業中心2樓全層</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -77646,15 +77610,6 @@
       <ADR>香港灣仔莊士敦道149號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>2212216989</LICNO>
-      <SS>KIN KAO 2</SS>
-      <ADR>香港蘭杜街2號麗都大廈地下10號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -105406,15 +105361,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>51</DIST>
-      <LICNO>2251809278</LICNO>
-      <SS>豪隍點心工房</SS>
-      <ADR>九龍觀塘鴻圖道83號東瀛遊廣場地下B舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>51</DIST>
       <LICNO>2251809287</LICNO>
       <SS>榕記陳皮燒鵝</SS>
       <ADR>九龍牛頭角道3號得寶花園得寶商場地下A1及A2號鋪</ADR>
@@ -114010,15 +113956,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3114165124</LICNO>
-      <SS>Lobby Bar</SS>
-      <ADR>香港皇后大道西508號 1樓(部份)</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3114165230</LICNO>
       <SS>Club Lounge</SS>
       <ADR>香港皇后大道西508號28樓</ADR>
@@ -115464,15 +115401,6 @@
       <ADR>香港金鐘金鐘道88號 太古廣場一期3樓308舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-19</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
-      <LICNO>3118807240</LICNO>
-      <SS>Test Kitchen</SS>
-      <ADR>香港德輔道西271-285號均益大廈3期地下3號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -120900,15 +120828,6 @@
       <ADR>九龍美善同里8號美怡大廈地下1,2及3鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-26</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>52</DIST>
-      <LICNO>3152803646</LICNO>
-      <SS>YOI COFFEE &amp; BAKERY</SS>
-      <ADR>九龍九龍城龍崗道20號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -137185,15 +137104,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>61</DIST>
-      <LICNO>3161806429</LICNO>
-      <SS>SPADES</SS>
-      <ADR>九龍赫德道11號利就商業大廈地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
       <LICNO>3161806456</LICNO>
       <SS>HAAGEN DAZS</SS>
       <ADR>九龍尖沙咀彌敦道63號國際廣場地下底層5B號鋪</ADR>
@@ -139633,15 +139543,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>61</DIST>
-      <LICNO>3161811294</LICNO>
-      <SS>WT Cafe Hong Kong</SS>
-      <ADR>九龍佐敦文匯街46號文景樓地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
       <LICNO>3161811300</LICNO>
       <SS>小滿定律</SS>
       <ADR>九龍柯士甸道西1號圓方1樓1048號舖</ADR>
@@ -141717,15 +141618,6 @@
       <ADR>九龍九龍塘達之路80號 又一城LG1樓LG1-K64A號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-24</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>63</DIST>
-      <LICNO>3163802591</LICNO>
-      <SS>Dancing Kettle</SS>
-      <ADR>九龍福榮街218號美居中心地下59號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>

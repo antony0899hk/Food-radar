@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T07:42:32.727Z",
+  "generatedAt": "2026-11-02T07:49:40.745Z",
   "source": "FEHD official XML",
   "restaurants": [
     {
@@ -4169,14 +4169,6 @@
       "addressKey": "香港中環擺花街1820號嘉寶商業大廈G1號鋪",
       "type": "RL",
       "expiry": "2027-10-24"
-    },
-    {
-      "licno": "2218811467",
-      "shopSign": "TATE Dining Room & Bar",
-      "address": "香港上環太平山街21-27號及荷里活道208-214號 太平大廈1樓部份D舖",
-      "addressKey": "香港上環太平山街2127號及荷里活道208214號太平大廈1樓部份D舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
     },
     {
       "licno": "2218811476",
@@ -13649,14 +13641,6 @@
       "addressKey": "九龍土瓜灣馬頭涌道99號及97號後部份G",
       "type": "RL",
       "expiry": "2027-10-24"
-    },
-    {
-      "licno": "2252808722",
-      "shopSign": "SI-ZAAP THAI RESTAURANT",
-      "address": "九龍九龍城啟德道 55 號 AVA 55 地下 6 號舖",
-      "addressKey": "九龍九龍城啟德道55號AVA55G6號舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
     },
     {
       "licno": "2252808731",
@@ -52083,14 +52067,6 @@
       "expiry": "2027-07-11"
     },
     {
-      "licno": "2261242021",
-      "shopSign": "PORT",
-      "address": "九龍尖沙咀諾士佛台2號 地下及露天座位",
-      "addressKey": "九龍尖沙咀諾士佛台2號G及露天座位",
-      "type": "RL",
-      "expiry": "2026-11-02"
-    },
-    {
       "licno": "2261245561",
       "shopSign": "金燕島潮州酒樓",
       "address": "九龍寶勒巷18號粵海酒店1樓B部份",
@@ -57921,14 +57897,6 @@
       "addressKey": "九龍尖沙咀金巴利街1EG西舖",
       "type": "RL",
       "expiry": "2027-10-28"
-    },
-    {
-      "licno": "2261818969",
-      "shopSign": "花晨月夕",
-      "address": "九龍尖沙咀赫德道2號 金麟商業中心2樓全層",
-      "addressKey": "九龍尖沙咀赫德道2號金麟商業中心2樓全層",
-      "type": "RL",
-      "expiry": "2026-11-02"
     },
     {
       "licno": "2261819014",
@@ -68985,14 +68953,6 @@
       "addressKey": "香港灣仔莊士敦道149號G",
       "type": "RL",
       "expiry": "2027-10-15"
-    },
-    {
-      "licno": "2212216989",
-      "shopSign": "KIN KAO 2",
-      "address": "香港蘭杜街2號麗都大廈地下10號舖",
-      "addressKey": "香港蘭杜街2號麗都大廈G10號舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
     },
     {
       "licno": "2212221684",
@@ -93659,14 +93619,6 @@
       "expiry": "2027-10-23"
     },
     {
-      "licno": "2251809278",
-      "shopSign": "豪隍點心工房",
-      "address": "九龍觀塘鴻圖道83號東瀛遊廣場地下B舖",
-      "addressKey": "九龍觀塘鴻圖道83號東瀛遊廣場GB舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
-    },
-    {
       "licno": "2251809287",
       "shopSign": "榕記陳皮燒鵝",
       "address": "九龍牛頭角道3號得寶花園得寶商場地下A1及A2號鋪",
@@ -101307,14 +101259,6 @@
       "expiry": "2027-07-09"
     },
     {
-      "licno": "3114165124",
-      "shopSign": "Lobby Bar",
-      "address": "香港皇后大道西508號 1樓(部份)",
-      "addressKey": "香港皇后大道西508號1樓部份",
-      "type": "RR",
-      "expiry": "2026-11-02"
-    },
-    {
       "licno": "3114165230",
       "shopSign": "Club Lounge",
       "address": "香港皇后大道西508號28樓",
@@ -102601,14 +102545,6 @@
       "addressKey": "香港金鐘金鐘道88號太古廣場一期3樓308舖",
       "type": "RR",
       "expiry": "2027-10-19"
-    },
-    {
-      "licno": "3118807240",
-      "shopSign": "Test Kitchen",
-      "address": "香港德輔道西271-285號均益大廈3期地下3號鋪",
-      "addressKey": "香港德輔道西271285號均益大廈3期G3號鋪",
-      "type": "RR",
-      "expiry": "2026-11-02"
     },
     {
       "licno": "3118807295",
@@ -107433,14 +107369,6 @@
       "addressKey": "九龍美善同里8號美怡大廈G12及3鋪",
       "type": "RR",
       "expiry": "2027-10-26"
-    },
-    {
-      "licno": "3152803646",
-      "shopSign": "YOI COFFEE & BAKERY",
-      "address": "九龍九龍城龍崗道20號地下",
-      "addressKey": "九龍九龍城龍崗道20號G",
-      "type": "RR",
-      "expiry": "2026-11-02"
     },
     {
       "licno": "3152803655",
@@ -121907,14 +121835,6 @@
       "expiry": "2027-08-17"
     },
     {
-      "licno": "3161806429",
-      "shopSign": "SPADES",
-      "address": "九龍赫德道11號利就商業大廈地下",
-      "addressKey": "九龍赫德道11號利就商業大廈G",
-      "type": "RR",
-      "expiry": "2026-11-02"
-    },
-    {
       "licno": "3161806456",
       "shopSign": "HAAGEN DAZS",
       "address": "九龍尖沙咀彌敦道63號國際廣場地下底層5B號鋪",
@@ -124083,14 +124003,6 @@
       "expiry": "2027-10-21"
     },
     {
-      "licno": "3161811294",
-      "shopSign": "WT Cafe Hong Kong",
-      "address": "九龍佐敦文匯街46號文景樓地下",
-      "addressKey": "九龍佐敦文匯街46號文景樓G",
-      "type": "RR",
-      "expiry": "2026-11-02"
-    },
-    {
       "licno": "3161811300",
       "shopSign": "小滿定律",
       "address": "九龍柯士甸道西1號圓方1樓1048號舖",
@@ -125937,14 +125849,6 @@
       "addressKey": "九龍九龍塘達之路80號又一城LG1樓LG1K64A號舖",
       "type": "RR",
       "expiry": "2027-10-24"
-    },
-    {
-      "licno": "3163802591",
-      "shopSign": "Dancing Kettle",
-      "address": "九龍福榮街218號美居中心地下59號鋪",
-      "addressKey": "九龍福榮街218號美居中心G59號鋪",
-      "type": "RR",
-      "expiry": "2026-11-02"
     },
     {
       "licno": "3163802607",
@@ -145068,14 +144972,6 @@
       "type": "RL",
       "expiry": "2027-10-15"
     },
-    "2212216989": {
-      "licno": "2212216989",
-      "shopSign": "KIN KAO 2",
-      "address": "香港蘭杜街2號麗都大廈地下10號舖",
-      "addressKey": "香港蘭杜街2號麗都大廈G10號舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
-    },
     "2212221684": {
       "licno": "2212221684",
       "shopSign": "鼎泰酸菜魚",
@@ -162492,14 +162388,6 @@
       "type": "RL",
       "expiry": "2027-10-24"
     },
-    "2218811467": {
-      "licno": "2218811467",
-      "shopSign": "TATE Dining Room & Bar",
-      "address": "香港上環太平山街21-27號及荷里活道208-214號 太平大廈1樓部份D舖",
-      "addressKey": "香港上環太平山街2127號及荷里活道208214號太平大廈1樓部份D舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
-    },
     "2218811476": {
       "licno": "2218811476",
       "shopSign": "YASHIMA OMAKASE",
@@ -171412,14 +171300,6 @@
       "type": "RL",
       "expiry": "2027-10-23"
     },
-    "2251809278": {
-      "licno": "2251809278",
-      "shopSign": "豪隍點心工房",
-      "address": "九龍觀塘鴻圖道83號東瀛遊廣場地下B舖",
-      "addressKey": "九龍觀塘鴻圖道83號東瀛遊廣場GB舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
-    },
     "2251809287": {
       "licno": "2251809287",
       "shopSign": "榕記陳皮燒鵝",
@@ -176987,14 +176867,6 @@
       "addressKey": "九龍土瓜灣馬頭涌道99號及97號後部份G",
       "type": "RL",
       "expiry": "2027-10-24"
-    },
-    "2252808722": {
-      "licno": "2252808722",
-      "shopSign": "SI-ZAAP THAI RESTAURANT",
-      "address": "九龍九龍城啟德道 55 號 AVA 55 地下 6 號舖",
-      "addressKey": "九龍九龍城啟德道55號AVA55G6號舖",
-      "type": "RL",
-      "expiry": "2026-11-02"
     },
     "2252808731": {
       "licno": "2252808731",
@@ -182707,14 +182579,6 @@
       "addressKey": "九龍上海街401號GB舖",
       "type": "RL",
       "expiry": "2027-07-11"
-    },
-    "2261242021": {
-      "licno": "2261242021",
-      "shopSign": "PORT",
-      "address": "九龍尖沙咀諾士佛台2號 地下及露天座位",
-      "addressKey": "九龍尖沙咀諾士佛台2號G及露天座位",
-      "type": "RL",
-      "expiry": "2026-11-02"
     },
     "2261245561": {
       "licno": "2261245561",
@@ -188547,14 +188411,6 @@
       "addressKey": "九龍尖沙咀金巴利街1EG西舖",
       "type": "RL",
       "expiry": "2027-10-28"
-    },
-    "2261818969": {
-      "licno": "2261818969",
-      "shopSign": "花晨月夕",
-      "address": "九龍尖沙咀赫德道2號 金麟商業中心2樓全層",
-      "addressKey": "九龍尖沙咀赫德道2號金麟商業中心2樓全層",
-      "type": "RL",
-      "expiry": "2026-11-02"
     },
     "2261819014": {
       "licno": "2261819014",
@@ -242212,14 +242068,6 @@
       "type": "RR",
       "expiry": "2027-07-09"
     },
-    "3114165124": {
-      "licno": "3114165124",
-      "shopSign": "Lobby Bar",
-      "address": "香港皇后大道西508號 1樓(部份)",
-      "addressKey": "香港皇后大道西508號1樓部份",
-      "type": "RR",
-      "expiry": "2026-11-02"
-    },
     "3114165230": {
       "licno": "3114165230",
       "shopSign": "Club Lounge",
@@ -245475,14 +245323,6 @@
       "addressKey": "香港金鐘金鐘道88號太古廣場一期3樓308舖",
       "type": "RR",
       "expiry": "2027-10-19"
-    },
-    "3118807240": {
-      "licno": "3118807240",
-      "shopSign": "Test Kitchen",
-      "address": "香港德輔道西271-285號均益大廈3期地下3號鋪",
-      "addressKey": "香港德輔道西271285號均益大廈3期G3號鋪",
-      "type": "RR",
-      "expiry": "2026-11-02"
     },
     "3118807295": {
       "licno": "3118807295",
@@ -251500,14 +251340,6 @@
       "type": "RR",
       "expiry": "2027-10-26"
     },
-    "3152803646": {
-      "licno": "3152803646",
-      "shopSign": "YOI COFFEE & BAKERY",
-      "address": "九龍九龍城龍崗道20號地下",
-      "addressKey": "九龍九龍城龍崗道20號G",
-      "type": "RR",
-      "expiry": "2026-11-02"
-    },
     "3152803655": {
       "licno": "3152803655",
       "shopSign": "陳茶館",
@@ -254516,14 +254348,6 @@
       "type": "RR",
       "expiry": "2027-08-17"
     },
-    "3161806429": {
-      "licno": "3161806429",
-      "shopSign": "SPADES",
-      "address": "九龍赫德道11號利就商業大廈地下",
-      "addressKey": "九龍赫德道11號利就商業大廈G",
-      "type": "RR",
-      "expiry": "2026-11-02"
-    },
     "3161806456": {
       "licno": "3161806456",
       "shopSign": "HAAGEN DAZS",
@@ -256691,14 +256515,6 @@
       "addressKey": "九龍尖沙咀樂道3650號華源大廈G1A&9B鋪",
       "type": "RR",
       "expiry": "2027-10-21"
-    },
-    "3161811294": {
-      "licno": "3161811294",
-      "shopSign": "WT Cafe Hong Kong",
-      "address": "九龍佐敦文匯街46號文景樓地下",
-      "addressKey": "九龍佐敦文匯街46號文景樓G",
-      "type": "RR",
-      "expiry": "2026-11-02"
     },
     "3161811300": {
       "licno": "3161811300",
@@ -261187,14 +261003,6 @@
       "addressKey": "九龍九龍塘達之路80號又一城LG1樓LG1K64A號舖",
       "type": "RR",
       "expiry": "2027-10-24"
-    },
-    "3163802591": {
-      "licno": "3163802591",
-      "shopSign": "Dancing Kettle",
-      "address": "九龍福榮街218號美居中心地下59號鋪",
-      "addressKey": "九龍福榮街218號美居中心G59號鋪",
-      "type": "RR",
-      "expiry": "2026-11-02"
     },
     "3163802607": {
       "licno": "3163802607",
@@ -276742,8 +276550,8 @@
     }
   },
   "stats": {
-    "restaurants": 17296,
-    "restaurantsWithShopSign": 17296,
-    "otherFood": 16574
+    "restaurants": 17284,
+    "restaurantsWithShopSign": 17284,
+    "otherFood": 16565
   }
 }

@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-01</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-02</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -5680,15 +5680,6 @@
       <ADR>新界沙田火炭山尾街19-25號宇宙工業中心地下G室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-03</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FE</TYPE>
-      <DIST>97</DIST>
-      <LICNO>2597800241</LICNO>
-      <SS>豬手工房</SS>
-      <ADR>新界沙田大圍成運路1-7號交通城大廈2樓11室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FE</TYPE>
@@ -16822,15 +16813,6 @@
       <ADR>九龍土瓜灣新碼頭街3-5號幸福大廈1樓2部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>52</DIST>
-      <LICNO>2952807629</LICNO>
-      <SS>聖安娜餅屋</SS>
-      <ADR>九龍紅磡湖光街1-7號聯成大廈地下17E鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -29507,15 +29489,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>15</DIST>
-      <LICNO>2915805659</LICNO>
-      <SS>犀牛犀牛</SS>
-      <ADR>香港南區香港仔南寧街2-16號 香港仔中心第4期1樓1號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>15</DIST>
       <LICNO>2915805695</LICNO>
       <SS>香港富麗敦海洋公園酒店</SS>
       <ADR>香港南區深灣海洋徑3號 香港富麗敦海洋公園酒店地下(B部份)</ADR>
@@ -37319,15 +37292,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>93</DIST>
-      <LICNO>2993808533</LICNO>
-      <SS>星光燒鵝專門店</SS>
-      <ADR>新界屯門屯門鄉事會路94-110號康利中心地下16號鋪B部分</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>93</DIST>
       <LICNO>2993808542</LICNO>
       <SS>滋味店</SS>
       <ADR>新界屯門鳴琴路1號山景街市地下T-SK 45號鋪</ADR>
@@ -37972,15 +37936,6 @@
       <ADR>新界屯門天后路18號南豐工業城2座5樓10室(A部份)</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-27</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>93</DIST>
-      <LICNO>2993809721</LICNO>
-      <SS>新龍城點心小廚</SS>
-      <ADR>新界屯門寶田邨寶田街市地下25-28號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -76375,15 +76330,6 @@
       <ADR>新界荃灣惠荃路22-26號綠楊坊1樓F9室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-29</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>92</DIST>
-      <LICNO>2992804419</LICNO>
-      <SS>凱寶集團有限公司</SS>
-      <ADR>新界荃灣横窩仔街16-26號順力工業大廈二樓4C室(大部份)</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -125789,15 +125735,6 @@
     <LP>
       <TYPE>FP</TYPE>
       <DIST>93</DIST>
-      <LICNO>3693001378</LICNO>
-      <SS>百佳海鮮</SS>
-      <ADR>新界屯門屯龍門路富健花園街市地下42號檔</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>93</DIST>
       <LICNO>3693001387</LICNO>
       <SS>本地海鮮</SS>
       <ADR>新界屯門龍門路富健花園街市地下41號檔</ADR>
@@ -132211,15 +132148,6 @@
       <ADR>新界沙田火炭駿洋邨駿洋商場街市地下低層3樓 MK 1, 2及 3和MK 21, 22, 23 及  24 號檔</ADR>
       <INFO>#R</INFO>
       <EXPDATE>2027-10-18</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>97</DIST>
-      <LICNO>3697804517</LICNO>
-      <SS>佳寶食品超級市場</SS>
-      <ADR>新界沙田乙明邨乙明邨街 7 號地下7 A 號鋪部份</ADR>
-      <INFO>#R#S</INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
@@ -146989,15 +146917,6 @@
       <ADR>新界屯門鳴琴路1號山景街市地下 T-SK 41-42號鋪(B部份)</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-19</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FS</TYPE>
-      <DIST>93</DIST>
-      <LICNO>3593800543</LICNO>
-      <SS>星光燒鵝專門店</SS>
-      <ADR>新界屯門屯門鄉事會路94-110號康利中心地下16號鋪A部分</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-02</EXPDATE>
     </LP>
     <LP>
       <TYPE>FS</TYPE>
