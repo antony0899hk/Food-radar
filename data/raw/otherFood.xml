@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-07</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-08</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -22415,15 +22415,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>94</DIST>
-      <LICNO>2994809180</LICNO>
-      <SS>西米Go</SS>
-      <ADR>新界元朗屏山屏廈路65號屏欣苑屏欣商場街市地下MK12號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>94</DIST>
       <LICNO>2994809199</LICNO>
       <SS>達江食品(香港)有限公司</SS>
       <ADR>新界元朗喜業街2號喜業工廠大廈4樓T9及T10室</ADR>
@@ -34228,15 +34219,6 @@
       <ADR>新界屯門湖翠路168至236 號海趣坊61-62 號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-21</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>93</DIST>
-      <LICNO>2993800371</LICNO>
-      <SS>鮮魚湯食品公司</SS>
-      <ADR>新界屯門石排頭路7號 德雅工業中心A座11樓A5室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -48803,15 +48785,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>11</DIST>
-      <LICNO>2911811650</LICNO>
-      <SS>野草</SS>
-      <ADR>香港北角和富道21-53號 和富地庫B50號舖B1號室主要部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>11</DIST>
       <LICNO>2911811669</LICNO>
       <SS>小老板</SS>
       <ADR>香港西灣河筲箕灣道57-87號 太安樓地下A72A號鋪</ADR>
@@ -57790,15 +57763,6 @@
       <ADR>新界沙田火炭禾寮坑路2-16號安盛工業大廈11樓C室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-06</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>97</DIST>
-      <LICNO>2997813333</LICNO>
-      <SS>優鮮一族</SS>
-      <ADR>新界沙田成運路25-27號成全工業大廈地下5號工作坊</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -96224,24 +96188,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>51</DIST>
-      <LICNO>2951803602</LICNO>
-      <SS>金煌子廚房</SS>
-      <ADR>九龍藍田匯景道8號匯景廣場3樓50B號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
-      <LICNO>2951803611</LICNO>
-      <SS>金翠</SS>
-      <ADR>九龍觀塘大業街29號海洋工業大廈11樓A&amp;B室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
       <LICNO>2951803620</LICNO>
       <SS>小食大王</SS>
       <ADR>九龍觀塘開源道68號觀塘廣場地下G32鋪</ADR>
@@ -106961,15 +106907,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>17</DIST>
-      <LICNO>2917801448</LICNO>
-      <SS>貢茶</SS>
-      <ADR>香港東涌東涌站TUC13號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>17</DIST>
       <LICNO>2917801536</LICNO>
       <SS>復興行</SS>
       <ADR>香港大嶼山大澳永安街4號地下D鋪</ADR>
@@ -114814,15 +114751,6 @@
       <ADR>香港柴灣新業街6號 安力工業中心7樓716室B部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-04-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FG</TYPE>
-      <DIST>11</DIST>
-      <LICNO>3211800649</LICNO>
-      <SS>野草</SS>
-      <ADR>香港北角和富道21-53號 和富地庫B50號舖B1號室小部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>FG</TYPE>

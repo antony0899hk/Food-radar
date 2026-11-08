@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-07</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-08</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -7900,15 +7900,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>18</DIST>
-      <LICNO>2218817234</LICNO>
-      <SS>一起食堂</SS>
-      <ADR>香港中環域多利皇后街2號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
       <LICNO>2218817243</LICNO>
       <SS>Wagyu Kappo Oda &amp; Kicho</SS>
       <ADR>香港中環 皇后大道中48號 萬年大廈 1樓2號舖</ADR>
@@ -12364,15 +12355,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>52</DIST>
-      <LICNO>2252802052</LICNO>
-      <SS>小津居酒屋</SS>
-      <ADR>九龍旺角梭椏道6B號榮英大廈地下（南面部份)</ADR>
-      <INFO>#F#G#H</INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>52</DIST>
       <LICNO>2252802061</LICNO>
       <SS>車仔麵(綱)記</SS>
       <ADR>九龍紅磡高山道26A至26D號榮林大廈地下A5、A6及B號鋪</ADR>
@@ -14290,15 +14272,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>52</DIST>
-      <LICNO>2252806726</LICNO>
-      <SS>蒲仙味滷麵</SS>
-      <ADR>九龍紅磡黃埔花園第一期地下6B號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>52</DIST>
       <LICNO>2252806735</LICNO>
       <SS>快樂蜂</SS>
       <ADR>九龍紅磡必嘉街120號黃埔花園3期地下1B號鋪</ADR>
@@ -14781,15 +14754,6 @@
       <ADR>九龍九龍城福佬村道20-22號 學林軒地下A舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>52</DIST>
-      <LICNO>2252807695</LICNO>
-      <SS>潮食坊</SS>
-      <ADR>九龍紅磡馬頭圍道99號地鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -27318,15 +27282,6 @@
       <ADR>香港薄扶林華富(二)邨華富(二)商場 5樓36號商業舖位及舖前部份走廊</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-03</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>15</DIST>
-      <LICNO>2215229555</LICNO>
-      <SS>億榮</SS>
-      <ADR>香港薄扶林華富(二)邨華富(二)商場5樓33號舖位 及舖前部份走廊</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -54570,15 +54525,6 @@
       <ADR>新界沙田 沙田正街2-8號新城市廣場第3期第3層A330號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>97</DIST>
-      <LICNO>2297807726</LICNO>
-      <SS>家宜美食</SS>
-      <ADR>新界沙田車公廟路69號顯徑邨商業/停車場大樓 (名顯徑商場A翼) 街市地下M20號檔及M21號檔位</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -133225,15 +133171,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>11</DIST>
-      <LICNO>3111804400</LICNO>
-      <SS>港川麻辣燙</SS>
-      <ADR>香港西灣河筲箕灣道57-87號 太安樓地下A5A舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>11</DIST>
       <LICNO>3111804419</LICNO>
       <SS>ALCHEMY ORIGIN</SS>
       <ADR>香港鰂魚涌英皇道979號太古坊 太古坊二座地下A舖及舖前露天座位</ADR>
@@ -141528,15 +141465,6 @@
       <ADR>九龍長沙灣元州街464號寶華閣地下4號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>63</DIST>
-      <LICNO>3163802306</LICNO>
-      <SS>森記</SS>
-      <ADR>九龍深水埗青山道150號地下部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -152256,15 +152184,6 @@
       <ADR>九龍九龍灣宏光道1號億京中心地下3A鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-26</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>51</DIST>
-      <LICNO>3151802831</LICNO>
-      <SS>星洲總廚</SS>
-      <ADR>九龍觀塘聯安街9,9A,9B,11-15號 永毅大樓地下B鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
