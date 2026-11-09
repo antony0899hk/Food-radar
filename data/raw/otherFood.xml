@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-08</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-09</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -25592,15 +25592,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>96</DIST>
-      <LICNO>2996801898</LICNO>
-      <SS>點盅皇</SS>
-      <ADR>新界上水鳳南路9號翠麗花園商場地下20及21號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>96</DIST>
       <LICNO>2996801904</LICNO>
       <SS>清純國際發展有限公司</SS>
       <ADR>新界上水彩園路九號深港中心14號鋪地下</ADR>
@@ -33822,7 +33813,7 @@
       <SS>鴻記</SS>
       <ADR>新界屯門新安街2號富益商業大廈地下高層U2號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2027-01-10</EXPDATE>
+      <EXPDATE>2028-01-10</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -57155,15 +57146,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>97</DIST>
-      <LICNO>2997812233</LICNO>
-      <SS>素｡ 回家</SS>
-      <ADR>新界沙田牛皮沙街2號愉翠苑商業綜合大廈地下街市2及3號檔</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>97</DIST>
       <LICNO>2997812242</LICNO>
       <SS>壽司達人</SS>
       <ADR>新界沙田沙角邨沙角商場地下沙角市場S-SK54號鋪</ADR>
@@ -59050,15 +59032,6 @@
       <ADR>新界沙田大圍大圍村第十街7號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-02</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>97</DIST>
-      <LICNO>2997815029</LICNO>
-      <SS>眾樂烘焙</SS>
-      <ADR>新界沙田大圍大圍道84號德安樓地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -80645,15 +80618,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>92</DIST>
-      <LICNO>2992811882</LICNO>
-      <SS>口口檸養生茶</SS>
-      <ADR>新界荃灣 大壩街47號   安康大廈地下9號鋪第5部分</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>92</DIST>
       <LICNO>2992811891</LICNO>
       <SS>蜜雪冰城</SS>
       <ADR>新界荃灣荃興徑25號安富大廈地下 B1鋪</ADR>
@@ -83988,7 +83952,7 @@
       <SS>愛莉烘焙</SS>
       <ADR>新界葵涌梨木道32-50號金運工業大廈 第一座9樓J室</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
+      <EXPDATE>2027-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -84430,15 +84394,6 @@
       <ADR>新界葵涌華星街2-6號安達工業大廈17樓部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-06</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
-      <LICNO>2991806056</LICNO>
-      <SS>Simply Deli HK</SS>
-      <ADR>新界葵涌貨櫃碼頭路51-63號葵順工業中心北座1樓G鋪部份</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -89308,15 +89263,6 @@
       <ADR>新界葵涌葵豐街33-39號華豐工業中心第二座 10樓A室A2部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
-      <LICNO>2991814237</LICNO>
-      <SS>袁記雲餃</SS>
-      <ADR>新界葵涌盛芳街17-19號興芳路186號京寶大廈地下A3鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -99725,15 +99671,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>51</DIST>
-      <LICNO>2951812381</LICNO>
-      <SS>糧友工場</SS>
-      <ADR>九龍觀塘道316-318號志聯工廠大廈地下A廠第2部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
       <LICNO>2951812415</LICNO>
       <SS>酸菜碰上魚</SS>
       <ADR>九龍九龍灣宏光道7號興力工業中心6樓1室</ADR>
@@ -100675,15 +100612,6 @@
       <ADR>九龍牛頭角道3號得寶花園得寶商場地下04鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-04</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
-      <LICNO>2951814022</LICNO>
-      <SS>(沒有記錄)</SS>
-      <ADR>九龍觀塘成業街15-17號成運工業大廈4樓421室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -132049,15 +131977,6 @@
       <ADR>新界沙田廣源邨停車場大樓1座5樓廣源市場S-KY52號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2026-11-10</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>97</DIST>
-      <LICNO>3697804553</LICNO>
-      <SS>明發海鮮檔</SS>
-      <ADR>新界沙田穗禾路13號穗禾商場中心地下4號單位</ADR>
-      <INFO>#R</INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>

@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-08</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-09</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -8499,15 +8499,6 @@
       <ADR>香港夏愨道18號海富中心 地下42-68號A舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-07</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218818307</LICNO>
-      <SS>浪</SS>
-      <ADR>香港蘇杭街93號東利商業大廈 地下2號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -35242,15 +35233,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>93</DIST>
-      <LICNO>2293806035</LICNO>
-      <SS>咖吔</SS>
-      <ADR>新界屯門屯隆街1號錦薈坊第3層301-306號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>93</DIST>
       <LICNO>2293806044</LICNO>
       <SS>UCC Coffee Shop</SS>
       <ADR>新界屯門屯順街1號屯門市廣場一期AEON屯門店地下 G03號鋪</ADR>
@@ -51073,15 +51055,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>97</DIST>
-      <LICNO>2297001629</LICNO>
-      <SS>德興美食中心</SS>
-      <ADR>新界沙田 沙田正街3-9號 希爾頓中心3樓 4,5及33號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>97</DIST>
       <LICNO>2297001647</LICNO>
       <SS>裕發茶餐廳</SS>
       <ADR>新界沙田馬鞍山 富安花園商場 地下 23至24號鋪</ADR>
@@ -65577,15 +65550,6 @@
       <ADR>九龍尖沙咀廣東道23號 馬哥孛羅太子酒店三樓(A部份)</ADR>
       <INFO>#E#F#G#H</INFO>
       <EXPDATE>2027-10-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
-      <LICNO>2261819865</LICNO>
-      <SS>亞金南洋茶室十三姨酸菜魚</SS>
-      <ADR>九龍紅磡都會道6號 置富都會7樓749-751號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -112894,15 +112858,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>53</DIST>
-      <LICNO>2253805261</LICNO>
-      <SS>逸暉投資有限公司</SS>
-      <ADR>九龍新蒲崗寧遠街10-20號 渣打銀行大廈高層地下A、B舖及地下F舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>53</DIST>
       <LICNO>2253805270</LICNO>
       <SS>薩莉亞意式餐廳</SS>
       <ADR>九龍黃大仙鳳德邨鳳德商場2樓226號舖</ADR>
@@ -117331,15 +117286,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3118811021</LICNO>
-      <SS>祥興記上海生煎包</SS>
-      <ADR>香港堅尼地城卑路乍街135號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3118811030</LICNO>
       <SS>MAGGIE CHOOS</SS>
       <ADR>香港中環荷李活道1-13號 華懋荷李活中心地下1鋪</ADR>
@@ -120711,15 +120657,6 @@
       <ADR>九龍梭椏道4A號榮英大廈地下南邊部份4號A鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-31</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>52</DIST>
-      <LICNO>3152803442</LICNO>
-      <SS>北斗</SS>
-      <ADR>九龍九龍城福佬村道59號地下B號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -126691,15 +126628,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>93</DIST>
-      <LICNO>3193000671</LICNO>
-      <SS>美味屋</SS>
-      <ADR>新界屯門湖翠路138號啟豐園商場地下第9號舖及舖前露天座位</ADR>
-      <INFO>#A</INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>93</DIST>
       <LICNO>3193000705</LICNO>
       <SS>寶島</SS>
       <ADR>新界屯門市地段333號啟豐園地下第SA/G/25號舖 及舖後露天座位</ADR>
@@ -130498,15 +130426,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>62</DIST>
-      <LICNO>3162805292</LICNO>
-      <SS>云貴坊小鍋米線</SS>
-      <ADR>九龍旺角花園街213A號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>62</DIST>
       <LICNO>3162805308</LICNO>
       <SS>聯記麵家</SS>
       <ADR>九龍旺角砵蘭街364號地下A舖</ADR>
@@ -134265,15 +134184,6 @@
       <ADR>新界沙田大圍積存街32號地下B鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-17</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>97</DIST>
-      <LICNO>3197801124</LICNO>
-      <SS>夜燒</SS>
-      <ADR>新界沙田顯田村93B地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -143481,15 +143391,6 @@
       <ADR>香港灣仔道199號天輝中心2樓</ADR>
       <INFO>#B</INFO>
       <EXPDATE>2027-11-06</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
-      <LICNO>3112803945</LICNO>
-      <SS>杯莫亭</SS>
-      <ADR>香港灣仔謝斐道460-462號楊耀熾商業大廈3樓A及B室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
