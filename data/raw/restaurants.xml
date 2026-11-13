@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-11</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-13</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -1838,7 +1838,7 @@
       <SS>Zuma</SS>
       <ADR>香港中環畢打街11號置地廣場6樓601至603號店鋪及5樓5 01至503號店鋪</ADR>
       <INFO>#E#F#G#H</INFO>
-      <EXPDATE>2026-11-25</EXPDATE>
+      <EXPDATE>2027-11-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -2063,7 +2063,7 @@
       <SS>新五龍粥麵茶餐廳</SS>
       <ADR>香港德輔道西19-23號地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-17</EXPDATE>
+      <EXPDATE>2027-11-17</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -2081,7 +2081,7 @@
       <SS>六安居</SS>
       <ADR>香港上環德輔道西40-50號一樓(部份),二樓及三樓</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-24</EXPDATE>
+      <EXPDATE>2027-11-24</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -3998,7 +3998,7 @@
       <SS>薄餅叔叔</SS>
       <ADR>香港西環卑路乍街144-148號金豪閣1樓及地下3號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
+      <EXPDATE>2027-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -4723,6 +4723,15 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>18</DIST>
+      <LICNO>2218811467</LICNO>
+      <SS>TATE Dining Room &amp; Bar</SS>
+      <ADR>香港上環太平山街21-27號及荷里活道208-214號 太平大廈1樓部份D舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-02</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>18</DIST>
       <LICNO>2218811476</LICNO>
       <SS>YASHIMA OMAKASE</SS>
       <ADR>香港中環九如坊2-4號地下</ADR>
@@ -5263,15 +5272,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>18</DIST>
-      <LICNO>2218812558</LICNO>
-      <SS>上囍麵館</SS>
-      <ADR>香港中環夏道16號遠東金融中心地下高層E1及E2舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
       <LICNO>2218812567</LICNO>
       <SS>半山食堂</SS>
       <ADR>香港西營盤般咸道13-15號 金寧大廈地下及低層地下B號舖</ADR>
@@ -5339,7 +5339,7 @@
       <SS>華豐燒臘</SS>
       <ADR>香港中環域多利皇后街5至8號鴻基大廈地下A,B及E舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-21</EXPDATE>
+      <EXPDATE>2027-11-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -5960,7 +5960,7 @@
       <SS>何富記麵家</SS>
       <ADR>香港中環威靈頓街112-114號 新威大廈地下A舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-19</EXPDATE>
+      <EXPDATE>2027-11-19</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -6572,7 +6572,7 @@
       <SS>Basehall</SS>
       <ADR>香港中環康樂廣場1號怡和大廈 地下低層9A,9B及9C號鋪及地庫4A鋪</ADR>
       <INFO>#H</INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
+      <EXPDATE>2027-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -7922,7 +7922,7 @@
       <SS>Tic Tac Room</SS>
       <ADR>香港中環士丹利街10-12號1樓及2樓</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
+      <EXPDATE>2027-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -8543,7 +8543,7 @@
       <SS>BAR LEONE</SS>
       <ADR>香港中環必列者士街1-17號及 荷李活道108號聚賢居3樓2及3號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-30</EXPDATE>
+      <EXPDATE>2027-11-30</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -9610,29 +9610,11 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>18</DIST>
-      <LICNO>2218819753</LICNO>
-      <SS>LA VACHE!</SS>
-      <ADR>香港山頂道128號 凌霄閣1層2號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
       <LICNO>2218819762</LICNO>
       <SS>成都宴</SS>
       <ADR>香港中環德己立街32號 加州大廈5樓</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218819771</LICNO>
-      <SS>PRIMO POSTO</SS>
-      <ADR>香港中環善慶街7-9號 地下B及D舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -10236,15 +10218,6 @@
       <ADR>香港上環歌賦街24號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>3818820521</LICNO>
-      <SS>肉屋田中</SS>
-      <ADR>香港中環威靈頓街92號1樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -12895,15 +12868,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>52</DIST>
-      <LICNO>2252803514</LICNO>
-      <SS>出羽桜鉄板燒料理</SS>
-      <ADR>九龍紅磡明安街13號地下</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-12-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>52</DIST>
       <LICNO>2252803541</LICNO>
       <SS>稻香</SS>
       <ADR>九龍何文田忠孝街60號愛民商場一樓F27及F28號鋪</ADR>
@@ -13349,7 +13313,7 @@
       <SS>羊鞍餐廳</SS>
       <ADR>九龍九龍城福佬村道20-22號地下B鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-19</EXPDATE>
+      <EXPDATE>2027-11-19</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -13376,7 +13340,7 @@
       <SS>胡椒廚房</SS>
       <ADR>九龍紅磡黃埔花園第八期黃埔美食坊1樓117-118號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2027-01-04</EXPDATE>
+      <EXPDATE>2028-01-04</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -13799,7 +13763,7 @@
       <SS>覓。甜</SS>
       <ADR>九龍湖光街1-7號聯盛大廈地下3號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-08</EXPDATE>
+      <EXPDATE>2027-12-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -14286,6 +14250,15 @@
       <ADR>九龍土瓜灣馬頭圍道187-187A號C座地下4號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-29</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>52</DIST>
+      <LICNO>2252806726</LICNO>
+      <SS>蒲仙味滷麵</SS>
+      <ADR>九龍紅磡黃埔花園第一期地下6B號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -16983,7 +16956,7 @@
       <DIST>52</DIST>
       <LICNO>2252810774</LICNO>
       <SS>花廚</SS>
-      <ADR>九龍啟德協調道10號天壐天MALL 2樓 203號鋪及鋪前露天座位</ADR>
+      <ADR>九龍啟德協調道10號天璽·天2樓			  203號鋪及鋪前露天座位</ADR>
       <INFO>#A</INFO>
       <EXPDATE>2027-08-06</EXPDATE>
     </LP>
@@ -17953,6 +17926,15 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>94</DIST>
+      <LICNO>2294002807</LICNO>
+      <SS>將太日本料理</SS>
+      <ADR>新界元朗建德街27號</ADR>
+      <INFO>#G#H</INFO>
+      <EXPDATE>2027-10-22</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>94</DIST>
       <LICNO>2294002825</LICNO>
       <SS>新明苑海鮮酒家</SS>
       <ADR>新界元朗 錦綉花園大道104約3250B 24A地段(部份) 地下及一樓</ADR>
@@ -18714,6 +18696,15 @@
       <ADR>新界元朗大陂頭徑26至36號及豐年路7號豐年樓地下E號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-04</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>94</DIST>
+      <LICNO>2294801976</LICNO>
+      <SS>鏸園茶啡棧</SS>
+      <ADR>新界元朗媽廟路20號永發大廈第2座地下I號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-10</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -19541,7 +19532,7 @@
       <SS>三興飯店</SS>
       <ADR>新界元朗元朗泰祥街10-30號盛發大廈地下4及5號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-25</EXPDATE>
+      <EXPDATE>2027-11-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -22961,7 +22952,7 @@
       <SS>Brother 5 Oyster De Tapas Bar</SS>
       <ADR>新界元朗鳯攸東街9號好順意大廈地下  34-35號舖</ADR>
       <INFO>#F</INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
+      <EXPDATE>2027-11-23</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -23920,24 +23911,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>94</DIST>
-      <LICNO>3894812081</LICNO>
-      <SS>沒有記錄</SS>
-      <ADR>新界元朗洪水橋 洪安里1號   滙都 地下  C1-2號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
-      <LICNO>3894812090</LICNO>
-      <SS>沒有記錄</SS>
-      <ADR>新界元朗西菁街20號益輝大廈地下3號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
       <LICNO>3894812106</LICNO>
       <SS>白咖喱公司</SS>
       <ADR>新界元朗元龍街9號形點I地下G003號鋪</ADR>
@@ -24141,6 +24114,15 @@
       <ADR>新界元朗元龍街9號形點I 二樓2043號鋪</ADR>
       <INFO>#G#H</INFO>
       <EXPDATE>2027-04-15</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>94</DIST>
+      <LICNO>3894812337</LICNO>
+      <SS>大師傅粥品</SS>
+      <ADR>新界元朗天水圍天瑞(II)邨天瑞商場地下G3及G4鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -25211,7 +25193,7 @@
       <SS>肯德基</SS>
       <ADR>新界上水石湖墟龍琛路48號 上水滙5樓502號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-24</EXPDATE>
+      <EXPDATE>2027-11-24</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -26179,15 +26161,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>96</DIST>
-      <LICNO>2296803170</LICNO>
-      <SS>八月茶室</SS>
-      <ADR>新界粉嶺皇后山邨皇后山商場1樓101號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>96</DIST>
       <LICNO>2296803189</LICNO>
       <SS>麥當勞餐廳</SS>
       <ADR>新界粉嶺  皇后山邨 皇后山商場 地下11號舖</ADR>
@@ -26507,7 +26480,7 @@
       <SS>褔滿庭</SS>
       <ADR>新界粉嶺百和路88號花都廣場1樓 A83-A98, A102, A103及A106號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-28</EXPDATE>
+      <EXPDATE>2027-11-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -26809,11 +26782,11 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>96</DIST>
-      <LICNO>3896804026</LICNO>
-      <SS>家樂燒臘 、滷棧</SS>
-      <ADR>新界上水龍琛路33號龍豐花園地下L1 10-11 號舖</ADR>
+      <LICNO>2296804030</LICNO>
+      <SS>名都冰室</SS>
+      <ADR>新界粉嶺粉嶺名都第2層3A,4及5號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
+      <EXPDATE>2027-10-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -27074,7 +27047,7 @@
       <SS>天龍樓</SS>
       <ADR>香港仔舊大街58至62號地下C號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-20</EXPDATE>
+      <EXPDATE>2027-11-20</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -27246,15 +27219,6 @@
       <ADR>香港香港仔 鴨脷洲大街108號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-07-03</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>15</DIST>
-      <LICNO>2215205700</LICNO>
-      <SS>功夫點心</SS>
-      <ADR>香港 香港仔大道190號地下1、2及3(部份) 號舖</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -30692,7 +30656,7 @@
       <SS>必勝客</SS>
       <ADR>新界大埔超級城A區2樓076-082及鋪外座位</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-26</EXPDATE>
+      <EXPDATE>2027-11-26</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -30828,6 +30792,15 @@
       <ADR>新界大埔  富善邨 富善商場 地下G25號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-02</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>95</DIST>
+      <LICNO>2295802693</LICNO>
+      <SS>豪宴海鮮酒家</SS>
+      <ADR>新界大埔安埔路12號富善邨富善商場3樓301號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -31268,7 +31241,7 @@
       <SS>肯德基</SS>
       <ADR>新界大埔太和 大埔太和路12號 太和邨 太和廣場 1樓119-120號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
+      <EXPDATE>2027-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -34108,15 +34081,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>93</DIST>
-      <LICNO>2293803887</LICNO>
-      <SS>再來一煲</SS>
-      <ADR>新界屯門屯門市地段125號好發大廈地下17-20鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>93</DIST>
       <LICNO>2293803896</LICNO>
       <SS>吉野家</SS>
       <ADR>新界屯門河傍街141-145號及青賢街2A-2I號 屯門鄉事會路117-157號康麗花園地下2及3號鋪</ADR>
@@ -35678,7 +35642,7 @@
       <SS>銀龍茶餐廳</SS>
       <ADR>新界屯門 友愛路 友愛邨 H.A.N.D.S S區 第2層 S-204,S-205,S-206 &amp; S-207號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
+      <EXPDATE>2027-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -37970,7 +37934,7 @@
       <TYPE>RL</TYPE>
       <DIST>62</DIST>
       <LICNO>2262304010</LICNO>
-      <SS>綠堡</SS>
+      <SS>肆柒食堂</SS>
       <ADR>九龍大角咀福利街8號 港灣豪庭地下G09舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-04-08</EXPDATE>
@@ -38492,7 +38456,7 @@
       <TYPE>RL</TYPE>
       <DIST>62</DIST>
       <LICNO>2262807379</LICNO>
-      <SS>港灣薈</SS>
+      <SS>運好火鍋海鮮酒家</SS>
       <ADR>九龍大角咀福利街 8號港灣豪庭商場1層 126號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-02</EXPDATE>
@@ -41636,7 +41600,7 @@
       <SS>雁來居潮州飯店</SS>
       <ADR>九龍旺角 砵蘭街168號地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-21</EXPDATE>
+      <EXPDATE>2027-11-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -46613,7 +46577,7 @@
       <SS>芽莊越式料理</SS>
       <ADR>香港太古城太裕路3號順安閣G512-G513號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
+      <EXPDATE>2027-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -46838,7 +46802,7 @@
       <SS>魚事者</SS>
       <ADR>香港北角宏安道14-18號威德閣地下14號舖</ADR>
       <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-28</EXPDATE>
+      <EXPDATE>2027-11-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -47594,7 +47558,7 @@
       <SS>金華餐廳</SS>
       <ADR>香港柴灣小西灣街市地下68及69號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-30</EXPDATE>
+      <EXPDATE>2027-11-30</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -49115,7 +49079,7 @@
       <SS>Harbourview Grill</SS>
       <ADR>香港北角渣華道123號北角匯弍期壹字樓108室</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
+      <EXPDATE>2027-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -49786,6 +49750,15 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>11</DIST>
+      <LICNO>2211810836</LICNO>
+      <SS>福記私房菜</SS>
+      <ADR>香港北角渣華道3-5A號 永光閣部份地下及一樓</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-05</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>11</DIST>
       <LICNO>2211810863</LICNO>
       <SS>JELLO &amp; MELLOW</SS>
       <ADR>香港鰂魚涌英皇道1001號 9樓901及902號鋪</ADR>
@@ -50330,7 +50303,7 @@
       <SS>大哥雞飯</SS>
       <ADR>香港柴灣小西灣道9號富欣花園 地下59及62至64號</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-03</EXPDATE>
+      <EXPDATE>2027-12-03</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -50547,6 +50520,15 @@
       <ADR>香港北角琴行街21-23號港濤軒地下1-2號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-08</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>11</DIST>
+      <LICNO>2211811893</LICNO>
+      <SS>一心餐廳</SS>
+      <ADR>香港柴灣漁灣邨漁順樓地下5-6號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -52805,7 +52787,7 @@
       <SS>正斗(沙田)粥麵專家</SS>
       <ADR>新界沙田新城市廣場第1期第1層119號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-01</EXPDATE>
+      <EXPDATE>2027-12-01</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -54489,6 +54471,15 @@
       <ADR>新界沙田 沙田正街2-8號新城市廣場第3期第3層A330號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-28</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>97</DIST>
+      <LICNO>2297807717</LICNO>
+      <SS>海日式料理</SS>
+      <ADR>新界馬鞍山保泰街16號WE GO MALL 1樓101號鋪</ADR>
+      <INFO>#G#H</INFO>
+      <EXPDATE>2027-11-05</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -57076,6 +57067,15 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>97</DIST>
+      <LICNO>2297811297</LICNO>
+      <SS>有間車仔麵</SS>
+      <ADR>新界沙田馬鞍山頌安邨頌安商場地下街市 C8 及 C9檔</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-09</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>97</DIST>
       <LICNO>3897811061</LICNO>
       <SS>樂天</SS>
       <ADR>新界沙田馬鞍山鞍祿街 18 號 MOSTOWN 2 樓 2245 號舖</ADR>
@@ -58979,7 +58979,7 @@
       <SS>巡味</SS>
       <ADR>九龍油麻地彌敦道495A-497號 麗星大廈地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
+      <EXPDATE>2027-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -59618,7 +59618,7 @@
       <SS>金不換泰國餐廳</SS>
       <ADR>九龍尖沙咀海港城海運大厦二樓OT 260-263舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-28</EXPDATE>
+      <EXPDATE>2027-12-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -61378,15 +61378,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261810248</LICNO>
-      <SS>THE JUNGLE</SS>
-      <ADR>九龍廟街273-275號寶發大廈地下3號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261810363</LICNO>
       <SS>富士山55</SS>
       <ADR>九龍尖沙咀東麼地道75號南洋中心地下7-8號舖</ADR>
@@ -62723,7 +62714,7 @@
       <SS>大自然素食</SS>
       <ADR>九龍尖沙咀彌敦道132號美麗華廣場一期2樓212舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
+      <EXPDATE>2027-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -63254,7 +63245,7 @@
       <SS>Oyster Cove</SS>
       <ADR>九龍尖沙咀金巴利道73號 新業廣商業大廈地下A舖</ADR>
       <INFO>#F</INFO>
-      <EXPDATE>2026-12-11</EXPDATE>
+      <EXPDATE>2027-12-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -63786,15 +63777,6 @@
       <ADR>九龍尖沙咀海防道32-34號寶豐大廈2樓A1,A2&amp;B1單位</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-30</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
-      <LICNO>2261816291</LICNO>
-      <SS>稻乙日本料理</SS>
-      <ADR>九龍尖沙咀寶勒巷10號10 PRAT 2樓</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -65621,7 +65603,7 @@
       <SS>基地</SS>
       <ADR>九龍尖沙咀山林道29-31號廣利樓地下A舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-07</EXPDATE>
+      <EXPDATE>2027-12-07</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -66611,7 +66593,7 @@
       <SS>食尚館</SS>
       <ADR>九龍西九文化區 香港故宮文化博物館地下低層MUSEUM CAFE 2鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-28</EXPDATE>
+      <EXPDATE>2027-12-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -67286,7 +67268,7 @@
       <SS>川婆婆</SS>
       <ADR>九龍尖沙咀金馬倫道19, 19A &amp; 21號地下B鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
+      <EXPDATE>2027-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -67367,7 +67349,7 @@
       <SS>KOMEDA&apos;S COFFEE</SS>
       <ADR>九龍尖沙咀彌敦道100號 THE ONE第一層地下低層104-105號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-26</EXPDATE>
+      <EXPDATE>2027-12-26</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -69528,6 +69510,15 @@
       <ADR>九龍佐敦彌敦道221-221A 同昌商業大廈地下A舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-05-05</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>61</DIST>
+      <LICNO>3861825586</LICNO>
+      <SS>璽悅</SS>
+      <ADR>九龍尖沙咀堪富利士道1-2A號 堪富利士道1號20樓</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -72821,7 +72812,7 @@
       <SS>棋哥燒鵝 (青山道)</SS>
       <ADR>九龍長沙灣青山道250號地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
+      <EXPDATE>2027-11-23</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -74851,15 +74842,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>63</DIST>
-      <LICNO>2263809071</LICNO>
-      <SS>URBAN Cafe</SS>
-      <ADR>九龍荔枝角長沙灣道 680 號 麗新商業中心1樓103號舖 A部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>63</DIST>
       <LICNO>2263809080</LICNO>
       <SS>巴喻風</SS>
       <ADR>九龍深水埗南昌街96號地下</ADR>
@@ -75769,11 +75751,11 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>63</DIST>
-      <LICNO>3863810238</LICNO>
+      <LICNO>2263810136</LICNO>
       <SS>霓虹獸點心鋪</SS>
       <ADR>九龍深水埗元洲街151號新元洲大廈地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
+      <EXPDATE>2027-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -78563,7 +78545,7 @@
       <SS>富軒</SS>
       <ADR>香港銅鑼灣告士打道311號皇室堡6樓601號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-28</EXPDATE>
+      <EXPDATE>2027-11-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -79032,15 +79014,6 @@
       <ADR>香港銅鑼灣告士打道311號皇室堡4樓402號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>2212807824</LICNO>
-      <SS>祥香園餐廳</SS>
-      <ADR>香港灣仔灣仔道128-150號 明豐大廈1樓B號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -80575,20 +80548,11 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>12</DIST>
-      <LICNO>2212813221</LICNO>
-      <SS>湖南軒湘菜酒樓</SS>
-      <ADR>香港銅鑼灣軒尼詩道497-499號永光商業大廈4-5樓 (主要部份)</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
       <LICNO>2212813249</LICNO>
       <SS>Jan Jan Kushikatsu</SS>
       <ADR>香港灣仔皇后大道東100-102號2樓A舖</ADR>
       <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-20</EXPDATE>
+      <EXPDATE>2027-11-20</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -80855,7 +80819,7 @@
       <TYPE>RL</TYPE>
       <DIST>12</DIST>
       <LICNO>2212813887</LICNO>
-      <SS>早啲見面</SS>
+      <SS>The Rustic Fork</SS>
       <ADR>香港灣仔謝斐道118號樂居樓地下B室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-05-16</EXPDATE>
@@ -81120,15 +81084,6 @@
       <ADR>香港灣仔進教園16號地下及閣樓</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-07</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>2212814534</LICNO>
-      <SS>The Mickey B Pizza Co.</SS>
-      <ADR>香港跑馬地黃泥涌道35號地下及 地下前面的露天座位1及露天座位2</ADR>
-      <INFO>#A</INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -81844,15 +81799,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>12</DIST>
-      <LICNO>2212816062</LICNO>
-      <SS>湘蜀人家</SS>
-      <ADR>香港灣仔 莊士敦道181號 大有大廈大有商場 2樓218號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
       <LICNO>2212816071</LICNO>
       <SS>九龍餐室</SS>
       <ADR>香港銅鑼灣軒尼詩道396號德興大廈地下7號舖(大部分) 及8號舖</ADR>
@@ -81902,7 +81848,7 @@
       <SS>天天海南雞飯 鮨政</SS>
       <ADR>香港銅鑼灣京士頓街9號名店坊地下H2號鋪</ADR>
       <INFO>#F#G#H</INFO>
-      <EXPDATE>2026-11-26</EXPDATE>
+      <EXPDATE>2027-11-26</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -82425,6 +82371,15 @@
       <ADR>香港灣仔巴路士街5號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-30</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>12</DIST>
+      <LICNO>2212817427</LICNO>
+      <SS>鮮芋仙</SS>
+      <ADR>香港銅鑼灣登龍街18號V POINT 地下1號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -83424,6 +83379,15 @@
       <ADR>香港灣仔愛群道32號愛群商業大廈地下2號鋪</ADR>
       <INFO>#F#G#H</INFO>
       <EXPDATE>2027-11-08</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>12</DIST>
+      <LICNO>2212819274</LICNO>
+      <SS>翠湖金閣</SS>
+      <ADR>香港銅鑼灣名店坊加寧街13-15號地下 A,C及D舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -87540,6 +87504,15 @@
     </LP>
     <LP>
       <TYPE>RL</TYPE>
+      <DIST>12</DIST>
+      <LICNO>3812825427</LICNO>
+      <SS>拾捌道</SS>
+      <ADR>香港銅鑼灣告士打道255-257號信和廣場 地下上層07,08,09,10,11,12及13號舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-08</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
       <DIST>92</DIST>
       <LICNO>2292000047</LICNO>
       <SS>海蓮</SS>
@@ -89129,7 +89102,7 @@
       <SS>銀咖喱</SS>
       <ADR>新界荃灣荃華街3號悅來坊永旺大窩口店B2樓R01號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-18</EXPDATE>
+      <EXPDATE>2027-11-18</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -89318,7 +89291,7 @@
       <SS>譚仔雲南米線</SS>
       <ADR>新界荃灣眾安街68號荃灣千色匯一期地下G031-G032號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-20</EXPDATE>
+      <EXPDATE>2027-11-20</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -92041,15 +92014,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>92</DIST>
-      <LICNO>2292809851</LICNO>
-      <SS>悅知味</SS>
-      <ADR>新界荃灣國瑞路168號縉庭山地下底層及地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>92</DIST>
       <LICNO>2292809860</LICNO>
       <SS>青葉海鮮酒家</SS>
       <ADR>新界荃灣路德圍昌泰街1號地下至3樓</ADR>
@@ -92361,15 +92325,6 @@
       <ADR>新界荃灣眾安街68號荃灣千色匯第I期地下G027號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-22</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>92</DIST>
-      <LICNO>2292810253</LICNO>
-      <SS>弁当屋</SS>
-      <ADR>新界荃灣青山公路144-172號荃豐中心地下A2號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -93347,7 +93302,7 @@
       <TYPE>RL</TYPE>
       <DIST>91</DIST>
       <LICNO>2291002107</LICNO>
-      <SS>百匯酒家</SS>
+      <SS>裕滿人家</SS>
       <ADR>新界葵涌石蔭邨 石蔭商場地下11號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-01-11</EXPDATE>
@@ -93926,7 +93881,7 @@
       <SS>東海薈•拉斐特</SS>
       <ADR>新界青衣青衣城1字樓117號鋪</ADR>
       <INFO>#G</INFO>
-      <EXPDATE>2026-11-17</EXPDATE>
+      <EXPDATE>2027-11-17</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -94367,7 +94322,7 @@
       <SS>譚仔雲南米線</SS>
       <ADR>新界青衣楓樹窩路1號翠怡商場二期一樓 116-118及123號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-17</EXPDATE>
+      <EXPDATE>2027-11-17</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -94615,20 +94570,11 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>91</DIST>
-      <LICNO>2291803139</LICNO>
-      <SS>好好點心飲茶椰子雞煲專門店</SS>
-      <ADR>新界葵涌大隴街153號怡勝花園地下低層8-9號鋪（B部份）</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>91</DIST>
       <LICNO>2291803148</LICNO>
       <SS>樂天皇朝</SS>
       <ADR>新界青衣青敬路33號青衣城第3層310B號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
+      <EXPDATE>2027-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -95105,7 +95051,7 @@
       <SS>客滿庭</SS>
       <ADR>新界葵涌興芳路177號葵芳邨商業/停車場(葵芳廣場) 一樓116及116A號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-26</EXPDATE>
+      <EXPDATE>2027-11-26</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -95295,6 +95241,15 @@
       <ADR>新界葵涌葵富路7-11號葵涌廣場1樓B93號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-09</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>91</DIST>
+      <LICNO>2291804275</LICNO>
+      <SS>維記CAFE</SS>
+      <ADR>新界葵涌葵昌路51號九龍貿易中心二樓213號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -96150,6 +96105,15 @@
       <ADR>新界葵涌葵涌市地段第395號 新都會廣場第5層574A號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-02</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>91</DIST>
+      <LICNO>2291805490</LICNO>
+      <SS>泰甜</SS>
+      <ADR>新界青衣青康路12號長康邨康貴樓(組成綜合商業/停車場的部份 位置, 康和樓和康貴樓) 地下8及9號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-10-28</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -97041,15 +97005,6 @@
       <ADR>新界西貢 糧船灣 沙橋村363約359地段地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>98</DIST>
-      <LICNO>2298002203</LICNO>
-      <SS>Schragels Delicatessen</SS>
-      <ADR>新界西貢 海傍廣場1號 兆日樓地下3號鋪及鋪前露天茶座</ADR>
-      <INFO>#A</INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -99227,7 +99182,7 @@
       <SS>雍明冰室</SS>
       <ADR>新界將軍澳至善街5號雍明苑雍明商場地下1鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-14</EXPDATE>
+      <EXPDATE>2027-11-14</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -100358,7 +100313,7 @@
       <TYPE>RL</TYPE>
       <DIST>98</DIST>
       <LICNO>2298807769</LICNO>
-      <SS>喜悅軒</SS>
+      <SS>添喜悅</SS>
       <ADR>新界將軍澳翠林邨翠林新城2樓201號鋪部份</ADR>
       <INFO></INFO>
       <EXPDATE>2027-06-10</EXPDATE>
@@ -100483,11 +100438,11 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>98</DIST>
-      <LICNO>3898807597</LICNO>
+      <LICNO>2298807936</LICNO>
       <SS>大家樂</SS>
       <ADR>新界西貢將軍澳培成里10號明德邨明德商場 地下15A號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
+      <EXPDATE>2027-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -100722,6 +100677,15 @@
       <ADR>新界西貢 翠塘路1Ａ號   地下 G2鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-05-04</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>98</DIST>
+      <LICNO>3898807870</LICNO>
+      <SS>Yakiniku Like</SS>
+      <ADR>新界西貢將軍澳唐德街9號將軍澳中心地下G30舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-10</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -102557,7 +102521,7 @@
       <SS>胡椒廚房</SS>
       <ADR>九龍九龍灣宏照道38號MEGABOX 10層3號單位</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-25</EXPDATE>
+      <EXPDATE>2027-11-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -106953,6 +106917,15 @@
     </LP>
     <LP>
       <TYPE>RL</TYPE>
+      <DIST>51</DIST>
+      <LICNO>3851811483</LICNO>
+      <SS>三悦冰室</SS>
+      <ADR>九龍觀塘曉光街21號曉麗苑曉麗商場2樓205鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-09</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
       <DIST>17</DIST>
       <LICNO>2217000020</LICNO>
       <SS>長洲金冠大酒樓</SS>
@@ -109213,6 +109186,15 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>17</DIST>
+      <LICNO>2217803085</LICNO>
+      <SS>Grill House</SS>
+      <ADR>香港大嶼山梅窩銀鑛灣路6號地下2號舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-09-16</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>17</DIST>
       <LICNO>2217803094</LICNO>
       <SS>La Vista Mexican Restaurant &amp; Bar</SS>
       <ADR>香港大嶼山東涌怡東路9號香港東涌喜來登酒店 1樓106號鋪及鋪前露天座位(1)及(2)</ADR>
@@ -109703,7 +109685,7 @@
       <SS>十足風味</SS>
       <ADR>香港大嶼山東涌迎康街1號 昇薈商場1樓5及6號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-27</EXPDATE>
+      <EXPDATE>2027-11-27</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -110055,6 +110037,15 @@
       <ADR>香港大嶼山赤鱲角香港國際機場二號客運大樓 擴展部份主樓 3TL 066 號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-05-09</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RL</TYPE>
+      <DIST>17</DIST>
+      <LICNO>3817803664</LICNO>
+      <SS>華樂</SS>
+      <ADR>香港大嶼山東涌翔東邨 翔東@潮薈地下08號舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -111058,15 +111049,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>53</DIST>
-      <LICNO>2253801533</LICNO>
-      <SS>景福餐廳</SS>
-      <ADR>九龍新蒲崗景褔街81號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>53</DIST>
       <LICNO>2253801551</LICNO>
       <SS>譚仔三哥米線</SS>
       <ADR>九龍黃大仙竹園道15號竹園廣場2樓S223號舖</ADR>
@@ -111377,7 +111359,7 @@
       <SS>新豪園</SS>
       <ADR>九龍黃大仙睦鄰街8號現崇山商場地下21號舖及舖前座位間</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-18</EXPDATE>
+      <EXPDATE>2027-11-18</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -111521,7 +111503,7 @@
       <SS>聚華冰室</SS>
       <ADR>九龍新蒲崗景福街73號地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-03</EXPDATE>
+      <EXPDATE>2027-12-03</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -116642,7 +116624,7 @@
       <SS>(沒有記錄)</SS>
       <ADR>香港中環雲咸街75-77號嘉兆商業大廈3樓A室</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-25</EXPDATE>
+      <EXPDATE>2027-11-25</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -118240,15 +118222,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3118812219</LICNO>
-      <SS>耀華力</SS>
-      <ADR>香港中環 荷李活道108號 必列者士街1-17號  聚賢居地下C鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3118812228</LICNO>
       <SS>瑞幸咖啡</SS>
       <ADR>香港中環皇后大道中99號 中環中心入口大堂層2B號舖</ADR>
@@ -118834,6 +118807,33 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
+      <LICNO>3118812884</LICNO>
+      <SS>袁記雲餃</SS>
+      <ADR>香港西環 山道17-25號 皇后大道西484-496號  新安大樓地下I鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-04</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>18</DIST>
+      <LICNO>3118812893</LICNO>
+      <SS>Don Pedro</SS>
+      <ADR>香港西營盤第二街1號東祥大廈地下E及F舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-05</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>18</DIST>
+      <LICNO>3118812909</LICNO>
+      <SS>Ditto</SS>
+      <ADR>香港西環南里8-12號地下2號鋪及1樓2號鋪A部分</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-09</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>18</DIST>
       <LICNO>3918813423</LICNO>
       <SS>天模粉食</SS>
       <ADR>香港中環士丹頓街9-11號地下</ADR>
@@ -119184,6 +119184,24 @@
     </LP>
     <LP>
       <TYPE>RR</TYPE>
+      <DIST>18</DIST>
+      <LICNO>3918813812</LICNO>
+      <SS>迎秀KTV</SS>
+      <ADR>香港中環德己立街32號加州大廈22樓</ADR>
+      <INFO>#B</INFO>
+      <EXPDATE>2027-05-11</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>18</DIST>
+      <LICNO>3918813821</LICNO>
+      <SS>(no record found)</SS>
+      <ADR>香港中環雲咸街46-48號 雲明行地下B號舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-11</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
       <DIST>52</DIST>
       <LICNO>3152011162</LICNO>
       <SS>樂園冰室</SS>
@@ -119531,7 +119549,7 @@
       <SS>華欣</SS>
       <ADR>九龍紅磡馬頭圍道23-25號20號舖(27G)地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-20</EXPDATE>
+      <EXPDATE>2027-11-20</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -120112,15 +120130,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>52</DIST>
-      <LICNO>3152802272</LICNO>
-      <SS>名灃小食</SS>
-      <ADR>九龍紅磡馬頭圍道218號漆馬大廈地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-12-29</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>52</DIST>
       <LICNO>3152802306</LICNO>
       <SS>泰發泰國餐廳</SS>
       <ADR>九龍九龍城城南道10號地下A鋪</ADR>
@@ -120518,7 +120527,7 @@
       <TYPE>RR</TYPE>
       <DIST>52</DIST>
       <LICNO>3152803114</LICNO>
-      <SS>燕發山西刀削麵</SS>
+      <SS>啟興美食</SS>
       <ADR>九龍土瓜灣馬頭圍道23至35H號及 民裕街9至31號隆基大廈A座地下3號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-04</EXPDATE>
@@ -121088,7 +121097,7 @@
       <SS>虹姐米線</SS>
       <ADR>九龍何文田窩打老道72號自由大廈地下B地舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-10</EXPDATE>
+      <EXPDATE>2027-12-10</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -121349,7 +121358,7 @@
       <SS>Tara Bloom</SS>
       <ADR>九龍九龍城啟德啟德體育園 啟德零售館 1, 2 樓 M1-209 號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
+      <EXPDATE>2027-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -122780,7 +122789,7 @@
       <SS>潮味屋</SS>
       <ADR>新界元朗天水圍天秀路8號2樓2008鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-21</EXPDATE>
+      <EXPDATE>2027-11-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -123194,7 +123203,7 @@
       <SS>Alpha Coffee</SS>
       <ADR>新界元朗馬田村158號地下</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-24</EXPDATE>
+      <EXPDATE>2027-11-24</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -123744,15 +123753,6 @@
       <ADR>新界元朗 天瑞路88號  俊宏軒 地下 L7號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-26</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>94</DIST>
-      <LICNO>3194804335</LICNO>
-      <SS>飽飽面</SS>
-      <ADR>新界元朗 鳳香街2-18號,鳳琴街15,17及21號, 鳳翔路 17-31號 鴻運中心 地下 49及56號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -126637,6 +126637,15 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>93</DIST>
+      <LICNO>3193000671</LICNO>
+      <SS>美味屋</SS>
+      <ADR>新界屯門湖翠路138號啟豐園商場地下第9號舖及舖前露天座位</ADR>
+      <INFO>#A</INFO>
+      <EXPDATE>2027-11-09</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>93</DIST>
       <LICNO>3193000705</LICNO>
       <SS>寶島</SS>
       <ADR>新界屯門市地段333號啟豐園地下第SA/G/25號舖 及舖後露天座位</ADR>
@@ -127132,6 +127141,15 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>93</DIST>
+      <LICNO>3193801180</LICNO>
+      <SS>頂立</SS>
+      <ADR>新界屯門井財街9號錦發大廈地下20B鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-09-29</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>93</DIST>
       <LICNO>3193801199</LICNO>
       <SS>明記牛雜粉麵</SS>
       <ADR>新界屯門青河坊2號麗寶大廈地下42鋪</ADR>
@@ -127586,7 +127604,7 @@
       <SS>HALF BY INVOLTINI</SS>
       <ADR>新界屯門良德街8號珀御地下G05號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
+      <EXPDATE>2027-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -132307,15 +132325,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>11</DIST>
-      <LICNO>3111802529</LICNO>
-      <SS>Coffee 101</SS>
-      <ADR>香港北角寶馬山道45號賽西湖商場12號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-12-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>11</DIST>
       <LICNO>3111802565</LICNO>
       <SS>Brew Note Coffee Roaster</SS>
       <ADR>香港北角堡壘街19-19A號景文樓地下2號舖</ADR>
@@ -133671,6 +133680,15 @@
       <ADR>香港柴灣小西灣道10號小西灣邨 小西灣商場地下G01號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-02</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>11</DIST>
+      <LICNO>3111805078</LICNO>
+      <SS>BLUE BOTTLE CAFE</SS>
+      <ADR>香港太古城太古城道18號太古城中心2樓22B舖</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-08</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -138509,7 +138527,7 @@
       <TYPE>RR</TYPE>
       <DIST>61</DIST>
       <LICNO>3161809631</LICNO>
-      <SS>SUN HARU</SS>
+      <SS>HARU TABLE</SS>
       <ADR>九龍佐敦白加士街83號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-02-17</EXPDATE>
@@ -139251,15 +139269,6 @@
       <ADR>九龍加連威老道98號東海商業中心地下G1 &amp; G2號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-24</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
-      <LICNO>3161810893</LICNO>
-      <SS>茶大椰</SS>
-      <ADR>九龍尖沙咀彌敦道36-44號重慶大廈地庫S11 C及D舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -140235,6 +140244,15 @@
     </LP>
     <LP>
       <TYPE>RR</TYPE>
+      <DIST>61</DIST>
+      <LICNO>3961812718</LICNO>
+      <SS>迎秀</SS>
+      <ADR>九龍尖沙咀金巴利道45-47號 金巴利廣場3樓</ADR>
+      <INFO>#B</INFO>
+      <EXPDATE>2027-05-10</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
       <DIST>63</DIST>
       <LICNO>3163011612</LICNO>
       <SS>大利冰室</SS>
@@ -140501,7 +140519,7 @@
       <SS>CLS COFFEE &amp; BAR</SS>
       <ADR>九龍順寧道 98 號美寧中心地下 A8 號舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-21</EXPDATE>
+      <EXPDATE>2027-11-21</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -142441,15 +142459,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>63</DIST>
-      <LICNO>3963803918</LICNO>
-      <SS>沒有記錄</SS>
-      <ADR>九龍深水埗福榮街218號美居中心地下64號舖</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>63</DIST>
       <LICNO>3963803927</LICNO>
       <SS>KIZUNA ROASTERY &amp; CO.</SS>
       <ADR>九龍深水埗巴域街77號地下1B鋪</ADR>
@@ -143264,7 +143273,7 @@
       <SS>港灣道 Café</SS>
       <ADR>香港灣仔博覽道1號 香港會議展覽中心G樓(+10.4)</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-09</EXPDATE>
+      <EXPDATE>2027-12-09</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -143282,7 +143291,7 @@
       <SS>咖啡‧小食</SS>
       <ADR>香港灣仔博覽道1號香港會議展覽中心頂樓(A部份)</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-10</EXPDATE>
+      <EXPDATE>2027-12-10</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -144331,15 +144340,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>12</DIST>
-      <LICNO>3112807196</LICNO>
-      <SS>牛極</SS>
-      <ADR>香港銅鑼灣怡和街19-31號 樂聲大廈地下1C舖及1D舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
       <LICNO>3112807239</LICNO>
       <SS>麥麥屋</SS>
       <ADR>香港灣仔交加里17-27號及巴路士街12A-C號,灣仔道 151-163號文安樓地下G11A,G11B及G12號舖</ADR>
@@ -145253,7 +145253,7 @@
       <SS>ARGYROS</SS>
       <ADR>香港銅鑼灣耀華街3號 百樂中心6樓603室</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
+      <EXPDATE>2027-11-13</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -146680,15 +146680,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>12</DIST>
-      <LICNO>3912811540</LICNO>
-      <SS>饃須有</SS>
-      <ADR>香港跑馬地景光街10及12號景德樓 地下B鋪及閣樓B室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-12</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
       <LICNO>3912811559</LICNO>
       <SS>(no record found)</SS>
       <ADR>香港銅鑼灣登龍街18號V POINT30樓</ADR>
@@ -147728,7 +147719,7 @@
       <SS>嚮腩</SS>
       <ADR>新界荃灣荃景圍86號 荃灣中心一期商場高層地下G38及GR38號鋪位</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-03</EXPDATE>
+      <EXPDATE>2027-12-03</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -147846,6 +147837,15 @@
       <ADR>新界荃灣西樓角路186-200號 荃昌中心昌安大廈地下7-10鋪 及鋪前露天座位</ADR>
       <INFO>#A</INFO>
       <EXPDATE>2027-08-04</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>92</DIST>
+      <LICNO>3192802609</LICNO>
+      <SS>潮龍園</SS>
+      <ADR>新界荃灣荃灣街市街47號地下</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-11-11</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -148961,7 +148961,7 @@
       <SS>譚仔雲南米線</SS>
       <ADR>新界葵涌葵芳興芳路198-200號葵豐大廈地下及部份閣樓</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-30</EXPDATE>
+      <EXPDATE>2027-11-30</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -149511,15 +149511,6 @@
       <ADR>新界葵涌美芳街8號昌鴻大廈地下9鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-07-31</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>91</DIST>
-      <LICNO>3191801830</LICNO>
-      <SS>85℃</SS>
-      <ADR>新界葵涌興芳街177號葵芳廣場1樓116B號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2027-09-04</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -150833,7 +150824,7 @@
       <SS>吃茶三千</SS>
       <ADR>新界西貢將軍澳康城路1號康城3樓303號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-18</EXPDATE>
+      <EXPDATE>2027-11-18</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -151184,7 +151175,7 @@
       <SS>榶意泰式粉麵</SS>
       <ADR>九龍嘉榮街3-7號 油塘中心嘉發商場G6及G7室</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-24</EXPDATE>
+      <EXPDATE>2027-11-24</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -151877,7 +151868,7 @@
       <SS>臻味冰室</SS>
       <ADR>九龍觀塘敬業街55號皇廷廣場地下3號鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-19</EXPDATE>
+      <EXPDATE>2027-11-19</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -153006,6 +152997,15 @@
     </LP>
     <LP>
       <TYPE>RR</TYPE>
+      <DIST>51</DIST>
+      <LICNO>3951804136</LICNO>
+      <SS>潮記粉面</SS>
+      <ADR>九龍觀塘九龍灣宏照道7號宏緻苑宏緻商場 地下5號鋪</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-05-08</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
       <DIST>17</DIST>
       <LICNO>3117000055</LICNO>
       <SS>富苑茶餐廳</SS>
@@ -153696,15 +153696,6 @@
       <ADR>香港長洲大新海傍路86號地下A舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-25</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>17</DIST>
-      <LICNO>3117800525</LICNO>
-      <SS>JING JING</SS>
-      <ADR>新界南丫島榕樹灣大街54號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-13</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -154883,7 +154874,7 @@
       <SS>花好越圓</SS>
       <ADR>九龍新蒲崗崇齡街33號新蒲崗廣場地下A57舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-12-07</EXPDATE>
+      <EXPDATE>2027-12-07</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -154992,6 +154983,15 @@
       <ADR>九龍新蒲崗太子道東638號MIKIKI地下低層LG7A號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-04-10</EXPDATE>
+    </LP>
+    <LP>
+      <TYPE>RR</TYPE>
+      <DIST>53</DIST>
+      <LICNO>3153800644</LICNO>
+      <SS>竹面譜</SS>
+      <ADR>九龍新蒲崗仁愛街40號地下</ADR>
+      <INFO></INFO>
+      <EXPDATE>2027-10-23</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
