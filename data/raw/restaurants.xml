@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-14</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-15</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -18646,15 +18646,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>94</DIST>
-      <LICNO>2294801620</LICNO>
-      <SS>薄荷葉泰國菜</SS>
-      <ADR>新界元朗安駿里2號怡康大廈地下12及13號鋪及鋪前露天座位</ADR>
-      <INFO>#A</INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
       <LICNO>2294801736</LICNO>
       <SS>天天雞煲火鍋專門店</SS>
       <ADR>新界元朗福田徑2-16號樂富大廈地下11號鋪</ADR>
@@ -21135,15 +21126,6 @@
       <ADR>新界天水圍天瑞邨1期及2期天瑞商場地下G15號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-25</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2294807947</LICNO>
-      <SS>SEASON</SS>
-      <ADR>新界元朗裕榮徑11號好旺洋樓地下5號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -37582,15 +37564,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>62</DIST>
-      <LICNO>2262213806</LICNO>
-      <SS>黔營羊肉粉</SS>
-      <ADR>九龍旺角通菜街84-86號利群大樓地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>62</DIST>
       <LICNO>2262215592</LICNO>
       <SS>McDonald&apos;s</SS>
       <ADR>九龍荔枝角道150-174號萬盛閣地下1號舖</ADR>
@@ -39841,24 +39814,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>62</DIST>
-      <LICNO>2262811123</LICNO>
-      <SS>椰香閣餐廳</SS>
-      <ADR>九龍旺角通菜街83號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>62</DIST>
-      <LICNO>2262811132</LICNO>
-      <SS>妹記大排檔</SS>
-      <ADR>九龍旺角通菜街1A-1L號威達商業大廈2樓2B鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>62</DIST>
       <LICNO>2262811178</LICNO>
       <SS>譚仔雲南米線</SS>
       <ADR>九龍旺角海庭路2號海富商場地下8&amp;9號鋪</ADR>
@@ -40737,15 +40692,6 @@
       <ADR>九龍旺角花園街239號嘉慶苑地下A舖</ADR>
       <INFO>#G</INFO>
       <EXPDATE>2027-11-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>62</DIST>
-      <LICNO>2262812913</LICNO>
-      <SS>香港站餐廳小廚</SS>
-      <ADR>九龍旺角水渠道20號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -45021,15 +44967,6 @@
       <ADR>香港鰂魚涌 英皇道969及971號及 糖廠街1號, 3號及5號 英皇大廈地下H號及I號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-03</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>11</DIST>
-      <LICNO>2211119177</LICNO>
-      <SS>翠湖海鮮酒家</SS>
-      <ADR>香港筲箕灣 筲箕灣道360號A 筲箕灣天悅廣場 地下低層10號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -81817,15 +81754,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>12</DIST>
-      <LICNO>2212816099</LICNO>
-      <SS>泰一</SS>
-      <ADR>香港天后銀幕街23號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
       <LICNO>2212816114</LICNO>
       <SS>合和荳品</SS>
       <ADR>香港銅鑼灣霎東街4號地下</ADR>
@@ -116620,15 +116548,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3118809732</LICNO>
-      <SS>BRASS SPOON</SS>
-      <ADR>香港上環歌賦街47號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3118809741</LICNO>
       <SS>旅窩</SS>
       <ADR>香港中環鴨巴甸街42號地下及閣樓</ADR>
@@ -132703,15 +132622,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>11</DIST>
-      <LICNO>3111803577</LICNO>
-      <SS>MOVIE MOVIE Cinema</SS>
-      <ADR>香港太古城太古城道18號太古城中心1期5樓部份 及電影院部份A</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>11</DIST>
       <LICNO>3111803586</LICNO>
       <SS>好好便當</SS>
       <ADR>香港北角英皇道937號麗池花園D1座地下C舖</ADR>
@@ -138468,15 +138378,6 @@
       <ADR>九龍油麻地彌敦道575號 LADDER DUNDAS 20樓</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-18</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>61</DIST>
-      <LICNO>3161809516</LICNO>
-      <SS>沒有中文記錄</SS>
-      <ADR>九龍尖沙咀梳士巴利道 半島酒店地庫一樓 BL1舖(A部份)及BL2舖(B部份)</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -145492,15 +145393,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>12</DIST>
-      <LICNO>3112809581</LICNO>
-      <SS>Pan de Pain</SS>
-      <ADR>香港銅鑼灣勿地臣街1號 時代廣場第2層地庫B215鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
       <LICNO>3112809606</LICNO>
       <SS>SICK BURGER CWB HAVEN</SS>
       <ADR>香港希雲街31號地下</ADR>
@@ -152373,15 +152265,6 @@
       <ADR>九龍觀塘協和街33號裕民坊3樓307舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-28</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>51</DIST>
-      <LICNO>3151803214</LICNO>
-      <SS>地茂館甜品</SS>
-      <ADR>九龍牛頭角道77號淘大花園淘大商場3期地下G281號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>

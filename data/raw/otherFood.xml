@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-14</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-15</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -79466,15 +79466,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>92</DIST>
-      <LICNO>2992810296</LICNO>
-      <SS>陽光(國際)食品有限公司</SS>
-      <ADR>新界荃灣德士古道178-182號山德士中心5樓部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>92</DIST>
       <LICNO>2992810311</LICNO>
       <SS>華御結</SS>
       <ADR>新界荃灣深井青山公路41-63號麗都花園麗都大道地下5B舖</ADR>
@@ -85132,15 +85123,6 @@
       <ADR>新界葵涌昌榮路9-11號同珍工業大廈第一期A座20樓C室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>91</DIST>
-      <LICNO>2991807165</LICNO>
-      <SS>港森泰有限公司</SS>
-      <ADR>新界葵涌葵德街16-26號金德工業大廈一座4樓26室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -123368,15 +123350,6 @@
     <LP>
       <TYPE>FP</TYPE>
       <DIST>96</DIST>
-      <LICNO>3696801502</LICNO>
-      <SS>海日</SS>
-      <ADR>新界粉嶺皇后山邨皇后山商場街市P1樓   MK-31 及 MK-44號檔</ADR>
-      <INFO>#R#S</INFO>
-      <EXPDATE>2026-11-15</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>96</DIST>
       <LICNO>3696801511</LICNO>
       <SS>實惠肉食專門店</SS>
       <ADR>新界粉嶺皇后山邨皇后山商場街市P1樓 MK-46 及 MK-47號檔</ADR>
@@ -135468,7 +135441,7 @@
       <SS>順昌肉食公司</SS>
       <ADR>九龍發祥街9-11號家家發大廈1號地舖</ADR>
       <INFO></INFO>
-      <EXPDATE>2026-11-18</EXPDATE>
+      <EXPDATE>2027-11-18</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
