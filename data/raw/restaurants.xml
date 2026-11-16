@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-15</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-16</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -8557,15 +8557,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>18</DIST>
-      <LICNO>2218818334</LICNO>
-      <SS>米炊</SS>
-      <ADR>香港中環港景街1號國際金融中心商場2樓2016鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
       <LICNO>2218818352</LICNO>
       <SS>BAR LEONE</SS>
       <ADR>香港中環必列者士街1-17號及 荷李活道108號聚賢居3樓2及3號鋪</ADR>
@@ -9173,7 +9164,7 @@
       <SS>西城東北菜</SS>
       <ADR>香港堅尼地城吉席街18號 地下A,B,C鋪</ADR>
       <INFO></INFO>
-      <EXPDATE>2027-01-19</EXPDATE>
+      <EXPDATE>2028-01-19</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -12090,15 +12081,6 @@
       <ADR>九龍紅磡明安街25地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-03</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>52</DIST>
-      <LICNO>2252800968</LICNO>
-      <SS>湖南少奶</SS>
-      <ADR>九龍城衙前圍道54號地下</ADR>
-      <INFO>#G</INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -20244,15 +20226,6 @@
       <ADR>新界元朗朗屏路1號朗屏邨朗屏商場2樓L207號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-06</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>94</DIST>
-      <LICNO>2294805914</LICNO>
-      <SS>裕富鎧特式餐廳</SS>
-      <ADR>新界元朗錦田錦田公路吉慶圍172號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -34063,15 +34036,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>93</DIST>
-      <LICNO>2293803896</LICNO>
-      <SS>吉野家</SS>
-      <ADR>新界屯門河傍街141-145號及青賢街2A-2I號 屯門鄉事會路117-157號康麗花園地下2及3號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>93</DIST>
       <LICNO>2293803902</LICNO>
       <SS>爭鮮迴轉壽司</SS>
       <ADR>新界屯門湖翠路一號蝴蝶廣場第二層R208號鋪</ADR>
@@ -35877,15 +35841,6 @@
       <ADR>新界屯門屯門鄉事會路28-38號冠興樓地下E號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-27</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>93</DIST>
-      <LICNO>2293807117</LICNO>
-      <SS>再來一鍋</SS>
-      <ADR>新界屯門河傍街146號美基樓地下B鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -49710,15 +49665,6 @@
       <ADR>香港北角渣華道3-5A號 永光閣部份地下及一樓</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-05</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>11</DIST>
-      <LICNO>2211810863</LICNO>
-      <SS>JELLO &amp; MELLOW</SS>
-      <ADR>香港鰂魚涌英皇道1001號 9樓901及902號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -89881,15 +89827,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>92</DIST>
-      <LICNO>2292806001</LICNO>
-      <SS>金鳳大餐廳</SS>
-      <ADR>新界荃灣青山公路388號地下G1鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>92</DIST>
       <LICNO>2292806010</LICNO>
       <SS>新生記粥店</SS>
       <ADR>新界荃灣沙咀道238號地下H舖</ADR>
@@ -95416,15 +95353,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>91</DIST>
-      <LICNO>2291804576</LICNO>
-      <SS>花莉廚房</SS>
-      <ADR>新界青衣涌美道涌美老屋村136號地下(部份)</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>91</DIST>
       <LICNO>2291804585</LICNO>
       <SS>元氣壽司</SS>
       <ADR>新界葵涌葵義路2-10號 好爵中心43號鋪(部份)及地下44-48號鋪</ADR>
@@ -99687,15 +99615,6 @@
       <ADR>新界西貢將軍澳坑口村6A號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-18</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>98</DIST>
-      <LICNO>2298806942</LICNO>
-      <SS>吉野家</SS>
-      <ADR>新界西貢將軍澳   都會駅 2樓L2-R04鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -108385,15 +108304,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>17</DIST>
-      <LICNO>2217801548</LICNO>
-      <SS>松坂壽司麵食鐵板燒</SS>
-      <ADR>香港大嶼山昂坪昂坪市集6及7B號舖</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>17</DIST>
       <LICNO>2217801557</LICNO>
       <SS>香港地</SS>
       <ADR>香港大嶼山東堤灣畔第三座地下25號舖</ADR>
@@ -109182,15 +109092,6 @@
       <ADR>香港大嶼山東涌健東路1號映灣園映灣薈 平台1樓29及30號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>17</DIST>
-      <LICNO>2217803155</LICNO>
-      <SS>CABANA BREEZE</SS>
-      <ADR>香港大嶼山東涌怡東路9號喜來登酒店G12-G15號舖</ADR>
-      <INFO>#F</INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -113578,15 +113479,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3113141017</LICNO>
-      <SS>三多麵食</SS>
-      <ADR>香港中環 砵典乍街30號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3113147158</LICNO>
       <SS>BRKLYN PIZZA CO.</SS>
       <ADR>香港中環 士丹頓街19號地庫及 舖前空地的露天座位</ADR>
@@ -116548,15 +116440,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>18</DIST>
-      <LICNO>3118809741</LICNO>
-      <SS>旅窩</SS>
-      <ADR>香港中環鴨巴甸街42號地下及閣樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
       <LICNO>3118809750</LICNO>
       <SS>(沒有記錄)</SS>
       <ADR>香港中環荷李活道23號金珀苑2樓</ADR>
@@ -117246,15 +117129,6 @@
       <ADR>香港中環卑利街49號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-06</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>18</DIST>
-      <LICNO>3118811030</LICNO>
-      <SS>MAGGIE CHOOS</SS>
-      <ADR>香港中環荷李活道1-13號 華懋荷李活中心地下1鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -123136,15 +123010,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>94</DIST>
-      <LICNO>3194803402</LICNO>
-      <SS>新德園正宗手打魚蛋大王</SS>
-      <ADR>新界元朗谷亭街5號傑文樓地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>94</DIST>
       <LICNO>3194803411</LICNO>
       <SS>小鍋米線</SS>
       <ADR>新界天水圍天秀路8號2樓2009號鋪</ADR>
@@ -126291,15 +126156,6 @@
       <ADR>新界大埔 優景里63號 SILICON LANE  地下 13號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-09</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>95</DIST>
-      <LICNO>3195801786</LICNO>
-      <SS>客家鹹雞</SS>
-      <ADR>新界大埔富善街62號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -144835,15 +144691,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>12</DIST>
-      <LICNO>3112808533</LICNO>
-      <SS>Tippler Restaurant</SS>
-      <ADR>香港銅鑼灣告士打道229-230號宇宙商業大廈17樓</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>12</DIST>
       <LICNO>3112808560</LICNO>
       <SS>Oma Coffee</SS>
       <ADR>香港大坑浣紗街9號地下</ADR>
@@ -147796,15 +147643,6 @@
     <LP>
       <TYPE>RR</TYPE>
       <DIST>92</DIST>
-      <LICNO>3192802715</LICNO>
-      <SS>丹丘蒸留所</SS>
-      <ADR>新界荃灣白田壩街45號南豐紗廠3樓301室</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>92</DIST>
       <LICNO>3192802724</LICNO>
       <SS>Kokoro Tokyo Mazesoba</SS>
       <ADR>新界荃灣大河道100號海之戀商場1樓1005號鋪</ADR>
@@ -148665,15 +148503,6 @@
       <ADR>新界葵涌 和宜合道82號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-03-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>91</DIST>
-      <LICNO>3191000464</LICNO>
-      <SS>酸．辣．燙</SS>
-      <ADR>新界葵涌葵涌道1001號 德昌大廈地下24號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
@@ -153759,15 +153588,6 @@
       <ADR>新界長洲新街市里6號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-08-14</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>17</DIST>
-      <LICNO>3117800871</LICNO>
-      <SS>大澳小食</SS>
-      <ADR>新界大嶼山大澳吉慶街70號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-16</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
