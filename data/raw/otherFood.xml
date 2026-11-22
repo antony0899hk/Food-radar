@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-21</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-22</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -892,15 +892,6 @@
       <ADR>新界大埔安邦路9號 大埔購物中心第6期 1樓 527-530 號舖</ADR>
       <INFO></INFO>
       <EXPDATE>2027-09-19</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FB</TYPE>
-      <DIST>95</DIST>
-      <LICNO>2195000232</LICNO>
-      <SS>名都餅店</SS>
-      <ADR>新界大埔大埔廣場第一層9號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>FB</TYPE>
@@ -4123,15 +4114,6 @@
       <ADR>新界荃灣德士古道178-182號山德士中心9樓和10樓</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-13</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FC</TYPE>
-      <DIST>92</DIST>
-      <LICNO>2892800160</LICNO>
-      <SS>永祥物流聯網有限公司</SS>
-      <ADR>新界荃灣柴灣角街66-82號金熊工業中心地下A倉</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>FC</TYPE>
@@ -53442,7 +53424,7 @@
       <SS>先進食品國際有限公司</SS>
       <ADR>新界沙田火炭坳背灣街38-40號華衛工貿中心8樓6號室</ADR>
       <INFO></INFO>
-      <EXPDATE>2027-01-20</EXPDATE>
+      <EXPDATE>2028-01-20</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -97556,15 +97538,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>51</DIST>
-      <LICNO>2951808801</LICNO>
-      <SS>厚興瑜記</SS>
-      <ADR>九龍觀塘協和街 169,171,173&amp;177-197號(單號)及 瑞和街138-164號(雙號) 合和大廈地下1C鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
       <LICNO>2951808810</LICNO>
       <SS>賞茶</SS>
       <ADR>九龍九龍灣德福廣場II期4樓418號鋪</ADR>
@@ -110957,15 +110930,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>53</DIST>
-      <LICNO>2953805842</LICNO>
-      <SS>賞樂環球食品有限公司</SS>
-      <ADR>九龍新蒲崗五芳街10號新寶中心17樓2鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>53</DIST>
       <LICNO>2953805860</LICNO>
       <SS>包點料理</SS>
       <ADR>九龍新蒲崗爵祿街42號地下</ADR>
@@ -122527,15 +122491,6 @@
       <ADR>新界元朗  元朗安寧路47/49號同樂街31號   安樂樓  地下 2A號舖部份</ADR>
       <INFO>#R</INFO>
       <EXPDATE>2027-05-19</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>96</DIST>
-      <LICNO>3696000109</LICNO>
-      <SS>生記</SS>
-      <ADR>新界上水 新康街63D 地下1號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>

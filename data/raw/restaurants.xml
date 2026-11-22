@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-21</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-22</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="RL">普通食肆牌照</CODE>
@@ -2334,15 +2334,6 @@
       <ADR>香港中環威靈頓街99號威基商業中心地下低層D鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-17</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2218804322</LICNO>
-      <SS>越北牛肉粉專門店</SS>
-      <ADR>香港皇后大道西389-391號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -38761,15 +38752,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>62</DIST>
-      <LICNO>2262808619</LICNO>
-      <SS>貴族甜品</SS>
-      <ADR>九龍大角咀角祥街52號埃華街88-102號 大同新村大全樓P座地下3A鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>62</DIST>
       <LICNO>2262808628</LICNO>
       <SS>潮豐園麵家</SS>
       <ADR>九龍大角咀埃華街93號地下</ADR>
@@ -65455,15 +65437,6 @@
     <LP>
       <TYPE>RL</TYPE>
       <DIST>61</DIST>
-      <LICNO>2261819935</LICNO>
-      <SS>聚點</SS>
-      <ADR>九龍佐敦炮台街29號地下前舖及炮台街31號 地舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>61</DIST>
       <LICNO>2261819953</LICNO>
       <SS>富豪會</SS>
       <ADR>九龍佐敦吳松街182號榮國中心2樓</ADR>
@@ -78924,15 +78897,6 @@
       <ADR>香港灣仔軒尼詩道314-324號W SQUARE三樓</ADR>
       <INFO>#E</INFO>
       <EXPDATE>2027-11-20</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RL</TYPE>
-      <DIST>12</DIST>
-      <LICNO>2212807851</LICNO>
-      <SS>Long Fung Restaurant</SS>
-      <ADR>香港灣仔麥加力歌街1號地下</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RL</TYPE>
@@ -123042,15 +123006,6 @@
       <ADR>新界元朗西堤街19號地下</ADR>
       <INFO></INFO>
       <EXPDATE>2027-10-11</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>RR</TYPE>
-      <DIST>94</DIST>
-      <LICNO>3194803411</LICNO>
-      <SS>小鍋米線</SS>
-      <ADR>新界天水圍天秀路8號2樓2009號鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-22</EXPDATE>
     </LP>
     <LP>
       <TYPE>RR</TYPE>
