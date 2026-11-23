@@ -1,6 +1,6 @@
 <DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DEPARTMENT>食物環境衞生署</DEPARTMENT>
-  <GENERATION_DATE>2026-11-22</GENERATION_DATE>
+  <GENERATION_DATE>2026-11-23</GENERATION_DATE>
   <LINK>http://www.fehd.gov.hk</LINK>
   <TYPE_CODE>
     <CODE ID="CL">綜合食物店牌照</CODE>
@@ -7151,15 +7151,6 @@
     <LP>
       <TYPE>FE</TYPE>
       <DIST>51</DIST>
-      <LICNO>2551214565</LICNO>
-      <SS>大豐澳門翠苑餐廳</SS>
-      <ADR>九龍九龍灣 宏冠道8號金漢工業大廈地下1號</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FE</TYPE>
-      <DIST>51</DIST>
       <LICNO>2551226793</LICNO>
       <SS>巷仔內</SS>
       <ADR>九龍觀塘 觀塘道436-446號觀塘工業中心第4期1樓C室</ADR>
@@ -11449,15 +11440,6 @@
       <ADR>香港德輔道西316-320號 地下A室</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-08</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>18</DIST>
-      <LICNO>2918809388</LICNO>
-      <SS>Seafood Society</SS>
-      <ADR>香港堅尼地城域多利道64號 廣基工廠大廈17樓E室A部份</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -49262,15 +49244,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>11</DIST>
-      <LICNO>2911812796</LICNO>
-      <SS>Rose Home Kitchen</SS>
-      <ADR>香港筲箕灣筲箕灣道50-54號 陽安大廈地下9號舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>11</DIST>
       <LICNO>2911812811</LICNO>
       <SS>UNCLE BEN COFFEE ROASTER LIMITED</SS>
       <ADR>香港北角京華道9-27號 富利來大廈地下7號鋪</ADR>
@@ -58861,15 +58834,6 @@
       <ADR>新界沙田小瀝源路68號廣源邨停車場大樓 1座5樓廣源市場S-KY73號鋪</ADR>
       <INFO></INFO>
       <EXPDATE>2027-11-19</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>97</DIST>
-      <LICNO>2997815074</LICNO>
-      <SS>菊一</SS>
-      <ADR>新界沙田石門安群街1號京瑞廣場二期1樓118A2號鋪</ADR>
-      <INFO>#G#H</INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
     </LP>
     <LP>
       <TYPE>FF</TYPE>
@@ -104306,15 +104270,6 @@
     <LP>
       <TYPE>FF</TYPE>
       <DIST>51</DIST>
-      <LICNO>2951819647</LICNO>
-      <SS>蛋白先生</SS>
-      <ADR>九龍觀塘觀塘道396號毅力工業中心地下R1舖</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FF</TYPE>
-      <DIST>51</DIST>
       <LICNO>2951819656</LICNO>
       <SS>(沒有記錄)</SS>
       <ADR>九龍觀塘鴻圖道28A號德信工業大廈G/F.09工場</ADR>
@@ -129902,15 +129857,6 @@
     <LP>
       <TYPE>FP</TYPE>
       <DIST>11</DIST>
-      <LICNO>3611803785</LICNO>
-      <SS>三哥食品市場</SS>
-      <ADR>香港小西灣小西灣道23號 富怡花園地下56-62號舖部份</ADR>
-      <INFO>#R#S</INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>11</DIST>
       <LICNO>3611803794</LICNO>
       <SS>壹品鮮</SS>
       <ADR>香港筲箕灣南安街1-7號 嘉裕大廈地下A3號舖 (A部份)</ADR>
@@ -132634,15 +132580,6 @@
       <ADR>新界沙田禾輋邨(商業/停車場大樓之構成部份)(又稱禾輋邨廣場 ) 商業中心街市地下M52, M53 及 M54號檔位</ADR>
       <INFO>#R#S</INFO>
       <EXPDATE>2027-10-16</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>97</DIST>
-      <LICNO>3697805954</LICNO>
-      <SS>壹品鮮</SS>
-      <ADR>新界沙田大圍積輝街1-5號金輝花園地下R鋪</ADR>
-      <INFO></INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
@@ -137143,15 +137080,6 @@
       <ADR>新界荃灣新村街54號地下次要部分</ADR>
       <INFO>#R</INFO>
       <EXPDATE>2027-10-31</EXPDATE>
-    </LP>
-    <LP>
-      <TYPE>FP</TYPE>
-      <DIST>92</DIST>
-      <LICNO>3692802312</LICNO>
-      <SS>銳興超市</SS>
-      <ADR>新界荃灣楊屋道67號地下部份</ADR>
-      <INFO>#R#S</INFO>
-      <EXPDATE>2026-11-23</EXPDATE>
     </LP>
     <LP>
       <TYPE>FP</TYPE>
